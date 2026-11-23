@@ -1,0 +1,34 @@
+[
+    {
+        "stageIndex": 2,
+        "songIndex": 0,
+        "name": "(1) C02 - Moonlight",
+        "songPath": "./Songs/11-EXCEED~ZERO/(1) C02 - Moonlight",
+        "banner": null,
+        "sscPath": "./Songs/11-EXCEED~ZERO/(1) C02 - Moonlight/C02 - Moonlight.ssc"
+    },
+    {
+        "stageIndex": 1,
+        "songIndex": 2,
+        "name": "(2) 711 - Winter",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter/711 - Winter.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 2,
+        "name": "(3) 516 - Slam",
+        "songPath": "./Songs/08-1ST~PERF/(3) 516 - Slam",
+        "banner": null,
+        "sscPath": "./Songs/08-1ST~PERF/(3) 516 - Slam/516 - Slam.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 53,
+        "name": "16A5 - Harmagedon",
+        "songPath": "./Songs/19-XX/16A5 - Harmagedon",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+    }
+]

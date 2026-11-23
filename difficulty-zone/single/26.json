@@ -1,0 +1,26 @@
+[
+    {
+        "stageIndex": 7,
+        "songIndex": 22,
+        "name": "1542 - ESCAPE",
+        "songPath": "./Songs/18-PRIME 2/1542 - ESCAPE",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1542 - ESCAPE/1542 - ESCAPE.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 34,
+        "name": "18036.3 - 1948",
+        "songPath": "./Songs/21-PHOENIX/18036.3 - 1948",
+        "banner": "./Songs/21-PHOENIX/18036.3 - 1948/1948.png",
+        "sscPath": "./Songs/21-PHOENIX/18036.3 - 1948/1948.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 38,
+        "name": "18039 - Solfeggietto",
+        "songPath": "./Songs/21-PHOENIX/18039 - Solfeggietto",
+        "banner": "./Songs/21-PHOENIX/18039 - Solfeggietto/16A8.png",
+        "sscPath": "./Songs/21-PHOENIX/18039 - Solfeggietto/16A8 - Solfeggietto.ssc"
+    }
+]

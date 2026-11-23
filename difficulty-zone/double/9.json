@@ -1,0 +1,322 @@
+[
+    {
+        "stageIndex": 5,
+        "songIndex": 2,
+        "name": "(2) 1235 - Utopia",
+        "songPath": "./Songs/16-FIESTA 2/(2) 1235 - Utopia",
+        "banner": null,
+        "sscPath": "./Songs/16-FIESTA 2/(2) 1235 - Utopia/1235 - Utopia.ssc"
+    },
+    {
+        "stageIndex": 1,
+        "songIndex": 1,
+        "name": "(2) 708 - Point Break",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break/708 - Point Break.ssc"
+    },
+    {
+        "stageIndex": 3,
+        "songIndex": 0,
+        "name": "1017 - Vacuum",
+        "songPath": "./Songs/14-FIESTA/1017 - Vacuum",
+        "banner": null,
+        "sscPath": "./Songs/14-FIESTA/1017 - Vacuum/1017 - Vacuum.ssc"
+    },
+    {
+        "stageIndex": 6,
+        "songIndex": 3,
+        "name": "1474 - Moment Day",
+        "songPath": "./Songs/17-PRIME/1474 - Moment Day",
+        "banner": null,
+        "sscPath": "./Songs/17-PRIME/1474 - Moment Day/1474 - Moment Day.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 2,
+        "name": "1503 - Hellfire",
+        "songPath": "./Songs/18-PRIME 2/1503 - Hellfire",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1503 - Hellfire/1503 - Hellfire.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 3,
+        "name": "1505 - CROSS OVER feat. LyuU",
+        "songPath": "./Songs/18-PRIME 2/1505 - CROSS OVER feat. LyuU",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1505 - CROSS OVER feat. LyuU/1505 - CROSS OVER feat. LyuU.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 4,
+        "name": "1507 - God Mode feat. skizzo",
+        "songPath": "./Songs/18-PRIME 2/1507 - God Mode feat. skizzo",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1507 - God Mode feat. skizzo/1507 - God Mode feat. skizzo.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 13,
+        "name": "1529 - Anguished Unmaking",
+        "songPath": "./Songs/18-PRIME 2/1529 - Anguished Unmaking",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1529 - Anguished Unmaking/1529 - Anguished Unmaking.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 18,
+        "name": "1538 - Up & Up (Produced by AWAL)",
+        "songPath": "./Songs/18-PRIME 2/1538 - Up & Up (Produced by AWAL)",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1538 - Up & Up (Produced by AWAL)/1538 -  Up & Up (Produced by AWAL).ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 19,
+        "name": "1539 - Travel to Future",
+        "songPath": "./Songs/18-PRIME 2/1539 - Travel to Future",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1539 - Travel to Future/1539 - Travel to Future.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 21,
+        "name": "1541 - Awakening",
+        "songPath": "./Songs/18-PRIME 2/1541 - Awakening",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1541 - Awakening/1541 - Awakening.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 23,
+        "name": "1543 - Waltz of Doge",
+        "songPath": "./Songs/18-PRIME 2/1543 - Waltz of Doge",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1543 - Waltz of Doge/1543 - Waltz of Doge.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 34,
+        "name": "1576 - Just Kiddin",
+        "songPath": "./Songs/18-PRIME 2/1576 - Just Kiddin",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1576 - Just Kiddin/1576 - Just Kiddin.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 37,
+        "name": "1593 - V3",
+        "songPath": "./Songs/18-PRIME 2/1593 - V3",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1593 - V3/1593 - V3.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 45,
+        "name": "15A8 - Christmas Memories",
+        "songPath": "./Songs/18-PRIME 2/15A8 - Christmas Memories",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/15A8 - Christmas Memories/15A8 - Christmas Memories.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 46,
+        "name": "15A9 - Keep On!",
+        "songPath": "./Songs/18-PRIME 2/15A9 - Keep On!",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/15A9 - Keep On!/15A9 - Keep On!.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 48,
+        "name": "15B1 - Le Grand Bleu",
+        "songPath": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu/15B1 - Le Grand Bleu.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 2,
+        "name": "1607 - JANUS",
+        "songPath": "./Songs/19-XX/1607 - JANUS",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1607 - JANUS/1607 - JANUS.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 8,
+        "name": "1620 - %X (Percent X)",
+        "songPath": "./Songs/19-XX/1620 - %X (Percent X)",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1620 - %X (Percent X)/1620 - %X (Percent X).ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 11,
+        "name": "1624 - Macaron Day",
+        "songPath": "./Songs/19-XX/1624 - Macaron Day",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1624 - Macaron Day/1624 - Macaron Day.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 13,
+        "name": "1628 - VANISH",
+        "songPath": "./Songs/19-XX/1628 - VANISH",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1628 - VANISH/1628 - VANISH.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 15,
+        "name": "1630 - Kimchi Fingers",
+        "songPath": "./Songs/19-XX/1630 - Kimchi Fingers",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1630 - Kimchi Fingers/1630 - Kimchi Fingers.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 28,
+        "name": "1665 - King of Sales",
+        "songPath": "./Songs/19-XX/1665 - King of Sales",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1665 - King of Sales/1665 - King of Sales.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 29,
+        "name": "1670 - 8 6",
+        "songPath": "./Songs/19-XX/1670 - 8 6",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1670 - 8 6/1670 - 8 6.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 46,
+        "name": "1696 - POINT ZERO 2",
+        "songPath": "./Songs/19-XX/1696 - POINT ZERO 2",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1696 - POINT ZERO 2/1696 - POINT ZERO 2.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 55,
+        "name": "16B1 - Mopemope",
+        "songPath": "./Songs/19-XX/16B1 - Mopemope",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/16B1 - Mopemope/16B1 - Mopemope.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 57,
+        "name": "16B3 - CROSS RAY (feat. Lia)",
+        "songPath": "./Songs/19-XX/16B3 - CROSS RAY (feat. Lia)",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/16B3 - CROSS RAY (feat. Lia)/16B3 - CROSS RAY (feat. Lia).ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 58,
+        "name": "16B4 - Cygnus",
+        "songPath": "./Songs/19-XX/16B4 - Cygnus",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/16B4 - Cygnus/16B4 - Cygnus.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 59,
+        "name": "16B5 - Tropicanic",
+        "songPath": "./Songs/19-XX/16B5 - Tropicanic",
+        "banner": "./Songs/19-XX/16B5 - Tropicanic/16B5_Phoenix.png",
+        "sscPath": "./Songs/19-XX/16B5 - Tropicanic/16B5 - Tropicanic.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 18,
+        "name": "18000 - VECTOR",
+        "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",
+        "banner": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.png",
+        "sscPath": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 19,
+        "name": "18005 - Versailles",
+        "songPath": "./Songs/21-PHOENIX/18005 - Versailles",
+        "banner": "./Songs/21-PHOENIX/18005 - Versailles/Versailles.png",
+        "sscPath": "./Songs/21-PHOENIX/18005 - Versailles/Versailles.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 32,
+        "name": "18035 - Etude Op 10-4",
+        "songPath": "./Songs/21-PHOENIX/18035 - Etude Op 10-4",
+        "banner": "./Songs/21-PHOENIX/18035 - Etude Op 10-4/Etude Op 10-4.png",
+        "sscPath": "./Songs/21-PHOENIX/18035 - Etude Op 10-4/Etude Op 10-4.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 37,
+        "name": "18037 - Lacrimosa",
+        "songPath": "./Songs/21-PHOENIX/18037 - Lacrimosa",
+        "banner": "./Songs/21-PHOENIX/18037 - Lacrimosa/Lacrimosa.png",
+        "sscPath": "./Songs/21-PHOENIX/18037 - Lacrimosa/Lacrimosa.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 43,
+        "name": "18044 - Yo! Say!! Fairy!!!",
+        "songPath": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!",
+        "banner": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!/16B3.png",
+        "sscPath": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!/16B3 - Yo! Say!! Fairy!!!.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 51,
+        "name": "18048 - Appassionata",
+        "songPath": "./Songs/21-PHOENIX/18048 - Appassionata",
+        "banner": "./Songs/21-PHOENIX/18048 - Appassionata/Appassionata.png",
+        "sscPath": "./Songs/21-PHOENIX/18048 - Appassionata/Appassionata.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 53,
+        "name": "18049 - Curiosity Overdrive",
+        "songPath": "./Songs/21-PHOENIX/18049 - Curiosity Overdrive",
+        "banner": "./Songs/21-PHOENIX/18049 - Curiosity Overdrive/Curiosity Overdrive.png",
+        "sscPath": "./Songs/21-PHOENIX/18049 - Curiosity Overdrive/Curiosity Overdrive.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 74,
+        "name": "18120 - Amor Fati",
+        "songPath": "./Songs/21-PHOENIX/18120 - Amor Fati",
+        "banner": "./Songs/21-PHOENIX/18120 - Amor Fati/Amor Fati.png",
+        "sscPath": "./Songs/21-PHOENIX/18120 - Amor Fati/Amor Fati.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 81,
+        "name": "18130 - Beautiful Liar",
+        "songPath": "./Songs/21-PHOENIX/18130 - Beautiful Liar",
+        "banner": "./Songs/21-PHOENIX/18130 - Beautiful Liar/Beautiful Liar.png",
+        "sscPath": "./Songs/21-PHOENIX/18130 - Beautiful Liar/Beautiful Liar.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 87,
+        "name": "18200 - GOODTEK",
+        "songPath": "./Songs/21-PHOENIX/18200 - GOODTEK",
+        "banner": "./Songs/21-PHOENIX/18200 - GOODTEK/GOODTEK.png",
+        "sscPath": "./Songs/21-PHOENIX/18200 - GOODTEK/GOODTEK.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 92,
+        "name": "18225 - Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI",
+        "songPath": "./Songs/21-PHOENIX/18225 - Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI",
+        "banner": "./Songs/21-PHOENIX/18225 - Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI/Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI.png",
+        "sscPath": "./Songs/21-PHOENIX/18225 - Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI/Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI.ssc"
+    }
+]

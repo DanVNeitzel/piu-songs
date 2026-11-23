@@ -1,0 +1,714 @@
+[
+    {
+        "stageIndex": 5,
+        "songIndex": 1,
+        "name": "(1) 1310 - Unique",
+        "songPath": "./Songs/16-FIESTA 2/(1) 1310 - Unique",
+        "banner": null,
+        "sscPath": "./Songs/16-FIESTA 2/(1) 1310 - Unique/1310 - Unique.ssc"
+    },
+    {
+        "stageIndex": 2,
+        "songIndex": 0,
+        "name": "(1) C02 - Moonlight",
+        "songPath": "./Songs/11-EXCEED~ZERO/(1) C02 - Moonlight",
+        "banner": null,
+        "sscPath": "./Songs/11-EXCEED~ZERO/(1) C02 - Moonlight/C02 - Moonlight.ssc"
+    },
+    {
+        "stageIndex": 5,
+        "songIndex": 2,
+        "name": "(2) 1235 - Utopia",
+        "songPath": "./Songs/16-FIESTA 2/(2) 1235 - Utopia",
+        "banner": null,
+        "sscPath": "./Songs/16-FIESTA 2/(2) 1235 - Utopia/1235 - Utopia.ssc"
+    },
+    {
+        "stageIndex": 1,
+        "songIndex": 0,
+        "name": "(2) 701 - Dr. M",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 701 - Dr. M",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 701 - Dr. M/701 - Dr. M.ssc"
+    },
+    {
+        "stageIndex": 1,
+        "songIndex": 1,
+        "name": "(2) 708 - Point Break",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break/708 - Point Break.ssc"
+    },
+    {
+        "stageIndex": 1,
+        "songIndex": 2,
+        "name": "(2) 711 - Winter",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter/711 - Winter.ssc"
+    },
+    {
+        "stageIndex": 1,
+        "songIndex": 3,
+        "name": "(2) 718 - Dance With Me",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 718 - Dance With Me",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 718 - Dance With Me/718 - Dance With Me.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 0,
+        "name": "(3) 503 - Rolling Christmas",
+        "songPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas",
+        "banner": null,
+        "sscPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas/503 - Rolling Christmas.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 2,
+        "name": "(3) 516 - Slam",
+        "songPath": "./Songs/08-1ST~PERF/(3) 516 - Slam",
+        "banner": null,
+        "sscPath": "./Songs/08-1ST~PERF/(3) 516 - Slam/516 - Slam.ssc"
+    },
+    {
+        "stageIndex": 2,
+        "songIndex": 1,
+        "name": "(3) A05 - Pump Me Amadeus",
+        "songPath": "./Songs/11-EXCEED~ZERO/(3) A05 - Pump Me Amadeus",
+        "banner": null,
+        "sscPath": "./Songs/11-EXCEED~ZERO/(3) A05 - Pump Me Amadeus/A05 - Pump Me Amadeus.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 9,
+        "name": "1516 - Sarabande",
+        "songPath": "./Songs/18-PRIME 2/1516 - Sarabande",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1516 - Sarabande/1516 - Sarabande.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 17,
+        "name": "1537 - HTTP",
+        "songPath": "./Songs/18-PRIME 2/1537 - HTTP",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1537 - HTTP/1537 - HTTP.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 26,
+        "name": "1552 - SOBER",
+        "songPath": "./Songs/18-PRIME 2/1552 - SOBER",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1552 - SOBER/1552 - SOBER.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 27,
+        "name": "1553 - Up & Down",
+        "songPath": "./Songs/18-PRIME 2/1553 - Up & Down",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1553 - Up & Down/1553 - Up & Down.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 31,
+        "name": "1562 - REALLY REALLY",
+        "songPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY/1562 - REALLY REALLY.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 10,
+        "name": "1623 - CARMEN BUS",
+        "songPath": "./Songs/19-XX/1623 - CARMEN BUS",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1623 - CARMEN BUS/1623 - CARMEN BUS.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 21,
+        "name": "1644 - Timing",
+        "songPath": "./Songs/19-XX/1644 - Timing",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1644 - Timing/1644 - Timing.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 23,
+        "name": "1649 - NEKKOYA (PICK ME)",
+        "songPath": "./Songs/19-XX/1649 - NEKKOYA (PICK ME)",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1649 - NEKKOYA (PICK ME)/1649 - NEKKOYA (PICK ME).ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 24,
+        "name": "1656 - Rooftop",
+        "songPath": "./Songs/19-XX/1656 - Rooftop",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1656 - Rooftop/1656 - Rooftop.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 27,
+        "name": "1663 - GOOD BYE",
+        "songPath": "./Songs/19-XX/1663 - GOOD BYE",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1663 - GOOD BYE/1663 - GOOD BYE.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 29,
+        "name": "1670 - 8 6",
+        "songPath": "./Songs/19-XX/1670 - 8 6",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1670 - 8 6/1670 - 8 6.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 37,
+        "name": "1680 - Obelisque",
+        "songPath": "./Songs/19-XX/1680 - Obelisque",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1680 - Obelisque/1680 - Obelisque.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 40,
+        "name": "1687 - Cutie Song",
+        "songPath": "./Songs/19-XX/1687 - Cutie Song",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1687 - Cutie Song/1687 - Cutie Song.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 48,
+        "name": "1698 - Life is PIANO",
+        "songPath": "./Songs/19-XX/1698 - Life is PIANO",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1698 - Life is PIANO/1698 - Life is PIANO.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 53,
+        "name": "16A5 - Harmagedon",
+        "songPath": "./Songs/19-XX/16A5 - Harmagedon",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 59,
+        "name": "16B5 - Tropicanic",
+        "songPath": "./Songs/19-XX/16B5 - Tropicanic",
+        "banner": "./Songs/19-XX/16B5 - Tropicanic/16B5_Phoenix.png",
+        "sscPath": "./Songs/19-XX/16B5 - Tropicanic/16B5 - Tropicanic.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 1,
+        "name": "1703 - ESP",
+        "songPath": "./Songs/21-PHOENIX/1703 - ESP",
+        "banner": "./Songs/21-PHOENIX/1703 - ESP/1703-wide.png",
+        "sscPath": "./Songs/21-PHOENIX/1703 - ESP/1703 - ESP.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 73,
+        "name": "1705 - Ultimatum",
+        "songPath": "./Songs/19-XX/1705 - Ultimatum",
+        "banner": "./Songs/19-XX/1705 - Ultimatum/1705-Phoenix.png",
+        "sscPath": "./Songs/19-XX/1705 - Ultimatum/1705 - Ultimatum.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 6,
+        "name": "1720 - Dancing",
+        "songPath": "./Songs/21-PHOENIX/1720 - Dancing",
+        "banner": "./Songs/21-PHOENIX/1720 - Dancing/1720.png",
+        "sscPath": "./Songs/21-PHOENIX/1720 - Dancing/1720 - Dancing.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 9,
+        "name": "1723 - Catastrophe",
+        "songPath": "./Songs/21-PHOENIX/1723 - Catastrophe",
+        "banner": "./Songs/21-PHOENIX/1723 - Catastrophe/1723.png",
+        "sscPath": "./Songs/21-PHOENIX/1723 - Catastrophe/1723 - Catastrophe.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 10,
+        "name": "1724 - Human Extinction (PIU Edit.)",
+        "songPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)",
+        "banner": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)/1724.png",
+        "sscPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)/1724 - Human Extinction (PIU Edit.).ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 12,
+        "name": "1726 - Underworld ft. Skizzo (PIU Edit.)",
+        "songPath": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)",
+        "banner": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)/1726.png",
+        "sscPath": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)/1726 - Underworld ft. Skizzo (PIU Edit.).ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 15,
+        "name": "1734 - 4NT",
+        "songPath": "./Songs/21-PHOENIX/1734 - 4NT",
+        "banner": "./Songs/21-PHOENIX/1734 - 4NT/1734.png",
+        "sscPath": "./Songs/21-PHOENIX/1734 - 4NT/1734 - 4NT.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 18,
+        "name": "18000 - VECTOR",
+        "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",
+        "banner": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.png",
+        "sscPath": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 19,
+        "name": "18005 - Versailles",
+        "songPath": "./Songs/21-PHOENIX/18005 - Versailles",
+        "banner": "./Songs/21-PHOENIX/18005 - Versailles/Versailles.png",
+        "sscPath": "./Songs/21-PHOENIX/18005 - Versailles/Versailles.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 21,
+        "name": "18010 - Showdown",
+        "songPath": "./Songs/21-PHOENIX/18010 - Showdown",
+        "banner": "./Songs/21-PHOENIX/18010 - Showdown/Showdown.png",
+        "sscPath": "./Songs/21-PHOENIX/18010 - Showdown/Showdown.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 22,
+        "name": "18015 - BOOOM!!",
+        "songPath": "./Songs/21-PHOENIX/18015 - BOOOM!!",
+        "banner": "./Songs/21-PHOENIX/18015 - BOOOM!!/BOOOM!!.png",
+        "sscPath": "./Songs/21-PHOENIX/18015 - BOOOM!!/BOOOM!!.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 30,
+        "name": "18033.5 - Lucid Dream",
+        "songPath": "./Songs/21-PHOENIX/18033.5 - Lucid Dream",
+        "banner": "./Songs/21-PHOENIX/18033.5 - Lucid Dream/Lucid Dream.png",
+        "sscPath": "./Songs/21-PHOENIX/18033.5 - Lucid Dream/Lucid Dream.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 34,
+        "name": "18036.3 - 1948",
+        "songPath": "./Songs/21-PHOENIX/18036.3 - 1948",
+        "banner": "./Songs/21-PHOENIX/18036.3 - 1948/1948.png",
+        "sscPath": "./Songs/21-PHOENIX/18036.3 - 1948/1948.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 39,
+        "name": "18040 - MURDOCH",
+        "songPath": "./Songs/21-PHOENIX/18040 - MURDOCH",
+        "banner": "./Songs/21-PHOENIX/18040 - MURDOCH/16A9.png",
+        "sscPath": "./Songs/21-PHOENIX/18040 - MURDOCH/16A9 - MURDOCH.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 42,
+        "name": "18043 - Barber's Madness",
+        "songPath": "./Songs/21-PHOENIX/18043 - Barber's Madness",
+        "banner": "./Songs/21-PHOENIX/18043 - Barber's Madness/16B2.png",
+        "sscPath": "./Songs/21-PHOENIX/18043 - Barber's Madness/16B2 - Barber's Madness.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 44,
+        "name": "18044.1 - Le Nozze di Figaro ~Celebrazione Remix~",
+        "songPath": "./Songs/21-PHOENIX/18044.1 - Le Nozze di Figaro ~Celebrazione Remix~",
+        "banner": "./Songs/21-PHOENIX/18044.1 - Le Nozze di Figaro ~Celebrazione Remix~/16B4.png",
+        "sscPath": "./Songs/21-PHOENIX/18044.1 - Le Nozze di Figaro ~Celebrazione Remix~/16B4 - Le Nozze di Figaro ~Celebrazione Remix~.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 47,
+        "name": "18045 - Lohxia",
+        "songPath": "./Songs/21-PHOENIX/18045 - Lohxia",
+        "banner": "./Songs/21-PHOENIX/18045 - Lohxia/Lohxia.png",
+        "sscPath": "./Songs/21-PHOENIX/18045 - Lohxia/Lohxia.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 48,
+        "name": "18046 - PRiMA MATERiA",
+        "songPath": "./Songs/21-PHOENIX/18046 - PRiMA MATERiA",
+        "banner": "./Songs/21-PHOENIX/18046 - PRiMA MATERiA/PRiMA MATERiA.png",
+        "sscPath": "./Songs/21-PHOENIX/18046 - PRiMA MATERiA/PRiMA MATERiA.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 50,
+        "name": "18047 - Neo Catharsis",
+        "songPath": "./Songs/21-PHOENIX/18047 - Neo Catharsis",
+        "banner": "./Songs/21-PHOENIX/18047 - Neo Catharsis/Neo Catharsis.png",
+        "sscPath": "./Songs/21-PHOENIX/18047 - Neo Catharsis/Neo Catharsis.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 56,
+        "name": "18049.6 - Darkside Of The Mind",
+        "songPath": "./Songs/21-PHOENIX/18049.6 - Darkside Of The Mind",
+        "banner": "./Songs/21-PHOENIX/18049.6 - Darkside Of The Mind/Darkside Of The Mind.png",
+        "sscPath": "./Songs/21-PHOENIX/18049.6 - Darkside Of The Mind/Darkside Of The Mind.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 58,
+        "name": "18050 - CHAOS AGAIN",
+        "songPath": "./Songs/21-PHOENIX/18050 - CHAOS AGAIN",
+        "banner": "./Songs/21-PHOENIX/18050 - CHAOS AGAIN/CHAOS AGAIN.png",
+        "sscPath": "./Songs/21-PHOENIX/18050 - CHAOS AGAIN/CHAOS AGAIN.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 61,
+        "name": "18055 - Sudden Appearance Image",
+        "songPath": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image",
+        "banner": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image/Sudden Appearance Image.png",
+        "sscPath": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image/Sudden Appearance Image.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 62,
+        "name": "18057 - Deca Dance",
+        "songPath": "./Songs/21-PHOENIX/18057 - Deca Dance",
+        "banner": "./Songs/21-PHOENIX/18057 - Deca Dance/Deca Dance.png",
+        "sscPath": "./Songs/21-PHOENIX/18057 - Deca Dance/Deca Dance.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 63,
+        "name": "18060 - New Rose",
+        "songPath": "./Songs/21-PHOENIX/18060 - New Rose",
+        "banner": "./Songs/21-PHOENIX/18060 - New Rose/New Rose.png",
+        "sscPath": "./Songs/21-PHOENIX/18060 - New Rose/New Rose.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 64,
+        "name": "18065 - Uh-Heung",
+        "songPath": "./Songs/21-PHOENIX/18065 - Uh-Heung",
+        "banner": "./Songs/21-PHOENIX/18065 - Uh-Heung/Uh-Heung.png",
+        "sscPath": "./Songs/21-PHOENIX/18065 - Uh-Heung/Uh-Heung.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 65,
+        "name": "18067.5 - DO or DIE",
+        "songPath": "./Songs/21-PHOENIX/18067.5 - DO or DIE",
+        "banner": "./Songs/21-PHOENIX/18067.5 - DO or DIE/DO or DIE.png",
+        "sscPath": "./Songs/21-PHOENIX/18067.5 - DO or DIE/DO or DIE.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 66,
+        "name": "18070 - CRUSH",
+        "songPath": "./Songs/21-PHOENIX/18070 - CRUSH",
+        "banner": "./Songs/21-PHOENIX/18070 - CRUSH/CRUSH.png",
+        "sscPath": "./Songs/21-PHOENIX/18070 - CRUSH/CRUSH.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 68,
+        "name": "18075 - Bubble",
+        "songPath": "./Songs/21-PHOENIX/18075 - Bubble",
+        "banner": "./Songs/21-PHOENIX/18075 - Bubble/Bubble.png",
+        "sscPath": "./Songs/21-PHOENIX/18075 - Bubble/Bubble.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 71,
+        "name": "18105 - Nxde",
+        "songPath": "./Songs/21-PHOENIX/18105 - Nxde",
+        "banner": "./Songs/21-PHOENIX/18105 - Nxde/Nxde.png",
+        "sscPath": "./Songs/21-PHOENIX/18105 - Nxde/Nxde.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 72,
+        "name": "18110 - Teddy Bear",
+        "songPath": "./Songs/21-PHOENIX/18110 - Teddy Bear",
+        "banner": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.png",
+        "sscPath": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 74,
+        "name": "18120 - Amor Fati",
+        "songPath": "./Songs/21-PHOENIX/18120 - Amor Fati",
+        "banner": "./Songs/21-PHOENIX/18120 - Amor Fati/Amor Fati.png",
+        "sscPath": "./Songs/21-PHOENIX/18120 - Amor Fati/Amor Fati.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 76,
+        "name": "18126 - ELEVEN",
+        "songPath": "./Songs/21-PHOENIX/18126 - ELEVEN",
+        "banner": "./Songs/21-PHOENIX/18126 - ELEVEN/ELEVEN.png",
+        "sscPath": "./Songs/21-PHOENIX/18126 - ELEVEN/ELEVEN.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 77,
+        "name": "18127 - Pirate",
+        "songPath": "./Songs/21-PHOENIX/18127 - Pirate",
+        "banner": "./Songs/21-PHOENIX/18127 - Pirate/Pirate.png",
+        "sscPath": "./Songs/21-PHOENIX/18127 - Pirate/Pirate.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 79,
+        "name": "18129 - WHISPER",
+        "songPath": "./Songs/21-PHOENIX/18129 - WHISPER",
+        "banner": "./Songs/21-PHOENIX/18129 - WHISPER/WHISPER.png",
+        "sscPath": "./Songs/21-PHOENIX/18129 - WHISPER/WHISPER.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 80,
+        "name": "18129.5 - Spray",
+        "songPath": "./Songs/21-PHOENIX/18129.5 - Spray",
+        "banner": "./Songs/21-PHOENIX/18129.5 - Spray/Spray.png",
+        "sscPath": "./Songs/21-PHOENIX/18129.5 - Spray/Spray.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 81,
+        "name": "18130 - Beautiful Liar",
+        "songPath": "./Songs/21-PHOENIX/18130 - Beautiful Liar",
+        "banner": "./Songs/21-PHOENIX/18130 - Beautiful Liar/Beautiful Liar.png",
+        "sscPath": "./Songs/21-PHOENIX/18130 - Beautiful Liar/Beautiful Liar.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 82,
+        "name": "18133 - PANDORA",
+        "songPath": "./Songs/21-PHOENIX/18133 - PANDORA",
+        "banner": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.png",
+        "sscPath": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 83,
+        "name": "18135 - STORM",
+        "songPath": "./Songs/21-PHOENIX/18135 - STORM",
+        "banner": "./Songs/21-PHOENIX/18135 - STORM/STORM.png",
+        "sscPath": "./Songs/21-PHOENIX/18135 - STORM/STORM.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 87,
+        "name": "18200 - GOODTEK",
+        "songPath": "./Songs/21-PHOENIX/18200 - GOODTEK",
+        "banner": "./Songs/21-PHOENIX/18200 - GOODTEK/GOODTEK.png",
+        "sscPath": "./Songs/21-PHOENIX/18200 - GOODTEK/GOODTEK.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 88,
+        "name": "18205 - CO5M1C R4ILR0AD",
+        "songPath": "./Songs/21-PHOENIX/18205 - CO5M1C R4ILR0AD",
+        "banner": "./Songs/21-PHOENIX/18205 - CO5M1C R4ILR0AD/CO5M1C R4ILR0AD.png",
+        "sscPath": "./Songs/21-PHOENIX/18205 - CO5M1C R4ILR0AD/CO5M1C R4ILR0AD.SSC"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 89,
+        "name": "18210 - Energy Synergy Matrix",
+        "songPath": "./Songs/21-PHOENIX/18210 - Energy Synergy Matrix",
+        "banner": "./Songs/21-PHOENIX/18210 - Energy Synergy Matrix/Energy Synergy Matrix.png",
+        "sscPath": "./Songs/21-PHOENIX/18210 - Energy Synergy Matrix/Energy Synergy Matrix.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 90,
+        "name": "18215 - MilK",
+        "songPath": "./Songs/21-PHOENIX/18215 - MilK",
+        "banner": "./Songs/21-PHOENIX/18215 - MilK/MilK.png",
+        "sscPath": "./Songs/21-PHOENIX/18215 - MilK/MilK.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 91,
+        "name": "18220 - Acquire",
+        "songPath": "./Songs/21-PHOENIX/18220 - Acquire",
+        "banner": "./Songs/21-PHOENIX/18220 - Acquire/Acquire.png",
+        "sscPath": "./Songs/21-PHOENIX/18220 - Acquire/Acquire.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 93,
+        "name": "18230 - Altale",
+        "songPath": "./Songs/21-PHOENIX/18230 - Altale",
+        "banner": "./Songs/21-PHOENIX/18230 - Altale/Altale.png",
+        "sscPath": "./Songs/21-PHOENIX/18230 - Altale/Altale.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 94,
+        "name": "18233 - iRELLiA",
+        "songPath": "./Songs/21-PHOENIX/18233 - iRELLiA",
+        "banner": "./Songs/21-PHOENIX/18233 - iRELLiA/iRELLiA.png",
+        "sscPath": "./Songs/21-PHOENIX/18233 - iRELLiA/iRELLiA.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 97,
+        "name": "18237 - R.I.P",
+        "songPath": "./Songs/21-PHOENIX/18237 - R.I.P",
+        "banner": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..png",
+        "sscPath": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 99,
+        "name": "18238 - PUPA",
+        "songPath": "./Songs/21-PHOENIX/18238 - PUPA",
+        "banner": "./Songs/21-PHOENIX/18238 - PUPA/PUPA.png",
+        "sscPath": "./Songs/21-PHOENIX/18238 - PUPA/PUPA.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 100,
+        "name": "18238.5 - STAGER",
+        "songPath": "./Songs/21-PHOENIX/18238.5 - STAGER",
+        "banner": "./Songs/21-PHOENIX/18238.5 - STAGER/STAGER.png",
+        "sscPath": "./Songs/21-PHOENIX/18238.5 - STAGER/STAGER.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 104,
+        "name": "18238.7.5 - Mahika",
+        "songPath": "./Songs/21-PHOENIX/18238.7.5 - Mahika",
+        "banner": "./Songs/21-PHOENIX/18238.7.5 - Mahika/Mahika.png",
+        "sscPath": "./Songs/21-PHOENIX/18238.7.5 - Mahika/Mahika.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 107,
+        "name": "18239 - Aragami",
+        "songPath": "./Songs/21-PHOENIX/18239 - Aragami",
+        "banner": "./Songs/21-PHOENIX/18239 - Aragami/Aragami.png",
+        "sscPath": "./Songs/21-PHOENIX/18239 - Aragami/Aragami.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 108,
+        "name": "18240 - Halcyon",
+        "songPath": "./Songs/21-PHOENIX/18240 - Halcyon",
+        "banner": "./Songs/21-PHOENIX/18240 - Halcyon/Halcyon.png",
+        "sscPath": "./Songs/21-PHOENIX/18240 - Halcyon/Halcyon.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 109,
+        "name": "18242 - Destr0yer",
+        "songPath": "./Songs/21-PHOENIX/18242 - Destr0yer",
+        "banner": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.png",
+        "sscPath": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 110,
+        "name": "18242.3 - Big Daddy",
+        "songPath": "./Songs/21-PHOENIX/18242.3 - Big Daddy",
+        "banner": "./Songs/21-PHOENIX/18242.3 - Big Daddy/Big Daddy.png",
+        "sscPath": "./Songs/21-PHOENIX/18242.3 - Big Daddy/Big Daddy.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 112,
+        "name": "18242.5 - Odin",
+        "songPath": "./Songs/21-PHOENIX/18242.5 - Odin",
+        "banner": "./Songs/21-PHOENIX/18242.5 - Odin/Odin.png",
+        "sscPath": "./Songs/21-PHOENIX/18242.5 - Odin/Odin.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 116,
+        "name": "18242.9 - Break Through Myself feat. Risa Yuzuki",
+        "songPath": "./Songs/21-PHOENIX/18242.9 - Break Through Myself feat. Risa Yuzuki",
+        "banner": "./Songs/21-PHOENIX/18242.9 - Break Through Myself feat. Risa Yuzuki/Break Through Myself feat. Risa Yuzuki.png",
+        "sscPath": "./Songs/21-PHOENIX/18242.9 - Break Through Myself feat. Risa Yuzuki/Break Through Myself feat. Risa Yuzuki.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 118,
+        "name": "18243.5 - Chobit Flavor",
+        "songPath": "./Songs/21-PHOENIX/18243.5 - Chobit Flavor",
+        "banner": "./Songs/21-PHOENIX/18243.5 - Chobit Flavor/Chobit Flavor.png",
+        "sscPath": "./Songs/21-PHOENIX/18243.5 - Chobit Flavor/Chobit Flavor.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 123,
+        "name": "18245 - BATTLE NO.1",
+        "songPath": "./Songs/21-PHOENIX/18245 - BATTLE NO.1",
+        "banner": "./Songs/21-PHOENIX/18245 - BATTLE NO.1/BATTLE NO.1.png",
+        "sscPath": "./Songs/21-PHOENIX/18245 - BATTLE NO.1/BATTLE NO.1.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 133,
+        "name": "18A60 - Murdoch vs Otada",
+        "songPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada",
+        "banner": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.png",
+        "sscPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 136,
+        "name": "18A90 - Crimson hood",
+        "songPath": "./Songs/21-PHOENIX/18A90 - Crimson hood",
+        "banner": "./Songs/21-PHOENIX/18A90 - Crimson hood/Crimson hood.png",
+        "sscPath": "./Songs/21-PHOENIX/18A90 - Crimson hood/Crimson hood.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 137,
+        "name": "18A99 - Doppelganger",
+        "songPath": "./Songs/21-PHOENIX/18A99 - Doppelganger",
+        "banner": "./Songs/21-PHOENIX/18A99 - Doppelganger/Doppelganger.png",
+        "sscPath": "./Songs/21-PHOENIX/18A99 - Doppelganger/Doppelganger.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 141,
+        "name": "18F65 - [Short Cut] Phoenix Opening",
+        "songPath": "./Songs/21-PHOENIX/18F65 - [Short Cut] Phoenix Opening",
+        "banner": "./Songs/21-PHOENIX/18F65 - [Short Cut] Phoenix Opening/[Short Cut] Phoenix Opening 2023.png",
+        "sscPath": "./Songs/21-PHOENIX/18F65 - [Short Cut] Phoenix Opening/[Short Cut] Phoenix Opening.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 143,
+        "name": "18F75 - [Short Cut] Ghroth",
+        "songPath": "./Songs/21-PHOENIX/18F75 - [Short Cut] Ghroth",
+        "banner": "./Songs/21-PHOENIX/18F75 - [Short Cut] Ghroth/[Short Cut] Ghroth.png",
+        "sscPath": "./Songs/21-PHOENIX/18F75 - [Short Cut] Ghroth/[Short Cut] Ghroth.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 145,
+        "name": "18F77 - [Short Cut] Hymn of Golden Glory",
+        "songPath": "./Songs/21-PHOENIX/18F77 - [Short Cut] Hymn of Golden Glory",
+        "banner": "./Songs/21-PHOENIX/18F77 - [Short Cut] Hymn of Golden Glory/[Short Cut] Hymn of Golden Glory.png",
+        "sscPath": "./Songs/21-PHOENIX/18F77 - [Short Cut] Hymn of Golden Glory/[Short Cut] Hymn of Golden Glory.ssc"
+    }
+]

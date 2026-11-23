@@ -1,0 +1,90 @@
+[
+    {
+        "stageIndex": 0,
+        "songIndex": 1,
+        "name": "(3) 504 - All I Want For X-Mas",
+        "songPath": "./Songs/08-1ST~PERF/(3) 504 - All I Want For X-Mas",
+        "banner": null,
+        "sscPath": "./Songs/08-1ST~PERF/(3) 504 - All I Want For X-Mas/504 - All I Want For X-Mas.ssc"
+    },
+    {
+        "stageIndex": 6,
+        "songIndex": 1,
+        "name": "1457 - Cosmical Rhythm",
+        "songPath": "./Songs/17-PRIME/1457 - Cosmical Rhythm",
+        "banner": null,
+        "sscPath": "./Songs/17-PRIME/1457 - Cosmical Rhythm/1457 - Cosmical Rhythm.ssc"
+    },
+    {
+        "stageIndex": 6,
+        "songIndex": 2,
+        "name": "1461 - Feel my Happiness",
+        "songPath": "./Songs/17-PRIME/1461 - Feel my Happiness",
+        "banner": null,
+        "sscPath": "./Songs/17-PRIME/1461 - Feel my Happiness/1461 - Feel my Happiness.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 21,
+        "name": "1541 - Awakening",
+        "songPath": "./Songs/18-PRIME 2/1541 - Awakening",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1541 - Awakening/1541 - Awakening.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 33,
+        "name": "1575 - STEP",
+        "songPath": "./Songs/18-PRIME 2/1575 - STEP",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1575 - STEP/1575 - STEP.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 37,
+        "name": "1593 - V3",
+        "songPath": "./Songs/18-PRIME 2/1593 - V3",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1593 - V3/1593 - V3.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 12,
+        "name": "1626 - Poseidon",
+        "songPath": "./Songs/19-XX/1626 - Poseidon",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1626 - Poseidon/1626 - Poseidon.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 25,
+        "name": "1658 - Starry Night",
+        "songPath": "./Songs/19-XX/1658 - Starry Night",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1658 - Starry Night/1658 - Starry Night.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 31,
+        "name": "1672 - Broken Karma (PIU EDIT)",
+        "songPath": "./Songs/19-XX/1672 - Broken Karma (PIU EDIT)",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1672 - Broken Karma (PIU EDIT)/1672 - Broken Karma (PIU EDIT).ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 43,
+        "name": "1691 - Dement ~After Legend~",
+        "songPath": "./Songs/19-XX/1691 - Dement ~After Legend~",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1691 - Dement ~After Legend~/1691 - Dement ~After Legend~.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 93,
+        "name": "18230 - Altale",
+        "songPath": "./Songs/21-PHOENIX/18230 - Altale",
+        "banner": "./Songs/21-PHOENIX/18230 - Altale/Altale.png",
+        "sscPath": "./Songs/21-PHOENIX/18230 - Altale/Altale.ssc"
+    }
+]

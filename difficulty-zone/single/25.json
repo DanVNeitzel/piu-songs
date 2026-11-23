@@ -1,0 +1,130 @@
+[
+    {
+        "stageIndex": 7,
+        "songIndex": 54,
+        "name": "15D2 - [Remix] Shub Sothoth",
+        "songPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth/15D2 - [Remix] Shub Sothoth.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 47,
+        "name": "1697 - BRAIN POWER",
+        "songPath": "./Songs/19-XX/1697 - BRAIN POWER",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1697 - BRAIN POWER/1697 - BRAIN POWER.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 49,
+        "name": "1699 - GLORIA",
+        "songPath": "./Songs/19-XX/1699 - GLORIA",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1699 - GLORIA/1699 - GLORIA.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 73,
+        "name": "1705 - Ultimatum",
+        "songPath": "./Songs/19-XX/1705 - Ultimatum",
+        "banner": "./Songs/19-XX/1705 - Ultimatum/1705-Phoenix.png",
+        "sscPath": "./Songs/19-XX/1705 - Ultimatum/1705 - Ultimatum.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 25,
+        "name": "18025 - Jupin",
+        "songPath": "./Songs/21-PHOENIX/18025 - Jupin",
+        "banner": "./Songs/21-PHOENIX/18025 - Jupin/Jupin.png",
+        "sscPath": "./Songs/21-PHOENIX/18025 - Jupin/Jupin.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 27,
+        "name": "18030 - KUGUTSU",
+        "songPath": "./Songs/21-PHOENIX/18030 - KUGUTSU",
+        "banner": "./Songs/21-PHOENIX/18030 - KUGUTSU/KUGUTSU.png",
+        "sscPath": "./Songs/21-PHOENIX/18030 - KUGUTSU/KUGUTSU.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 29,
+        "name": "18033.2 - Dead End",
+        "songPath": "./Songs/21-PHOENIX/18033.2 - Dead End",
+        "banner": "./Songs/21-PHOENIX/18033.2 - Dead End/Dead End.png",
+        "sscPath": "./Songs/21-PHOENIX/18033.2 - Dead End/Dead End.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 34,
+        "name": "18036.3 - 1948",
+        "songPath": "./Songs/21-PHOENIX/18036.3 - 1948",
+        "banner": "./Songs/21-PHOENIX/18036.3 - 1948/1948.png",
+        "sscPath": "./Songs/21-PHOENIX/18036.3 - 1948/1948.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 36,
+        "name": "18036.7 - Vanish 2 - Roar of the invisible dragon",
+        "songPath": "./Songs/21-PHOENIX/18036.7 - Vanish 2 - Roar of the invisible dragon",
+        "banner": "./Songs/21-PHOENIX/18036.7 - Vanish 2 - Roar of the invisible dragon/Vanish 2 - Roar of the invisible dragon.png",
+        "sscPath": "./Songs/21-PHOENIX/18036.7 - Vanish 2 - Roar of the invisible dragon/Vanish 2 - Roar of the invisible dragon.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 48,
+        "name": "18046 - PRiMA MATERiA",
+        "songPath": "./Songs/21-PHOENIX/18046 - PRiMA MATERiA",
+        "banner": "./Songs/21-PHOENIX/18046 - PRiMA MATERiA/PRiMA MATERiA.png",
+        "sscPath": "./Songs/21-PHOENIX/18046 - PRiMA MATERiA/PRiMA MATERiA.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 50,
+        "name": "18047 - Neo Catharsis",
+        "songPath": "./Songs/21-PHOENIX/18047 - Neo Catharsis",
+        "banner": "./Songs/21-PHOENIX/18047 - Neo Catharsis/Neo Catharsis.png",
+        "sscPath": "./Songs/21-PHOENIX/18047 - Neo Catharsis/Neo Catharsis.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 51,
+        "name": "18048 - Appassionata",
+        "songPath": "./Songs/21-PHOENIX/18048 - Appassionata",
+        "banner": "./Songs/21-PHOENIX/18048 - Appassionata/Appassionata.png",
+        "sscPath": "./Songs/21-PHOENIX/18048 - Appassionata/Appassionata.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 61,
+        "name": "18055 - Sudden Appearance Image",
+        "songPath": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image",
+        "banner": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image/Sudden Appearance Image.png",
+        "sscPath": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image/Sudden Appearance Image.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 112,
+        "name": "18242.5 - Odin",
+        "songPath": "./Songs/21-PHOENIX/18242.5 - Odin",
+        "banner": "./Songs/21-PHOENIX/18242.5 - Odin/Odin.png",
+        "sscPath": "./Songs/21-PHOENIX/18242.5 - Odin/Odin.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 120,
+        "name": "18244 - TRICKL4SH 220",
+        "songPath": "./Songs/21-PHOENIX/18244 - TRICKL4SH 220",
+        "banner": "./Songs/21-PHOENIX/18244 - TRICKL4SH 220/TRICKL4SH 220.png",
+        "sscPath": "./Songs/21-PHOENIX/18244 - TRICKL4SH 220/TRICKL4SH 220.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 131,
+        "name": "18A40 - Hymn of Golden Glory",
+        "songPath": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory",
+        "banner": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory/Hymn of Golden Glory.png",
+        "sscPath": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory/Hymn of Golden Glory.ssc"
+    }
+]

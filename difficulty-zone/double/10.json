@@ -1,0 +1,234 @@
+[
+    {
+        "stageIndex": 0,
+        "songIndex": 0,
+        "name": "(3) 503 - Rolling Christmas",
+        "songPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas",
+        "banner": null,
+        "sscPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas/503 - Rolling Christmas.ssc"
+    },
+    {
+        "stageIndex": 6,
+        "songIndex": 1,
+        "name": "1457 - Cosmical Rhythm",
+        "songPath": "./Songs/17-PRIME/1457 - Cosmical Rhythm",
+        "banner": null,
+        "sscPath": "./Songs/17-PRIME/1457 - Cosmical Rhythm/1457 - Cosmical Rhythm.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 0,
+        "name": "1501 - Last Rebirth",
+        "songPath": "./Songs/18-PRIME 2/1501 - Last Rebirth",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1501 - Last Rebirth/1501 - Last Rebirth.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 11,
+        "name": "1524 - Passing Rider",
+        "songPath": "./Songs/18-PRIME 2/1524 - Passing Rider",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1524 - Passing Rider/1524 - Passing Rider.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 15,
+        "name": "1533 - Hey U",
+        "songPath": "./Songs/18-PRIME 2/1533 - Hey U",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1533 - Hey U/1533 - Hey U.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 16,
+        "name": "1536 - Twist of Fate (feat. Ruriling)",
+        "songPath": "./Songs/18-PRIME 2/1536 - Twist of Fate (feat. Ruriling)",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1536 - Twist of Fate (feat. Ruriling)/1536 - Twist of Fate (feat. Ruriling).ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 17,
+        "name": "1537 - HTTP",
+        "songPath": "./Songs/18-PRIME 2/1537 - HTTP",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1537 - HTTP/1537 - HTTP.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 31,
+        "name": "1562 - REALLY REALLY",
+        "songPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY/1562 - REALLY REALLY.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 51,
+        "name": "15C0 - Donatello",
+        "songPath": "./Songs/18-PRIME 2/15C0 - Donatello",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/15C0 - Donatello/15C0 - Donatello.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 52,
+        "name": "15C5 - Fallen Angel",
+        "songPath": "./Songs/18-PRIME 2/15C5 - Fallen Angel",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/15C5 - Fallen Angel/15C5 - Fallen Angel.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 60,
+        "name": "15F1 - [Short Cut] Death Moon",
+        "songPath": "./Songs/18-PRIME 2/15F1 - [Short Cut] Death Moon",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/15F1 - [Short Cut] Death Moon/15F1 - [Short Cut] Death Moon.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 1,
+        "name": "1602 - Switronic",
+        "songPath": "./Songs/19-XX/1602 - Switronic",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1602 - Switronic/1602 - Switronic.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 19,
+        "name": "1637 - Slapstick Parfait",
+        "songPath": "./Songs/19-XX/1637 - Slapstick Parfait",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1637 - Slapstick Parfait/1637 - Slapstick Parfait.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 26,
+        "name": "1661 - Bon Bon Chocolat",
+        "songPath": "./Songs/19-XX/1661 - Bon Bon Chocolat",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1661 - Bon Bon Chocolat/1661 - Bon Bon Chocolat.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 27,
+        "name": "1663 - GOOD BYE",
+        "songPath": "./Songs/19-XX/1663 - GOOD BYE",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1663 - GOOD BYE/1663 - GOOD BYE.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 35,
+        "name": "1677 - Danger & Danger",
+        "songPath": "./Songs/19-XX/1677 - Danger & Danger",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1677 - Danger & Danger/1677 - Danger & Danger.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 38,
+        "name": "1681 - Rage of Fire",
+        "songPath": "./Songs/19-XX/1681 - Rage of Fire",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1681 - Rage of Fire/1681 - Rage of Fire.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 42,
+        "name": "1689 - Over The Horizon",
+        "songPath": "./Songs/19-XX/1689 - Over The Horizon",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1689 - Over The Horizon/1689 - Over The Horizon.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 6,
+        "name": "1720 - Dancing",
+        "songPath": "./Songs/21-PHOENIX/1720 - Dancing",
+        "banner": "./Songs/21-PHOENIX/1720 - Dancing/1720.png",
+        "sscPath": "./Songs/21-PHOENIX/1720 - Dancing/1720 - Dancing.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 23,
+        "name": "18020 - Euphorianic",
+        "songPath": "./Songs/21-PHOENIX/18020 - Euphorianic",
+        "banner": "./Songs/21-PHOENIX/18020 - Euphorianic/Euphorianic.png",
+        "sscPath": "./Songs/21-PHOENIX/18020 - Euphorianic/Euphorianic.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 24,
+        "name": "18022 - Halloween Party ~Multiverse~",
+        "songPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~",
+        "banner": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~/Halloween Party ~Multiverse~.png",
+        "sscPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~/Halloween Party ~Multiverse~.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 68,
+        "name": "18075 - Bubble",
+        "songPath": "./Songs/21-PHOENIX/18075 - Bubble",
+        "banner": "./Songs/21-PHOENIX/18075 - Bubble/Bubble.png",
+        "sscPath": "./Songs/21-PHOENIX/18075 - Bubble/Bubble.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 72,
+        "name": "18110 - Teddy Bear",
+        "songPath": "./Songs/21-PHOENIX/18110 - Teddy Bear",
+        "banner": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.png",
+        "sscPath": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 82,
+        "name": "18133 - PANDORA",
+        "songPath": "./Songs/21-PHOENIX/18133 - PANDORA",
+        "banner": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.png",
+        "sscPath": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 85,
+        "name": "18145 - Nostalgia",
+        "songPath": "./Songs/21-PHOENIX/18145 - Nostalgia",
+        "banner": "./Songs/21-PHOENIX/18145 - Nostalgia/Nostalgia.png",
+        "sscPath": "./Songs/21-PHOENIX/18145 - Nostalgia/Nostalgia.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 97,
+        "name": "18237 - R.I.P",
+        "songPath": "./Songs/21-PHOENIX/18237 - R.I.P",
+        "banner": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..png",
+        "sscPath": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 109,
+        "name": "18242 - Destr0yer",
+        "songPath": "./Songs/21-PHOENIX/18242 - Destr0yer",
+        "banner": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.png",
+        "sscPath": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 117,
+        "name": "18243 - Viyella's Nightmare",
+        "songPath": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare",
+        "banner": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare/Viyella's Nightmare.png",
+        "sscPath": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare/Viyella's Nightmare.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 133,
+        "name": "18A60 - Murdoch vs Otada",
+        "songPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada",
+        "banner": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.png",
+        "sscPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.ssc"
+    }
+]

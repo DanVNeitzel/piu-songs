@@ -1,0 +1,14 @@
+{
+    "allow_delete": true,
+    "allow_upload": true,
+    "allow_create_folder": true,
+    "allow_create_file": true,
+    "allow_direct_link": true,
+    "allow_show_folders": true,
+    "configTime": 0,
+    "max_upload_size_mb": 1000,
+    "disallowed_patterns": [],
+    "hidden_patterns": [],
+    "SENHA": "123456",
+    "permissionAdmin": true
+}

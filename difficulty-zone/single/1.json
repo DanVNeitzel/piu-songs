@@ -1,0 +1,114 @@
+[
+    {
+        "stageIndex": 1,
+        "songIndex": 0,
+        "name": "(2) 701 - Dr. M",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 701 - Dr. M",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 701 - Dr. M/701 - Dr. M.ssc"
+    },
+    {
+        "stageIndex": 1,
+        "songIndex": 1,
+        "name": "(2) 708 - Point Break",
+        "songPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break",
+        "banner": null,
+        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break/708 - Point Break.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 7,
+        "name": "1511 - Silver Beat feat. ChisaUezono",
+        "songPath": "./Songs/18-PRIME 2/1511 - Silver Beat feat. ChisaUezono",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1511 - Silver Beat feat. ChisaUezono/1511 - Silver Beat feat. ChisaUezono.ssc"
+    },
+    {
+        "stageIndex": 7,
+        "songIndex": 24,
+        "name": "1549 - Jackpot",
+        "songPath": "./Songs/18-PRIME 2/1549 - Jackpot",
+        "banner": null,
+        "sscPath": "./Songs/18-PRIME 2/1549 - Jackpot/1549 - Jackpot.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 18,
+        "name": "1636 - Stardream (feat. Romelon)",
+        "songPath": "./Songs/19-XX/1636 - Stardream (feat. Romelon)",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1636 - Stardream (feat. Romelon)/1636 - Stardream (feat. Romelon).ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 22,
+        "name": "1647 - HANN (Alone)",
+        "songPath": "./Songs/19-XX/1647 - HANN (Alone)",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1647 - HANN (Alone)/1647 - HANN (Alone).ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 25,
+        "name": "1658 - Starry Night",
+        "songPath": "./Songs/19-XX/1658 - Starry Night",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1658 - Starry Night/1658 - Starry Night.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 26,
+        "name": "1661 - Bon Bon Chocolat",
+        "songPath": "./Songs/19-XX/1661 - Bon Bon Chocolat",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1661 - Bon Bon Chocolat/1661 - Bon Bon Chocolat.ssc"
+    },
+    {
+        "stageIndex": 8,
+        "songIndex": 33,
+        "name": "1674 - Lala",
+        "songPath": "./Songs/19-XX/1674 - Lala",
+        "banner": null,
+        "sscPath": "./Songs/19-XX/1674 - Lala/1674 - Lala.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 33,
+        "name": "18036 - Stardream -Eurobeat Remix-",
+        "songPath": "./Songs/21-PHOENIX/18036 - Stardream -Eurobeat Remix-",
+        "banner": "./Songs/21-PHOENIX/18036 - Stardream -Eurobeat Remix-/Stardream -Eurobeat Remix-.png",
+        "sscPath": "./Songs/21-PHOENIX/18036 - Stardream -Eurobeat Remix-/Stardream -Eurobeat Remix-.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 73,
+        "name": "18115 - Alone",
+        "songPath": "./Songs/21-PHOENIX/18115 - Alone",
+        "banner": "./Songs/21-PHOENIX/18115 - Alone/Alone.png",
+        "sscPath": "./Songs/21-PHOENIX/18115 - Alone/Alone.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 75,
+        "name": "18125 - After LIKE",
+        "songPath": "./Songs/21-PHOENIX/18125 - After LIKE",
+        "banner": "./Songs/21-PHOENIX/18125 - After LIKE/After LIKE.png",
+        "sscPath": "./Songs/21-PHOENIX/18125 - After LIKE/After LIKE.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 84,
+        "name": "18140 - Airplane",
+        "songPath": "./Songs/21-PHOENIX/18140 - Airplane",
+        "banner": "./Songs/21-PHOENIX/18140 - Airplane/Airplane.png",
+        "sscPath": "./Songs/21-PHOENIX/18140 - Airplane/Airplane.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 128,
+        "name": "18A10 - Hercules",
+        "songPath": "./Songs/21-PHOENIX/18A10 - Hercules",
+        "banner": "./Songs/21-PHOENIX/18A10 - Hercules/Hercules.png",
+        "sscPath": "./Songs/21-PHOENIX/18A10 - Hercules/Hercules.ssc"
+    }
+]
