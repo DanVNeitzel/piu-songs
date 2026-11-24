@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 392,
+        "songIndex": 488,
         "name": "1605 - SLAM - 1949",
         "songPath": "./Songs/19-XX/1605 - SLAM - 1949",
         "banner": "./Songs/19-XX/1605 - SLAM - 1949/1605.webp",
@@ -9,7 +9,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 542,
+        "songIndex": 638,
         "name": "18036.3 - 1948",
         "songPath": "./Songs/21-PHOENIX/18036.3 - 1948",
         "banner": "./Songs/21-PHOENIX/18036.3 - 1948/1948.png",
@@ -17,7 +17,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 546,
+        "songIndex": 642,
         "name": "18039 - Solfeggietto",
         "songPath": "./Songs/21-PHOENIX/18039 - Solfeggietto",
         "banner": "./Songs/21-PHOENIX/18039 - Solfeggietto/16A8.png",

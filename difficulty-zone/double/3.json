@@ -17,6 +17,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 346,
+        "name": "(1) 1473 - Reminiscence",
+        "songPath": "./Songs/17-PRIME/(1) 1473 - Reminiscence",
+        "banner": "./Songs/17-PRIME/(1) 1473 - Reminiscence/1473.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1473 - Reminiscence/1473 - Reminiscence.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 369,
+        "name": "(1) 1495 - Unlock (cover)",
+        "songPath": "./Songs/17-PRIME/(1) 1495 - Unlock (cover)",
+        "banner": "./Songs/17-PRIME/(1) 1495 - Unlock (cover)/1495.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1495 - Unlock (cover)/1495 - Unlock (cover).ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 110,
         "name": "(2) D13 - Handsome Character That Pass",
         "songPath": "./Songs/13-NX~NXA/(2) D13 - Handsome Character That Pass",
@@ -30,6 +46,14 @@
         "songPath": "./Songs/13-NX~NXA/(2) D20 - My Brother is Street Singer",
         "banner": "./Songs/13-NX~NXA/(2) D20 - My Brother is Street Singer/D20.webp",
         "sscPath": "./Songs/13-NX~NXA/(2) D20 - My Brother is Street Singer/D20 - My Brother is Street Singer.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 381,
+        "name": "(3) 1408 - Avalanche",
+        "songPath": "./Songs/17-PRIME/(3) 1408 - Avalanche",
+        "banner": "./Songs/17-PRIME/(3) 1408 - Avalanche/1408.webp",
+        "sscPath": "./Songs/17-PRIME/(3) 1408 - Avalanche/1408 - Avalanche.ssc"
     },
     {
         "stageIndex": 0,
@@ -209,7 +233,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 289,
+        "songIndex": 385,
         "name": "1501 - Last Rebirth",
         "songPath": "./Songs/18-PRIME 2/1501 - Last Rebirth",
         "banner": "./Songs/18-PRIME 2/1501 - Last Rebirth/1501.webp",
@@ -217,7 +241,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 295,
+        "songIndex": 391,
         "name": "1508 - Shub Niggurath",
         "songPath": "./Songs/18-PRIME 2/1508 - Shub Niggurath",
         "banner": "./Songs/18-PRIME 2/1508 - Shub Niggurath/1508.webp",
@@ -225,7 +249,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 296,
+        "songIndex": 392,
         "name": "1509 - Further",
         "songPath": "./Songs/18-PRIME 2/1509 - Further",
         "banner": "./Songs/18-PRIME 2/1509 - Further/1509.webp",
@@ -233,7 +257,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 302,
+        "songIndex": 398,
         "name": "1517 - Kasou Shinja",
         "songPath": "./Songs/18-PRIME 2/1517 - Kasou Shinja",
         "banner": "./Songs/18-PRIME 2/1517 - Kasou Shinja/1517.webp",
@@ -241,7 +265,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 303,
+        "songIndex": 399,
         "name": "1518 - Overblow2",
         "songPath": "./Songs/18-PRIME 2/1518 - Overblow2",
         "banner": "./Songs/18-PRIME 2/1518 - Overblow2/1518.webp",
@@ -249,7 +273,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 318,
+        "songIndex": 414,
         "name": "1544 - Bang Bang Bang",
         "songPath": "./Songs/18-PRIME 2/1544 - Bang Bang Bang",
         "banner": "./Songs/18-PRIME 2/1544 - Bang Bang Bang/1544.webp",
@@ -257,7 +281,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 321,
+        "songIndex": 417,
         "name": "1547 - Chase Me",
         "songPath": "./Songs/18-PRIME 2/1547 - Chase Me",
         "banner": "./Songs/18-PRIME 2/1547 - Chase Me/1547.webp",
@@ -265,7 +289,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 322,
+        "songIndex": 418,
         "name": "1548 - Pick Me",
         "songPath": "./Songs/18-PRIME 2/1548 - Pick Me",
         "banner": "./Songs/18-PRIME 2/1548 - Pick Me/1548.webp",
@@ -273,7 +297,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 323,
+        "songIndex": 419,
         "name": "1549 - Jackpot",
         "songPath": "./Songs/18-PRIME 2/1549 - Jackpot",
         "banner": "./Songs/18-PRIME 2/1549 - Jackpot/1549.webp",
@@ -281,7 +305,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 324,
+        "songIndex": 420,
         "name": "1550 - Gotta Be You",
         "songPath": "./Songs/18-PRIME 2/1550 - Gotta Be You",
         "banner": "./Songs/18-PRIME 2/1550 - Gotta Be You/1550.webp",
@@ -289,7 +313,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 325,
+        "songIndex": 421,
         "name": "1551 - Boombayah",
         "songPath": "./Songs/18-PRIME 2/1551 - Boombayah",
         "banner": "./Songs/18-PRIME 2/1551 - Boombayah/1551.webp",
@@ -297,7 +321,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 326,
+        "songIndex": 422,
         "name": "1552 - SOBER",
         "songPath": "./Songs/18-PRIME 2/1552 - SOBER",
         "banner": "./Songs/18-PRIME 2/1552 - SOBER/1552.webp",
@@ -305,7 +329,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 328,
+        "songIndex": 424,
         "name": "1554 - Good Night",
         "songPath": "./Songs/18-PRIME 2/1554 - Good Night",
         "banner": "./Songs/18-PRIME 2/1554 - Good Night/1554.webp",
@@ -313,7 +337,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 340,
+        "songIndex": 436,
         "name": "1578 - Heart Attack",
         "songPath": "./Songs/18-PRIME 2/1578 - Heart Attack",
         "banner": "./Songs/18-PRIME 2/1578 - Heart Attack/1578.webp",
@@ -321,7 +345,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 343,
+        "songIndex": 439,
         "name": "1594 - Cross Time",
         "songPath": "./Songs/18-PRIME 2/1594 - Cross Time",
         "banner": "./Songs/18-PRIME 2/1594 - Cross Time/1594.webp",
@@ -329,7 +353,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 349,
+        "songIndex": 445,
         "name": "15A2 - Start On Red",
         "songPath": "./Songs/18-PRIME 2/15A2 - Start On Red",
         "banner": "./Songs/18-PRIME 2/15A2 - Start On Red/15A2.webp",
@@ -337,7 +361,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 350,
+        "songIndex": 446,
         "name": "15A3 - Time Attack Blue",
         "songPath": "./Songs/18-PRIME 2/15A3 - Time Attack Blue",
         "banner": "./Songs/18-PRIME 2/15A3 - Time Attack Blue/15A3.webp",
@@ -345,7 +369,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 351,
+        "songIndex": 447,
         "name": "15A4 - Magical Vacation",
         "songPath": "./Songs/18-PRIME 2/15A4 - Magical Vacation",
         "banner": "./Songs/18-PRIME 2/15A4 - Magical Vacation/15A4.webp",
@@ -353,7 +377,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 353,
+        "songIndex": 449,
         "name": "15A6 - Death Moon",
         "songPath": "./Songs/18-PRIME 2/15A6 - Death Moon",
         "banner": "./Songs/18-PRIME 2/15A6 - Death Moon/15A6.webp",
@@ -361,7 +385,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 356,
+        "songIndex": 452,
         "name": "15A9 - Keep On!",
         "songPath": "./Songs/18-PRIME 2/15A9 - Keep On!",
         "banner": "./Songs/18-PRIME 2/15A9 - Keep On!/15A9.webp",
@@ -369,7 +393,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 357,
+        "songIndex": 453,
         "name": "15B0 - Asterios -ReEnrty-",
         "songPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEnrty-",
         "banner": "./Songs/18-PRIME 2/15B0 - Asterios -ReEnrty-/15B0.webp",
@@ -377,7 +401,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 363,
+        "songIndex": 459,
         "name": "15B7 - Clue",
         "songPath": "./Songs/18-PRIME 2/15B7 - Clue",
         "banner": "./Songs/18-PRIME 2/15B7 - Clue/15B7.webp",
@@ -385,7 +409,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 368,
+        "songIndex": 464,
         "name": "15C5 - Fallen Angel",
         "songPath": "./Songs/18-PRIME 2/15C5 - Fallen Angel",
         "banner": "./Songs/18-PRIME 2/15C5 - Fallen Angel/15C5.webp",
@@ -393,7 +417,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 391,
+        "songIndex": 487,
         "name": "1604 - ATAS - Transacaglia in G-minor",
         "songPath": "./Songs/19-XX/1604 - ATAS - Transacaglia in G-minor",
         "banner": "./Songs/19-XX/1604 - ATAS - Transacaglia in G-minor/1604.webp",
@@ -401,7 +425,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 393,
+        "songIndex": 489,
         "name": "1607 - MAX - JANUS",
         "songPath": "./Songs/19-XX/1607 - MAX - JANUS",
         "banner": "./Songs/19-XX/1607 - MAX - JANUS/1607.webp",
@@ -409,7 +433,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 400,
+        "songIndex": 496,
         "name": "1619 - Doin - Iolite Sky",
         "songPath": "./Songs/19-XX/1619 - Doin - Iolite Sky",
         "banner": "./Songs/19-XX/1619 - Doin - Iolite Sky/1619.webp",
@@ -417,7 +441,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 405,
+        "songIndex": 501,
         "name": "1624 - HyuN - Macaron Day",
         "songPath": "./Songs/19-XX/1624 - HyuN - Macaron Day",
         "banner": "./Songs/19-XX/1624 - HyuN - Macaron Day/1624.webp",
@@ -425,7 +449,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 406,
+        "songIndex": 502,
         "name": "1625 - Fiverwater - Ice of Death",
         "songPath": "./Songs/19-XX/1625 - Fiverwater - Ice of Death",
         "banner": "./Songs/19-XX/1625 - Fiverwater - Ice of Death/1625.webp",
@@ -433,7 +457,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 410,
+        "songIndex": 506,
         "name": "1629 - Applesoda - Tales of Pumpnia",
         "songPath": "./Songs/19-XX/1629 - Applesoda - Tales of Pumpnia",
         "banner": "./Songs/19-XX/1629 - Applesoda - Tales of Pumpnia/1629.webp",
@@ -441,7 +465,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 412,
+        "songIndex": 508,
         "name": "1631 - DM Ashura - Orbit Stabilizer",
         "songPath": "./Songs/19-XX/1631 - DM Ashura - Orbit Stabilizer",
         "banner": "./Songs/19-XX/1631 - DM Ashura - Orbit Stabilizer/1631.webp",
@@ -449,7 +473,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 415,
+        "songIndex": 511,
         "name": "1634 - D_AAN - Wicked Legend",
         "songPath": "./Songs/19-XX/1634 - D_AAN - Wicked Legend",
         "banner": "./Songs/19-XX/1634 - D_AAN - Wicked Legend/1634.webp",
@@ -457,7 +481,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 416,
+        "songIndex": 512,
         "name": "1635 - Memme - Tantanmen",
         "songPath": "./Songs/19-XX/1635 - Memme - Tantanmen",
         "banner": "./Songs/19-XX/1635 - Memme - Tantanmen/1635.webp",
@@ -465,7 +489,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 420,
+        "songIndex": 516,
         "name": "1643 - Dreamcatcher - Full Moon",
         "songPath": "./Songs/19-XX/1643 - Dreamcatcher - Full Moon",
         "banner": "./Songs/19-XX/1643 - Dreamcatcher - Full Moon/1643.webp",
@@ -473,7 +497,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 422,
+        "songIndex": 518,
         "name": "1645 - Dreamcatcher - Fly high",
         "songPath": "./Songs/19-XX/1645 - Dreamcatcher - Fly high",
         "banner": "./Songs/19-XX/1645 - Dreamcatcher - Fly high/1645.webp",
@@ -481,7 +505,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 426,
+        "songIndex": 522,
         "name": "1649 - PRODUCE48 - NEKKOYA (PICK ME)",
         "songPath": "./Songs/19-XX/1649 - PRODUCE48 - NEKKOYA (PICK ME)",
         "banner": "./Songs/19-XX/1649 - PRODUCE48 - NEKKOYA (PICK ME)/1649.webp",
@@ -489,7 +513,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 427,
+        "songIndex": 523,
         "name": "1650 - APink - I'm so sick",
         "songPath": "./Songs/19-XX/1650 - APink - I'm so sick",
         "banner": "./Songs/19-XX/1650 - APink - I'm so sick/1650.webp",
@@ -497,7 +521,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 428,
+        "songIndex": 524,
         "name": "1651 - Wanna one - BOOMERANG",
         "songPath": "./Songs/19-XX/1651 - Wanna one - BOOMERANG",
         "banner": "./Songs/19-XX/1651 - Wanna one - BOOMERANG/1651.webp",
@@ -505,7 +529,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 430,
+        "songIndex": 526,
         "name": "1653 - EVERGLOW - Adios",
         "songPath": "./Songs/19-XX/1653 - EVERGLOW - Adios",
         "banner": "./Songs/19-XX/1653 - EVERGLOW - Adios/1653.webp",
@@ -513,7 +537,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 433,
+        "songIndex": 529,
         "name": "1656 - N.Flying - Rooftop",
         "songPath": "./Songs/19-XX/1656 - N.Flying - Rooftop",
         "banner": "./Songs/19-XX/1656 - N.Flying - Rooftop/1656.webp",
@@ -521,7 +545,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 436,
+        "songIndex": 532,
         "name": "1659 - iKON - LOVE SCENARIO",
         "songPath": "./Songs/19-XX/1659 - iKON - LOVE SCENARIO",
         "banner": "./Songs/19-XX/1659 - iKON - LOVE SCENARIO/1659.webp",
@@ -529,7 +553,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 438,
+        "songIndex": 534,
         "name": "1661 - EVERBLOW - Bon Bon Chocolat",
         "songPath": "./Songs/19-XX/1661 - EVERBLOW - Bon Bon Chocolat",
         "banner": "./Songs/19-XX/1661 - EVERBLOW - Bon Bon Chocolat/1661.webp",
@@ -537,7 +561,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 440,
+        "songIndex": 536,
         "name": "1663 - HONG JINYOUNG - GOOD BYE",
         "songPath": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE",
         "banner": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE/1663.webp",
@@ -545,7 +569,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 441,
+        "songIndex": 537,
         "name": "1664 - Dreamcatcher - YOU AND I",
         "songPath": "./Songs/19-XX/1664 - Dreamcatcher - YOU AND I",
         "banner": "./Songs/19-XX/1664 - Dreamcatcher - YOU AND I/1664.webp",
@@ -553,7 +577,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 443,
+        "songIndex": 539,
         "name": "1666 - CHUNG HA - Gotta Go",
         "songPath": "./Songs/19-XX/1666 - CHUNG HA - Gotta Go",
         "banner": "./Songs/19-XX/1666 - CHUNG HA - Gotta Go/1666.webp",
@@ -561,7 +585,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 447,
+        "songIndex": 543,
         "name": "1670 - DASU - 8 6",
         "songPath": "./Songs/19-XX/1670 - DASU - 8 6",
         "banner": "./Songs/19-XX/1670 - DASU - 8 6/1670.webp",
@@ -569,7 +593,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 451,
+        "songIndex": 547,
         "name": "1674 - Yassi Pressman - Lala",
         "songPath": "./Songs/19-XX/1674 - Yassi Pressman - Lala",
         "banner": "./Songs/19-XX/1674 - Yassi Pressman - Lala/1674.webp",
@@ -577,7 +601,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 454,
+        "songIndex": 550,
         "name": "1677 - Cranky - Danger & Danger",
         "songPath": "./Songs/19-XX/1677 - Cranky - Danger & Danger",
         "banner": "./Songs/19-XX/1677 - Cranky - Danger & Danger/1677.webp",
@@ -585,7 +609,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 457,
+        "songIndex": 553,
         "name": "1680 - ESTi x M2U - Obelisque",
         "songPath": "./Songs/19-XX/1680 - ESTi x M2U - Obelisque",
         "banner": "./Songs/19-XX/1680 - ESTi x M2U - Obelisque/1680.webp",
@@ -593,7 +617,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 458,
+        "songIndex": 554,
         "name": "1681 - MAX - Rage of Fire",
         "songPath": "./Songs/19-XX/1681 - MAX - Rage of Fire",
         "banner": "./Songs/19-XX/1681 - MAX - Rage of Fire/1681.webp",
@@ -601,7 +625,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 463,
+        "songIndex": 559,
         "name": "1686 - M2U - Rising Star",
         "songPath": "./Songs/19-XX/1686 - M2U - Rising Star",
         "banner": "./Songs/19-XX/1686 - M2U - Rising Star/1686.webp",
@@ -609,7 +633,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 464,
+        "songIndex": 560,
         "name": "1687 - Memme - Cutie Song",
         "songPath": "./Songs/19-XX/1687 - Memme - Cutie Song",
         "banner": "./Songs/19-XX/1687 - Memme - Cutie Song/1687.webp",
@@ -617,7 +641,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 467,
+        "songIndex": 563,
         "name": "1690 - Lotze - Loki",
         "songPath": "./Songs/19-XX/1690 - Lotze - Loki",
         "banner": "./Songs/19-XX/1690 - Lotze - Loki/1690.webp",
@@ -625,7 +649,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 472,
+        "songIndex": 568,
         "name": "1695 - Cranky - Phalanx RS2018 edit",
         "songPath": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit",
         "banner": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit/1695.webp",
@@ -633,7 +657,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 473,
+        "songIndex": 569,
         "name": "1696 - SYNTHWULF - POINT ZERO 2",
         "songPath": "./Songs/19-XX/1696 - SYNTHWULF - POINT ZERO 2",
         "banner": "./Songs/19-XX/1696 - SYNTHWULF - POINT ZERO 2/1696.webp",
@@ -641,7 +665,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 476,
+        "songIndex": 572,
         "name": "16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~",
         "songPath": "./Songs/19-XX/16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~",
         "banner": "./Songs/19-XX/16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~/16A0.webp",
@@ -649,7 +673,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 477,
+        "songIndex": 573,
         "name": "16A1 - Yakikaze & Cashew - Papasito (feat. KuTiNA)",
         "songPath": "./Songs/19-XX/16A1 - Yakikaze & Cashew - Papasito (feat. KuTiNA)",
         "banner": "./Songs/19-XX/16A1 - Yakikaze & Cashew - Papasito (feat. KuTiNA)/16A1.webp",
@@ -657,7 +681,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 478,
+        "songIndex": 574,
         "name": "16A2 - Jehezukiel - Fires of Destiny",
         "songPath": "./Songs/19-XX/16A2 - Jehezukiel - Fires of Destiny",
         "banner": "./Songs/19-XX/16A2 - Jehezukiel - Fires of Destiny/16A2.webp",
@@ -665,7 +689,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 479,
+        "songIndex": 575,
         "name": "16A3 - MonstDeath - The End of the World ft. Skizzo",
         "songPath": "./Songs/19-XX/16A3 - MonstDeath - The End of the World ft. Skizzo",
         "banner": "./Songs/19-XX/16A3 - MonstDeath - The End of the World ft. Skizzo/16A3.webp",
@@ -673,7 +697,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 526,
+        "songIndex": 622,
         "name": "18000 - VECTOR",
         "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",
         "banner": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.png",
@@ -681,7 +705,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 532,
+        "songIndex": 628,
         "name": "18022 - Halloween Party ~Multiverse~",
         "songPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~",
         "banner": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~/Halloween Party ~Multiverse~.png",
@@ -689,7 +713,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 580,
+        "songIndex": 676,
         "name": "18110 - Teddy Bear",
         "songPath": "./Songs/21-PHOENIX/18110 - Teddy Bear",
         "banner": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.png",
@@ -697,7 +721,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 585,
+        "songIndex": 681,
         "name": "18127 - Pirate",
         "songPath": "./Songs/21-PHOENIX/18127 - Pirate",
         "banner": "./Songs/21-PHOENIX/18127 - Pirate/Pirate.png",
@@ -705,7 +729,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 599,
+        "songIndex": 695,
         "name": "18220 - Acquire",
         "songPath": "./Songs/21-PHOENIX/18220 - Acquire",
         "banner": "./Songs/21-PHOENIX/18220 - Acquire/Acquire.png",

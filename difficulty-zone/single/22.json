@@ -17,6 +17,38 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 298,
+        "name": "(1) 1419 - Super Fantasy",
+        "songPath": "./Songs/17-PRIME/(1) 1419 - Super Fantasy",
+        "banner": "./Songs/17-PRIME/(1) 1419 - Super Fantasy/1419.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1419 - Super Fantasy/1419 - Super Fantasy.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 338,
+        "name": "(1) 1462 - Ragnarok",
+        "songPath": "./Songs/17-PRIME/(1) 1462 - Ragnarok",
+        "banner": "./Songs/17-PRIME/(1) 1462 - Ragnarok/1462.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1462 - Ragnarok/1462 - Ragnarok.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 339,
+        "name": "(1) 1463 - Achluoias",
+        "songPath": "./Songs/17-PRIME/(1) 1463 - Achluoias",
+        "banner": "./Songs/17-PRIME/(1) 1463 - Achluoias/1463.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1463 - Achluoias/1463 - Achluoias.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 341,
+        "name": "(1) 1465 - Video out C",
+        "songPath": "./Songs/17-PRIME/(1) 1465 - Video out C",
+        "banner": "./Songs/17-PRIME/(1) 1465 - Video out C/1466.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1465 - Video out C/1466 - Video Out C.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 205,
         "name": "(2) 1212 - HardKore of The North",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1212 - HardKore of The North",
@@ -30,6 +62,14 @@
         "songPath": "./Songs/13-NX~NXA/(2) D30 - Final Audition Episode 2-2",
         "banner": "./Songs/13-NX~NXA/(2) D30 - Final Audition Episode 2-2/D30.webp",
         "sscPath": "./Songs/13-NX~NXA/(2) D30 - Final Audition Episode 2-2/D30 - Final Audition Episode 2-2.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 381,
+        "name": "(3) 1408 - Avalanche",
+        "songPath": "./Songs/17-PRIME/(3) 1408 - Avalanche",
+        "banner": "./Songs/17-PRIME/(3) 1408 - Avalanche/1408.webp",
+        "sscPath": "./Songs/17-PRIME/(3) 1408 - Avalanche/1408 - Avalanche.ssc"
     },
     {
         "stageIndex": 0,
@@ -81,7 +121,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 293,
+        "songIndex": 389,
         "name": "1505 - CROSS OVER",
         "songPath": "./Songs/18-PRIME 2/1505 - CROSS OVER",
         "banner": "./Songs/18-PRIME 2/1505 - CROSS OVER/1505.webp",
@@ -89,7 +129,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 296,
+        "songIndex": 392,
         "name": "1509 - Further",
         "songPath": "./Songs/18-PRIME 2/1509 - Further",
         "banner": "./Songs/18-PRIME 2/1509 - Further/1509.webp",
@@ -97,7 +137,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 346,
+        "songIndex": 442,
         "name": "1598 - Hyperion",
         "songPath": "./Songs/18-PRIME 2/1598 - Hyperion",
         "banner": "./Songs/18-PRIME 2/1598 - Hyperion/1598.webp",
@@ -105,7 +145,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 348,
+        "songIndex": 444,
         "name": "15A1 - BSPower Explosion",
         "songPath": "./Songs/18-PRIME 2/15A1 - BSPower Explosion",
         "banner": "./Songs/18-PRIME 2/15A1 - BSPower Explosion/15A1.webp",
@@ -113,7 +153,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 361,
+        "songIndex": 457,
         "name": "15B5 - BEDLAM",
         "songPath": "./Songs/18-PRIME 2/15B5 - BEDLAM",
         "banner": "./Songs/18-PRIME 2/15B5 - BEDLAM/15B5.webp",
@@ -121,7 +161,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 369,
+        "songIndex": 465,
         "name": "15D0 - Vulcan",
         "songPath": "./Songs/18-PRIME 2/15D0 - Vulcan",
         "banner": "./Songs/18-PRIME 2/15D0 - Vulcan/15D0.webp",
@@ -129,7 +169,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 381,
+        "songIndex": 477,
         "name": "15F1 - Death Moon",
         "songPath": "./Songs/18-PRIME 2/15F1 - Death Moon",
         "banner": "./Songs/18-PRIME 2/15F1 - Death Moon/15F1.webp",
@@ -137,7 +177,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 383,
+        "songIndex": 479,
         "name": "15F4 - Shub Niggurath",
         "songPath": "./Songs/18-PRIME 2/15F4 - Shub Niggurath",
         "banner": "./Songs/18-PRIME 2/15F4 - Shub Niggurath/15F4.webp",
@@ -145,7 +185,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 398,
+        "songIndex": 494,
         "name": "1617 - Nato - Lepton Strike",
         "songPath": "./Songs/19-XX/1617 - Nato - Lepton Strike",
         "banner": "./Songs/19-XX/1617 - Nato - Lepton Strike/1617.webp",
@@ -153,7 +193,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 399,
+        "songIndex": 495,
         "name": "1618 - Doin - Skeptic",
         "songPath": "./Songs/19-XX/1618 - Doin - Skeptic",
         "banner": "./Songs/19-XX/1618 - Doin - Skeptic/1618.webp",
@@ -161,7 +201,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 400,
+        "songIndex": 496,
         "name": "1619 - Doin - Iolite Sky",
         "songPath": "./Songs/19-XX/1619 - Doin - Iolite Sky",
         "banner": "./Songs/19-XX/1619 - Doin - Iolite Sky/1619.webp",
@@ -169,7 +209,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 402,
+        "songIndex": 498,
         "name": "1621 - Pory - La Cinquantaine",
         "songPath": "./Songs/19-XX/1621 - Pory - La Cinquantaine",
         "banner": "./Songs/19-XX/1621 - Pory - La Cinquantaine/1621.webp",
@@ -177,7 +217,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 413,
+        "songIndex": 509,
         "name": "1632 - KURORAK - DESTRUCIMATE",
         "songPath": "./Songs/19-XX/1632 - KURORAK - DESTRUCIMATE",
         "banner": "./Songs/19-XX/1632 - KURORAK - DESTRUCIMATE/1632.webp",
@@ -185,7 +225,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 414,
+        "songIndex": 510,
         "name": "1633 - Jehezukiel - Clematis Rapsodia",
         "songPath": "./Songs/19-XX/1633 - Jehezukiel - Clematis Rapsodia",
         "banner": "./Songs/19-XX/1633 - Jehezukiel - Clematis Rapsodia/1633.webp",
@@ -193,7 +233,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 420,
+        "songIndex": 516,
         "name": "1643 - Dreamcatcher - Full Moon",
         "songPath": "./Songs/19-XX/1643 - Dreamcatcher - Full Moon",
         "banner": "./Songs/19-XX/1643 - Dreamcatcher - Full Moon/1643.webp",
@@ -201,7 +241,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 445,
+        "songIndex": 541,
         "name": "1668 - Matduke - Club Night",
         "songPath": "./Songs/19-XX/1668 - Matduke - Club Night",
         "banner": "./Songs/19-XX/1668 - Matduke - Club Night/1668.webp",
@@ -209,7 +249,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 446,
+        "songIndex": 542,
         "name": "1669 - Matduke - Indestructible",
         "songPath": "./Songs/19-XX/1669 - Matduke - Indestructible",
         "banner": "./Songs/19-XX/1669 - Matduke - Indestructible/1669.webp",
@@ -217,7 +257,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 448,
+        "songIndex": 544,
         "name": "1671 - HyuN feat. Syepias - CROSS SOUL",
         "songPath": "./Songs/19-XX/1671 - HyuN feat. Syepias - CROSS SOUL",
         "banner": "./Songs/19-XX/1671 - HyuN feat. Syepias - CROSS SOUL/1671.webp",
@@ -225,7 +265,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 450,
+        "songIndex": 546,
         "name": "1673 - TOTO - After a thousand years",
         "songPath": "./Songs/19-XX/1673 - TOTO - After a thousand years",
         "banner": "./Songs/19-XX/1673 - TOTO - After a thousand years/1673.webp",
@@ -233,7 +273,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 453,
+        "songIndex": 549,
         "name": "1676 - Siromaru + Cranky - Conflict",
         "songPath": "./Songs/19-XX/1676 - Siromaru + Cranky - Conflict",
         "banner": "./Songs/19-XX/1676 - Siromaru + Cranky - Conflict/1676.webp",
@@ -241,7 +281,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 460,
+        "songIndex": 556,
         "name": "1683 - Yamajet - Cycling",
         "songPath": "./Songs/19-XX/1683 - Yamajet - Cycling",
         "banner": "./Songs/19-XX/1683 - Yamajet - Cycling/1683.webp",
@@ -249,7 +289,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 461,
+        "songIndex": 557,
         "name": "1684 - Memme - Uranium",
         "songPath": "./Songs/19-XX/1684 - Memme - Uranium",
         "banner": "./Songs/19-XX/1684 - Memme - Uranium/1684.webp",
@@ -257,7 +297,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 468,
+        "songIndex": 564,
         "name": "1691 - Lunatic Sounds - Dement ~After Legend~",
         "songPath": "./Songs/19-XX/1691 - Lunatic Sounds - Dement ~After Legend~",
         "banner": "./Songs/19-XX/1691 - Lunatic Sounds - Dement ~After Legend~/1691.webp",
@@ -265,7 +305,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 472,
+        "songIndex": 568,
         "name": "1695 - Cranky - Phalanx RS2018 edit",
         "songPath": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit",
         "banner": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit/1695.webp",
@@ -273,7 +313,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 473,
+        "songIndex": 569,
         "name": "1696 - SYNTHWULF - POINT ZERO 2",
         "songPath": "./Songs/19-XX/1696 - SYNTHWULF - POINT ZERO 2",
         "banner": "./Songs/19-XX/1696 - SYNTHWULF - POINT ZERO 2/1696.webp",
@@ -281,7 +321,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 474,
+        "songIndex": 570,
         "name": "1697 - NOMA - BRAIN POWER",
         "songPath": "./Songs/19-XX/1697 - NOMA - BRAIN POWER",
         "banner": "./Songs/19-XX/1697 - NOMA - BRAIN POWER/1697.webp",
@@ -289,7 +329,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 476,
+        "songIndex": 572,
         "name": "16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~",
         "songPath": "./Songs/19-XX/16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~",
         "banner": "./Songs/19-XX/16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~/16A0.webp",
@@ -297,7 +337,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 478,
+        "songIndex": 574,
         "name": "16A2 - Jehezukiel - Fires of Destiny",
         "songPath": "./Songs/19-XX/16A2 - Jehezukiel - Fires of Destiny",
         "banner": "./Songs/19-XX/16A2 - Jehezukiel - Fires of Destiny/16A2.webp",
@@ -305,7 +345,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 483,
+        "songIndex": 579,
         "name": "16D0 - Applesoda vs MAX - Desaparecer",
         "songPath": "./Songs/19-XX/16D0 - Applesoda vs MAX - Desaparecer",
         "banner": "./Songs/19-XX/16D0 - Applesoda vs MAX - Desaparecer/16D0.webp",
@@ -313,7 +353,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 498,
+        "songIndex": 594,
         "name": "16F0 - Nato - Nyarlathotep - SHORT CUT -",
         "songPath": "./Songs/19-XX/16F0 - Nato - Nyarlathotep - SHORT CUT -",
         "banner": "./Songs/19-XX/16F0 - Nato - Nyarlathotep - SHORT CUT -/16F0.webp",
@@ -321,7 +361,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 509,
+        "songIndex": 605,
         "name": "1703 - ESP",
         "songPath": "./Songs/21-PHOENIX/1703 - ESP",
         "banner": "./Songs/21-PHOENIX/1703 - ESP/1703-wide.png",
@@ -329,7 +369,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 510,
+        "songIndex": 606,
         "name": "1706 - Highway Chaser",
         "songPath": "./Songs/21-PHOENIX/1706 - Highway Chaser",
         "banner": "./Songs/21-PHOENIX/1706 - Highway Chaser/1706.png",
@@ -337,7 +377,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 512,
+        "songIndex": 608,
         "name": "1717 - About The Universe",
         "songPath": "./Songs/21-PHOENIX/1717 - About The Universe",
         "banner": "./Songs/21-PHOENIX/1717 - About The Universe/1717.png",
@@ -345,7 +385,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 514,
+        "songIndex": 610,
         "name": "1720 - Dancing",
         "songPath": "./Songs/21-PHOENIX/1720 - Dancing",
         "banner": "./Songs/21-PHOENIX/1720 - Dancing/1720.png",
@@ -353,7 +393,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 515,
+        "songIndex": 611,
         "name": "1721 - Galaxy Collapse",
         "songPath": "./Songs/21-PHOENIX/1721 - Galaxy Collapse",
         "banner": "./Songs/21-PHOENIX/1721 - Galaxy Collapse/1721.png",
@@ -361,7 +401,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 518,
+        "songIndex": 614,
         "name": "1724 - Human Extinction (PIU Edit.)",
         "songPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)",
         "banner": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)/1724.png",
@@ -369,7 +409,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 520,
+        "songIndex": 616,
         "name": "1726 - Underworld ft. Skizzo (PIU Edit.)",
         "songPath": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)",
         "banner": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)/1726.png",
@@ -377,7 +417,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 521,
+        "songIndex": 617,
         "name": "1730 - Eternal Universe",
         "songPath": "./Songs/21-PHOENIX/1730 - Eternal Universe",
         "banner": "./Songs/21-PHOENIX/1730 - Eternal Universe/1730.png",
@@ -385,7 +425,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 522,
+        "songIndex": 618,
         "name": "1732 - Burn Out",
         "songPath": "./Songs/21-PHOENIX/1732 - Burn Out",
         "banner": "./Songs/21-PHOENIX/1732 - Burn Out/1732.png",
@@ -393,7 +433,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 523,
+        "songIndex": 619,
         "name": "1734 - 4NT",
         "songPath": "./Songs/21-PHOENIX/1734 - 4NT",
         "banner": "./Songs/21-PHOENIX/1734 - 4NT/1734.png",
@@ -401,7 +441,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 524,
+        "songIndex": 620,
         "name": "1744 - Ultimate Eyes",
         "songPath": "./Songs/21-PHOENIX/1744 - Ultimate Eyes",
         "banner": "./Songs/21-PHOENIX/1744 - Ultimate Eyes/1744.png",
@@ -409,7 +449,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 526,
+        "songIndex": 622,
         "name": "18000 - VECTOR",
         "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",
         "banner": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.png",
@@ -417,7 +457,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 527,
+        "songIndex": 623,
         "name": "18005 - Versailles",
         "songPath": "./Songs/21-PHOENIX/18005 - Versailles",
         "banner": "./Songs/21-PHOENIX/18005 - Versailles/Versailles.png",
@@ -425,7 +465,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 528,
+        "songIndex": 624,
         "name": "18006 - The Apocalypse",
         "songPath": "./Songs/21-PHOENIX/18006 - The Apocalypse",
         "banner": "./Songs/21-PHOENIX/18006 - The Apocalypse/The Apocalypse.png",
@@ -433,7 +473,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 530,
+        "songIndex": 626,
         "name": "18015 - BOOOM!!",
         "songPath": "./Songs/21-PHOENIX/18015 - BOOOM!!",
         "banner": "./Songs/21-PHOENIX/18015 - BOOOM!!/BOOOM!!.png",
@@ -441,7 +481,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 532,
+        "songIndex": 628,
         "name": "18022 - Halloween Party ~Multiverse~",
         "songPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~",
         "banner": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~/Halloween Party ~Multiverse~.png",
@@ -449,7 +489,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 535,
+        "songIndex": 631,
         "name": "18030 - KUGUTSU",
         "songPath": "./Songs/21-PHOENIX/18030 - KUGUTSU",
         "banner": "./Songs/21-PHOENIX/18030 - KUGUTSU/KUGUTSU.png",
@@ -457,7 +497,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 536,
+        "songIndex": 632,
         "name": "18033 - Flavor Step!",
         "songPath": "./Songs/21-PHOENIX/18033 - Flavor Step!",
         "banner": "./Songs/21-PHOENIX/18033 - Flavor Step!/Flavor Step!.png",
@@ -465,7 +505,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 538,
+        "songIndex": 634,
         "name": "18033.5 - Lucid Dream",
         "songPath": "./Songs/21-PHOENIX/18033.5 - Lucid Dream",
         "banner": "./Songs/21-PHOENIX/18033.5 - Lucid Dream/Lucid Dream.png",
@@ -473,7 +513,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 539,
+        "songIndex": 635,
         "name": "18034 - See",
         "songPath": "./Songs/21-PHOENIX/18034 - See",
         "banner": "./Songs/21-PHOENIX/18034 - See/See.png",
@@ -481,7 +521,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 540,
+        "songIndex": 636,
         "name": "18035 - Etude Op 10-4",
         "songPath": "./Songs/21-PHOENIX/18035 - Etude Op 10-4",
         "banner": "./Songs/21-PHOENIX/18035 - Etude Op 10-4/Etude Op 10-4.png",
@@ -489,7 +529,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 543,
+        "songIndex": 639,
         "name": "18036.5 - DUEL",
         "songPath": "./Songs/21-PHOENIX/18036.5 - DUEL",
         "banner": "./Songs/21-PHOENIX/18036.5 - DUEL/DUEL.png",
@@ -497,7 +537,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 544,
+        "songIndex": 640,
         "name": "18036.7 - Vanish 2 - Roar of the invisible dragon",
         "songPath": "./Songs/21-PHOENIX/18036.7 - Vanish 2 - Roar of the invisible dragon",
         "banner": "./Songs/21-PHOENIX/18036.7 - Vanish 2 - Roar of the invisible dragon/Vanish 2 - Roar of the invisible dragon.png",
@@ -505,7 +545,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 545,
+        "songIndex": 641,
         "name": "18037 - Lacrimosa",
         "songPath": "./Songs/21-PHOENIX/18037 - Lacrimosa",
         "banner": "./Songs/21-PHOENIX/18037 - Lacrimosa/Lacrimosa.png",
@@ -513,7 +553,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 546,
+        "songIndex": 642,
         "name": "18039 - Solfeggietto",
         "songPath": "./Songs/21-PHOENIX/18039 - Solfeggietto",
         "banner": "./Songs/21-PHOENIX/18039 - Solfeggietto/16A8.png",
@@ -521,7 +561,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 547,
+        "songIndex": 643,
         "name": "18040 - MURDOCH",
         "songPath": "./Songs/21-PHOENIX/18040 - MURDOCH",
         "banner": "./Songs/21-PHOENIX/18040 - MURDOCH/16A9.png",
@@ -529,7 +569,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 550,
+        "songIndex": 646,
         "name": "18043 - Barber's Madness",
         "songPath": "./Songs/21-PHOENIX/18043 - Barber's Madness",
         "banner": "./Songs/21-PHOENIX/18043 - Barber's Madness/16B2.png",
@@ -537,7 +577,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 555,
+        "songIndex": 651,
         "name": "18045 - Lohxia",
         "songPath": "./Songs/21-PHOENIX/18045 - Lohxia",
         "banner": "./Songs/21-PHOENIX/18045 - Lohxia/Lohxia.png",
@@ -545,7 +585,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 557,
+        "songIndex": 653,
         "name": "18046.5 - Imperium",
         "songPath": "./Songs/21-PHOENIX/18046.5 - Imperium",
         "banner": "./Songs/21-PHOENIX/18046.5 - Imperium/Imperium.png",
@@ -553,7 +593,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 558,
+        "songIndex": 654,
         "name": "18047 - Neo Catharsis",
         "songPath": "./Songs/21-PHOENIX/18047 - Neo Catharsis",
         "banner": "./Songs/21-PHOENIX/18047 - Neo Catharsis/Neo Catharsis.png",
@@ -561,7 +601,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 559,
+        "songIndex": 655,
         "name": "18048 - Appassionata",
         "songPath": "./Songs/21-PHOENIX/18048 - Appassionata",
         "banner": "./Songs/21-PHOENIX/18048 - Appassionata/Appassionata.png",
@@ -569,7 +609,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 560,
+        "songIndex": 656,
         "name": "18048.5 - Super Akuma Emperor",
         "songPath": "./Songs/21-PHOENIX/18048.5 - Super Akuma Emperor",
         "banner": "./Songs/21-PHOENIX/18048.5 - Super Akuma Emperor/Super Akuma Emperor.png",
@@ -577,7 +617,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 561,
+        "songIndex": 657,
         "name": "18049 - Curiosity Overdrive",
         "songPath": "./Songs/21-PHOENIX/18049 - Curiosity Overdrive",
         "banner": "./Songs/21-PHOENIX/18049 - Curiosity Overdrive/Curiosity Overdrive.png",
@@ -585,7 +625,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 563,
+        "songIndex": 659,
         "name": "18049.5 - MEGAHEARTZ",
         "songPath": "./Songs/21-PHOENIX/18049.5 - MEGAHEARTZ",
         "banner": "./Songs/21-PHOENIX/18049.5 - MEGAHEARTZ/MEGAHEARTZ.png",
@@ -593,7 +633,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 564,
+        "songIndex": 660,
         "name": "18049.6 - Darkside Of The Mind",
         "songPath": "./Songs/21-PHOENIX/18049.6 - Darkside Of The Mind",
         "banner": "./Songs/21-PHOENIX/18049.6 - Darkside Of The Mind/Darkside Of The Mind.png",
@@ -601,7 +641,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 565,
+        "songIndex": 661,
         "name": "18049.7 - E.O.N",
         "songPath": "./Songs/21-PHOENIX/18049.7 - E.O.N",
         "banner": "./Songs/21-PHOENIX/18049.7 - E.O.N/E.O.N.png",
@@ -609,7 +649,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 566,
+        "songIndex": 662,
         "name": "18050 - CHAOS AGAIN",
         "songPath": "./Songs/21-PHOENIX/18050 - CHAOS AGAIN",
         "banner": "./Songs/21-PHOENIX/18050 - CHAOS AGAIN/CHAOS AGAIN.png",
@@ -617,7 +657,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 568,
+        "songIndex": 664,
         "name": "18054 - Glimmer Gleam",
         "songPath": "./Songs/21-PHOENIX/18054 - Glimmer Gleam",
         "banner": "./Songs/21-PHOENIX/18054 - Glimmer Gleam/Glimmer Gleam.png",
@@ -625,7 +665,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 572,
+        "songIndex": 668,
         "name": "18065 - Uh-Heung",
         "songPath": "./Songs/21-PHOENIX/18065 - Uh-Heung",
         "banner": "./Songs/21-PHOENIX/18065 - Uh-Heung/Uh-Heung.png",
@@ -633,7 +673,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 577,
+        "songIndex": 673,
         "name": "18080 - Queencard",
         "songPath": "./Songs/21-PHOENIX/18080 - Queencard",
         "banner": "./Songs/21-PHOENIX/18080 - Queencard/Queencard.png",
@@ -641,7 +681,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 585,
+        "songIndex": 681,
         "name": "18127 - Pirate",
         "songPath": "./Songs/21-PHOENIX/18127 - Pirate",
         "banner": "./Songs/21-PHOENIX/18127 - Pirate/Pirate.png",
@@ -649,7 +689,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 595,
+        "songIndex": 691,
         "name": "18200 - GOODTEK",
         "songPath": "./Songs/21-PHOENIX/18200 - GOODTEK",
         "banner": "./Songs/21-PHOENIX/18200 - GOODTEK/GOODTEK.png",
@@ -657,7 +697,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 597,
+        "songIndex": 693,
         "name": "18210 - Energy Synergy Matrix",
         "songPath": "./Songs/21-PHOENIX/18210 - Energy Synergy Matrix",
         "banner": "./Songs/21-PHOENIX/18210 - Energy Synergy Matrix/Energy Synergy Matrix.png",
@@ -665,7 +705,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 598,
+        "songIndex": 694,
         "name": "18215 - MilK",
         "songPath": "./Songs/21-PHOENIX/18215 - MilK",
         "banner": "./Songs/21-PHOENIX/18215 - MilK/MilK.png",
@@ -673,7 +713,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 602,
+        "songIndex": 698,
         "name": "18233 - iRELLiA",
         "songPath": "./Songs/21-PHOENIX/18233 - iRELLiA",
         "banner": "./Songs/21-PHOENIX/18233 - iRELLiA/iRELLiA.png",
@@ -681,7 +721,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 604,
+        "songIndex": 700,
         "name": "18236 - Alice in Misanthrope",
         "songPath": "./Songs/21-PHOENIX/18236 - Alice in Misanthrope",
         "banner": "./Songs/21-PHOENIX/18236 - Alice in Misanthrope/Alice in Misanthrope.png",
@@ -689,7 +729,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 605,
+        "songIndex": 701,
         "name": "18237 - R.I.P",
         "songPath": "./Songs/21-PHOENIX/18237 - R.I.P",
         "banner": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..png",
@@ -697,7 +737,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 607,
+        "songIndex": 703,
         "name": "18238 - PUPA",
         "songPath": "./Songs/21-PHOENIX/18238 - PUPA",
         "banner": "./Songs/21-PHOENIX/18238 - PUPA/PUPA.png",
@@ -705,7 +745,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 609,
+        "songIndex": 705,
         "name": "18238.7 - Rush-More",
         "songPath": "./Songs/21-PHOENIX/18238.7 - Rush-More",
         "banner": "./Songs/21-PHOENIX/18238.7 - Rush-More/Rush-More.png",
@@ -713,7 +753,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 610,
+        "songIndex": 706,
         "name": "18238.7.0 - Rush-Hour",
         "songPath": "./Songs/21-PHOENIX/18238.7.0 - Rush-Hour",
         "banner": "./Songs/21-PHOENIX/18238.7.0 - Rush-Hour/Rush-Hour.png",
@@ -721,7 +761,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 611,
+        "songIndex": 707,
         "name": "18238.7.1 - this game does not exist",
         "songPath": "./Songs/21-PHOENIX/18238.7.1 - this game does not exist",
         "banner": "./Songs/21-PHOENIX/18238.7.1 - this game does not exist/this game does not exist.png",
@@ -729,7 +769,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 612,
+        "songIndex": 708,
         "name": "18238.7.5 - Mahika",
         "songPath": "./Songs/21-PHOENIX/18238.7.5 - Mahika",
         "banner": "./Songs/21-PHOENIX/18238.7.5 - Mahika/Mahika.png",
@@ -737,7 +777,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 613,
+        "songIndex": 709,
         "name": "18238.8 - Giselle",
         "songPath": "./Songs/21-PHOENIX/18238.8 - Giselle",
         "banner": "./Songs/21-PHOENIX/18238.8 - Giselle/Giselle.png",
@@ -745,7 +785,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 615,
+        "songIndex": 711,
         "name": "18239 - Aragami",
         "songPath": "./Songs/21-PHOENIX/18239 - Aragami",
         "banner": "./Songs/21-PHOENIX/18239 - Aragami/Aragami.png",
@@ -753,7 +793,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 616,
+        "songIndex": 712,
         "name": "18240 - Halcyon",
         "songPath": "./Songs/21-PHOENIX/18240 - Halcyon",
         "banner": "./Songs/21-PHOENIX/18240 - Halcyon/Halcyon.png",
@@ -761,7 +801,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 617,
+        "songIndex": 713,
         "name": "18242 - Destr0yer",
         "songPath": "./Songs/21-PHOENIX/18242 - Destr0yer",
         "banner": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.png",
@@ -769,7 +809,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 620,
+        "songIndex": 716,
         "name": "18242.5 - Odin",
         "songPath": "./Songs/21-PHOENIX/18242.5 - Odin",
         "banner": "./Songs/21-PHOENIX/18242.5 - Odin/Odin.png",
@@ -777,7 +817,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 623,
+        "songIndex": 719,
         "name": "18242.7 - Poppin' Shower",
         "songPath": "./Songs/21-PHOENIX/18242.7 - Poppin' Shower",
         "banner": "./Songs/21-PHOENIX/18242.7 - Poppin' Shower/Poppin' Shower.png",
@@ -785,7 +825,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 626,
+        "songIndex": 722,
         "name": "18243.5 - Chobit Flavor",
         "songPath": "./Songs/21-PHOENIX/18243.5 - Chobit Flavor",
         "banner": "./Songs/21-PHOENIX/18243.5 - Chobit Flavor/Chobit Flavor.png",
@@ -793,7 +833,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 627,
+        "songIndex": 723,
         "name": "18243.7 - ALiVE",
         "songPath": "./Songs/21-PHOENIX/18243.7 - ALiVE",
         "banner": "./Songs/21-PHOENIX/18243.7 - ALiVE/ALiVE.png",
@@ -801,7 +841,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 628,
+        "songIndex": 724,
         "name": "18244 - TRICKL4SH 220",
         "songPath": "./Songs/21-PHOENIX/18244 - TRICKL4SH 220",
         "banner": "./Songs/21-PHOENIX/18244 - TRICKL4SH 220/TRICKL4SH 220.png",
@@ -809,7 +849,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 630,
+        "songIndex": 726,
         "name": "18244.5 - Extreme Music School 2nd period feat. Nanahira",
         "songPath": "./Songs/21-PHOENIX/18244.5 - Extreme Music School 2nd period feat. Nanahira",
         "banner": "./Songs/21-PHOENIX/18244.5 - Extreme Music School 2nd period feat. Nanahira/Extreme Music School 2nd period feat. Nanahira.png",
@@ -817,7 +857,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 631,
+        "songIndex": 727,
         "name": "18245 - BATTLE NO.1",
         "songPath": "./Songs/21-PHOENIX/18245 - BATTLE NO.1",
         "banner": "./Songs/21-PHOENIX/18245 - BATTLE NO.1/BATTLE NO.1.png",
@@ -825,7 +865,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 634,
+        "songIndex": 730,
         "name": "18251 - Heliosphere",
         "songPath": "./Songs/21-PHOENIX/18251 - Heliosphere",
         "banner": "./Songs/21-PHOENIX/18251 - Heliosphere/Heliosphere.png",
@@ -833,7 +873,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 636,
+        "songIndex": 732,
         "name": "18A10 - Hercules",
         "songPath": "./Songs/21-PHOENIX/18A10 - Hercules",
         "banner": "./Songs/21-PHOENIX/18A10 - Hercules/Hercules.png",
@@ -841,7 +881,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 637,
+        "songIndex": 733,
         "name": "18A20 - INVASION",
         "songPath": "./Songs/21-PHOENIX/18A20 - INVASION",
         "banner": "./Songs/21-PHOENIX/18A20 - INVASION/INVASION.png",
@@ -849,7 +889,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 638,
+        "songIndex": 734,
         "name": "18A30 - Earendel",
         "songPath": "./Songs/21-PHOENIX/18A30 - Earendel",
         "banner": "./Songs/21-PHOENIX/18A30 - Earendel/Earendel.png",
@@ -857,7 +897,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 639,
+        "songIndex": 735,
         "name": "18A40 - Hymn of Golden Glory",
         "songPath": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory",
         "banner": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory/Hymn of Golden Glory.png",
@@ -865,7 +905,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 640,
+        "songIndex": 736,
         "name": "18A50 - Athena's Shield",
         "songPath": "./Songs/21-PHOENIX/18A50 - Athena's Shield",
         "banner": "./Songs/21-PHOENIX/18A50 - Athena's Shield/Athena's Shield.png",
@@ -873,7 +913,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 641,
+        "songIndex": 737,
         "name": "18A60 - Murdoch vs Otada",
         "songPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada",
         "banner": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.png",
@@ -881,7 +921,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 644,
+        "songIndex": 740,
         "name": "18A90 - Crimson hood",
         "songPath": "./Songs/21-PHOENIX/18A90 - Crimson hood",
         "banner": "./Songs/21-PHOENIX/18A90 - Crimson hood/Crimson hood.png",
@@ -889,7 +929,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 645,
+        "songIndex": 741,
         "name": "18A99 - Doppelganger",
         "songPath": "./Songs/21-PHOENIX/18A99 - Doppelganger",
         "banner": "./Songs/21-PHOENIX/18A99 - Doppelganger/Doppelganger.png",
@@ -897,7 +937,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 646,
+        "songIndex": 742,
         "name": "18D10 - [Remix] DISTRICT V",
         "songPath": "./Songs/21-PHOENIX/18D10 - [Remix] DISTRICT V",
         "banner": "./Songs/21-PHOENIX/18D10 - [Remix] DISTRICT V/[Remix] DISTRICT V.png",
@@ -905,7 +945,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 648,
+        "songIndex": 744,
         "name": "18F60 - [Short Cut] Euphorianic",
         "songPath": "./Songs/21-PHOENIX/18F60 - [Short Cut] Euphorianic",
         "banner": "./Songs/21-PHOENIX/18F60 - [Short Cut] Euphorianic/[Short Cut] Euphorianic.png",
@@ -913,7 +953,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 650,
+        "songIndex": 746,
         "name": "18F70 - [Short Cut] Jupin",
         "songPath": "./Songs/21-PHOENIX/18F70 - [Short Cut] Jupin",
         "banner": "./Songs/21-PHOENIX/18F70 - [Short Cut] Jupin/[Short Cut] Jupin.png",
@@ -921,7 +961,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 651,
+        "songIndex": 747,
         "name": "18F75 - [Short Cut] Ghroth",
         "songPath": "./Songs/21-PHOENIX/18F75 - [Short Cut] Ghroth",
         "banner": "./Songs/21-PHOENIX/18F75 - [Short Cut] Ghroth/[Short Cut] Ghroth.png",

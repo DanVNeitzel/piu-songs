@@ -1,19 +1,11 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 680,
+        "songIndex": 776,
         "name": "(01)E00001661-Bon Bon Chocolat",
         "songPath": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat",
         "banner": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat/1661.png",
         "sscPath": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat/1661 - Bon Bon Chocolat.ssc"
-    },
-    {
-        "stageIndex": 0,
-        "songIndex": 702,
-        "name": "(07)E00001425-Sugar Conspiracy Theory",
-        "songPath": "./Songs/ORIGINAL/(07)E00001425-Sugar Conspiracy Theory",
-        "banner": "./Songs/ORIGINAL/(07)E00001425-Sugar Conspiracy Theory/1425.png",
-        "sscPath": "./Songs/ORIGINAL/(07)E00001425-Sugar Conspiracy Theory/1425 - Sugar Conspiracy Theory.ssc"
     },
     {
         "stageIndex": 0,
@@ -81,6 +73,70 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 304,
+        "name": "(1) 1425 - Sugar Conspiracy Theory",
+        "songPath": "./Songs/17-PRIME/(1) 1425 - Sugar Conspiracy Theory",
+        "banner": "./Songs/17-PRIME/(1) 1425 - Sugar Conspiracy Theory/1425.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1425 - Sugar Conspiracy Theory/1425 - Sugar Conspiracy Theory.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 313,
+        "name": "(1) 1435 - You Again My Love",
+        "songPath": "./Songs/17-PRIME/(1) 1435 - You Again My Love",
+        "banner": "./Songs/17-PRIME/(1) 1435 - You Again My Love/1435.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1435 - You Again My Love/1435 - You Again My Love.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 330,
+        "name": "(1) 1452 - One",
+        "songPath": "./Songs/17-PRIME/(1) 1452 - One",
+        "banner": "./Songs/17-PRIME/(1) 1452 - One/1452.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1452 - One/1452 - One.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 355,
+        "name": "(1) 1481 - Bad Apple!! (feat. Nomico)",
+        "songPath": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (feat. Nomico)",
+        "banner": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (feat. Nomico)/1481.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (feat. Nomico)/1481 - Bad Apple!! (feat. Nomico).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 354,
+        "name": "(1) 1481 - Bad Apple!! (Original Ver.)",
+        "songPath": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (Original Ver.)",
+        "banner": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (Original Ver.)/1481.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (Original Ver.)/1481 - Bad Apple!!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 358,
+        "name": "(1) 1484 - Four Seasons of Loneliness ver.B",
+        "songPath": "./Songs/17-PRIME/(1) 1484 - Four Seasons of Loneliness ver.B",
+        "banner": "./Songs/17-PRIME/(1) 1484 - Four Seasons of Loneliness ver.B/1484.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1484 - Four Seasons of Loneliness ver.B/1484 - Four Seasons of Loneliness ver.B.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 359,
+        "name": "(1) 1485 - Ai Yurete",
+        "songPath": "./Songs/17-PRIME/(1) 1485 - Ai Yurete",
+        "banner": "./Songs/17-PRIME/(1) 1485 - Ai Yurete/1485.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1485 - Ai Yurete/1485 - Ai, Yurete.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 360,
+        "name": "(1) 1486 - Setsuna Trip",
+        "songPath": "./Songs/17-PRIME/(1) 1486 - Setsuna Trip",
+        "banner": "./Songs/17-PRIME/(1) 1486 - Setsuna Trip/1486.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1486 - Setsuna Trip/1486 - Last Note - Setsuna Trip.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 70,
         "name": "(1) E08 - Get My Phone Call",
         "songPath": "./Songs/13-NX~NXA/(1) E08 - Get My Phone Call",
@@ -145,7 +201,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 718,
+        "songIndex": 814,
         "name": "(18)E00001210-Kitty Cat",
         "songPath": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat",
         "banner": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat/1210.png",
@@ -206,14 +262,6 @@
         "songPath": "./Songs/13-NX~NXA/(2) D21 - So",
         "banner": "./Songs/13-NX~NXA/(2) D21 - So/D21.webp",
         "sscPath": "./Songs/13-NX~NXA/(2) D21 - So/D21 - So.ssc"
-    },
-    {
-        "stageIndex": 0,
-        "songIndex": 721,
-        "name": "(20)E00001481-Bad Apple!! feat. Nomico",
-        "songPath": "./Songs/ORIGINAL/(20)E00001481-Bad Apple!! feat. Nomico",
-        "banner": "./Songs/ORIGINAL/(20)E00001481-Bad Apple!! feat. Nomico/1481.png",
-        "sscPath": "./Songs/ORIGINAL/(20)E00001481-Bad Apple!! feat. Nomico/1481 - Bad Apple!! feat. Nomico.ssc"
     },
     {
         "stageIndex": 0,
@@ -329,7 +377,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 318,
+        "songIndex": 414,
         "name": "1544 - Bang Bang Bang",
         "songPath": "./Songs/18-PRIME 2/1544 - Bang Bang Bang",
         "banner": "./Songs/18-PRIME 2/1544 - Bang Bang Bang/1544.webp",
@@ -337,7 +385,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 322,
+        "songIndex": 418,
         "name": "1548 - Pick Me",
         "songPath": "./Songs/18-PRIME 2/1548 - Pick Me",
         "banner": "./Songs/18-PRIME 2/1548 - Pick Me/1548.webp",
@@ -345,7 +393,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 323,
+        "songIndex": 419,
         "name": "1549 - Jackpot",
         "songPath": "./Songs/18-PRIME 2/1549 - Jackpot",
         "banner": "./Songs/18-PRIME 2/1549 - Jackpot/1549.webp",
@@ -353,7 +401,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 417,
+        "songIndex": 513,
         "name": "1636 - Cashew - Stardream (feat. Romelon)",
         "songPath": "./Songs/19-XX/1636 - Cashew - Stardream (feat. Romelon)",
         "banner": "./Songs/19-XX/1636 - Cashew - Stardream (feat. Romelon)/1636.webp",
@@ -361,7 +409,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 422,
+        "songIndex": 518,
         "name": "1645 - Dreamcatcher - Fly high",
         "songPath": "./Songs/19-XX/1645 - Dreamcatcher - Fly high",
         "banner": "./Songs/19-XX/1645 - Dreamcatcher - Fly high/1645.webp",
@@ -369,7 +417,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 424,
+        "songIndex": 520,
         "name": "1647 - (G)I-DLE - HANN (Alone)",
         "songPath": "./Songs/19-XX/1647 - (G)I-DLE - HANN (Alone)",
         "banner": "./Songs/19-XX/1647 - (G)I-DLE - HANN (Alone)/1647.webp",
@@ -377,7 +425,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 431,
+        "songIndex": 527,
         "name": "1654 - SEVENTEEN - HIT",
         "songPath": "./Songs/19-XX/1654 - SEVENTEEN - HIT",
         "banner": "./Songs/19-XX/1654 - SEVENTEEN - HIT/1654.webp",
@@ -385,7 +433,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 432,
+        "songIndex": 528,
         "name": "1655 - MOMOLAND - BBoom BBoom",
         "songPath": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom",
         "banner": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom/1655.webp",
@@ -393,7 +441,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 435,
+        "songIndex": 531,
         "name": "1658 - MAMAMOO - Starry Night",
         "songPath": "./Songs/19-XX/1658 - MAMAMOO - Starry Night",
         "banner": "./Songs/19-XX/1658 - MAMAMOO - Starry Night/1658.webp",
@@ -401,7 +449,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 436,
+        "songIndex": 532,
         "name": "1659 - iKON - LOVE SCENARIO",
         "songPath": "./Songs/19-XX/1659 - iKON - LOVE SCENARIO",
         "banner": "./Songs/19-XX/1659 - iKON - LOVE SCENARIO/1659.webp",
@@ -409,7 +457,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 438,
+        "songIndex": 534,
         "name": "1661 - EVERBLOW - Bon Bon Chocolat",
         "songPath": "./Songs/19-XX/1661 - EVERBLOW - Bon Bon Chocolat",
         "banner": "./Songs/19-XX/1661 - EVERBLOW - Bon Bon Chocolat/1661.webp",
@@ -417,7 +465,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 441,
+        "songIndex": 537,
         "name": "1664 - Dreamcatcher - YOU AND I",
         "songPath": "./Songs/19-XX/1664 - Dreamcatcher - YOU AND I",
         "banner": "./Songs/19-XX/1664 - Dreamcatcher - YOU AND I/1664.webp",
@@ -425,7 +473,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 444,
+        "songIndex": 540,
         "name": "1667 - HAON - Boong Boong (Feat. Sik-K) (Prod. GroovyRoom)",
         "songPath": "./Songs/19-XX/1667 - HAON - Boong Boong (Feat. Sik-K) (Prod. GroovyRoom)",
         "banner": "./Songs/19-XX/1667 - HAON - Boong Boong (Feat. Sik-K) (Prod. GroovyRoom)/1667.webp",
@@ -433,7 +481,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 451,
+        "songIndex": 547,
         "name": "1674 - Yassi Pressman - Lala",
         "songPath": "./Songs/19-XX/1674 - Yassi Pressman - Lala",
         "banner": "./Songs/19-XX/1674 - Yassi Pressman - Lala/1674.webp",
@@ -441,7 +489,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 541,
+        "songIndex": 637,
         "name": "18036 - Stardream -Eurobeat Remix-",
         "songPath": "./Songs/21-PHOENIX/18036 - Stardream -Eurobeat Remix-",
         "banner": "./Songs/21-PHOENIX/18036 - Stardream -Eurobeat Remix-/Stardream -Eurobeat Remix-.png",
@@ -449,7 +497,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 581,
+        "songIndex": 677,
         "name": "18115 - Alone",
         "songPath": "./Songs/21-PHOENIX/18115 - Alone",
         "banner": "./Songs/21-PHOENIX/18115 - Alone/Alone.png",
@@ -457,7 +505,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 583,
+        "songIndex": 679,
         "name": "18125 - After LIKE",
         "songPath": "./Songs/21-PHOENIX/18125 - After LIKE",
         "banner": "./Songs/21-PHOENIX/18125 - After LIKE/After LIKE.png",
@@ -465,7 +513,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 592,
+        "songIndex": 688,
         "name": "18140 - Airplane",
         "songPath": "./Songs/21-PHOENIX/18140 - Airplane",
         "banner": "./Songs/21-PHOENIX/18140 - Airplane/Airplane.png",
@@ -473,7 +521,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 636,
+        "songIndex": 732,
         "name": "18A10 - Hercules",
         "songPath": "./Songs/21-PHOENIX/18A10 - Hercules",
         "banner": "./Songs/21-PHOENIX/18A10 - Hercules/Hercules.png",

@@ -33,6 +33,38 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 289,
+        "name": "(1) 1410 - Requiem",
+        "songPath": "./Songs/17-PRIME/(1) 1410 - Requiem",
+        "banner": "./Songs/17-PRIME/(1) 1410 - Requiem/1410.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1410 - Requiem/1410 - Requiem.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 338,
+        "name": "(1) 1462 - Ragnarok",
+        "songPath": "./Songs/17-PRIME/(1) 1462 - Ragnarok",
+        "banner": "./Songs/17-PRIME/(1) 1462 - Ragnarok/1462.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1462 - Ragnarok/1462 - Ragnarok.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 347,
+        "name": "(1) 1474 - Moment Day",
+        "songPath": "./Songs/17-PRIME/(1) 1474 - Moment Day",
+        "banner": "./Songs/17-PRIME/(1) 1474 - Moment Day/1474.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1474 - Moment Day/1474 - Moment Day.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 369,
+        "name": "(1) 1495 - Unlock (cover)",
+        "songPath": "./Songs/17-PRIME/(1) 1495 - Unlock (cover)",
+        "banner": "./Songs/17-PRIME/(1) 1495 - Unlock (cover)/1495.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1495 - Unlock (cover)/1495 - Unlock (cover).ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 67,
         "name": "(1) E05 - Monkey Fingers 2",
         "songPath": "./Songs/13-NX~NXA/(1) E05 - Monkey Fingers 2",
@@ -169,7 +201,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 291,
+        "songIndex": 387,
         "name": "1503 - Hellfire",
         "songPath": "./Songs/18-PRIME 2/1503 - Hellfire",
         "banner": "./Songs/18-PRIME 2/1503 - Hellfire/1503.webp",
@@ -177,7 +209,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 294,
+        "songIndex": 390,
         "name": "1507 - God Mode feat. skizzo",
         "songPath": "./Songs/18-PRIME 2/1507 - God Mode feat. skizzo",
         "banner": "./Songs/18-PRIME 2/1507 - God Mode feat. skizzo/1507.webp",
@@ -185,7 +217,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 307,
+        "songIndex": 403,
         "name": "1529 - Anguished Unmaking",
         "songPath": "./Songs/18-PRIME 2/1529 - Anguished Unmaking",
         "banner": "./Songs/18-PRIME 2/1529 - Anguished Unmaking/1529.webp",
@@ -193,7 +225,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 312,
+        "songIndex": 408,
         "name": "1538 - Up e Up Skizzo",
         "songPath": "./Songs/18-PRIME 2/1538 - Up e Up Skizzo",
         "banner": "./Songs/18-PRIME 2/1538 - Up e Up Skizzo/1538.webp",
@@ -201,7 +233,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 315,
+        "songIndex": 411,
         "name": "1541 - Awakening",
         "songPath": "./Songs/18-PRIME 2/1541 - Awakening",
         "banner": "./Songs/18-PRIME 2/1541 - Awakening/1541.webp",
@@ -209,7 +241,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 338,
+        "songIndex": 434,
         "name": "1576 - Just Kiddin",
         "songPath": "./Songs/18-PRIME 2/1576 - Just Kiddin",
         "banner": "./Songs/18-PRIME 2/1576 - Just Kiddin/1576.webp",
@@ -217,7 +249,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 340,
+        "songIndex": 436,
         "name": "1578 - Heart Attack",
         "songPath": "./Songs/18-PRIME 2/1578 - Heart Attack",
         "banner": "./Songs/18-PRIME 2/1578 - Heart Attack/1578.webp",
@@ -225,7 +257,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 342,
+        "songIndex": 438,
         "name": "1593 - V3",
         "songPath": "./Songs/18-PRIME 2/1593 - V3",
         "banner": "./Songs/18-PRIME 2/1593 - V3/1593.webp",
@@ -233,7 +265,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 354,
+        "songIndex": 450,
         "name": "15A7 - Super Stylin'",
         "songPath": "./Songs/18-PRIME 2/15A7 - Super Stylin'",
         "banner": "./Songs/18-PRIME 2/15A7 - Super Stylin'/15A7.webp",
@@ -241,7 +273,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 355,
+        "songIndex": 451,
         "name": "15A8 - Christmas Memories",
         "songPath": "./Songs/18-PRIME 2/15A8 - Christmas Memories",
         "banner": "./Songs/18-PRIME 2/15A8 - Christmas Memories/15A8.webp",
@@ -249,7 +281,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 358,
+        "songIndex": 454,
         "name": "15B1 - Le Grand Bleu",
         "songPath": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu",
         "banner": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu/15B1.webp",
@@ -257,7 +289,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 365,
+        "songIndex": 461,
         "name": "15B9 - Kill Them!",
         "songPath": "./Songs/18-PRIME 2/15B9 - Kill Them!",
         "banner": "./Songs/18-PRIME 2/15B9 - Kill Them!/15B9.webp",
@@ -265,7 +297,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 395,
+        "songIndex": 491,
         "name": "1609 - MAX - District 1",
         "songPath": "./Songs/19-XX/1609 - MAX - District 1",
         "banner": "./Songs/19-XX/1609 - MAX - District 1/1609.webp",
@@ -273,7 +305,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 401,
+        "songIndex": 497,
         "name": "1620 - Pory - (Percent X)",
         "songPath": "./Songs/19-XX/1620 - Pory - (Percent X)",
         "banner": "./Songs/19-XX/1620 - Pory - (Percent X)/1620.webp",
@@ -281,7 +313,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 409,
+        "songIndex": 505,
         "name": "1628 - Applesoda - VANISH",
         "songPath": "./Songs/19-XX/1628 - Applesoda - VANISH",
         "banner": "./Songs/19-XX/1628 - Applesoda - VANISH/1628.webp",
@@ -289,7 +321,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 427,
+        "songIndex": 523,
         "name": "1650 - APink - I'm so sick",
         "songPath": "./Songs/19-XX/1650 - APink - I'm so sick",
         "banner": "./Songs/19-XX/1650 - APink - I'm so sick/1650.webp",
@@ -297,7 +329,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 442,
+        "songIndex": 538,
         "name": "1665 - Norazo - King of Sales",
         "songPath": "./Songs/19-XX/1665 - Norazo - King of Sales",
         "banner": "./Songs/19-XX/1665 - Norazo - King of Sales/1665.webp",
@@ -305,7 +337,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 447,
+        "songIndex": 543,
         "name": "1670 - DASU - 8 6",
         "songPath": "./Songs/19-XX/1670 - DASU - 8 6",
         "banner": "./Songs/19-XX/1670 - DASU - 8 6/1670.webp",
@@ -313,7 +345,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 467,
+        "songIndex": 563,
         "name": "1690 - Lotze - Loki",
         "songPath": "./Songs/19-XX/1690 - Lotze - Loki",
         "banner": "./Songs/19-XX/1690 - Lotze - Loki/1690.webp",
@@ -321,7 +353,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 526,
+        "songIndex": 622,
         "name": "18000 - VECTOR",
         "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",
         "banner": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.png",
@@ -329,7 +361,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 527,
+        "songIndex": 623,
         "name": "18005 - Versailles",
         "songPath": "./Songs/21-PHOENIX/18005 - Versailles",
         "banner": "./Songs/21-PHOENIX/18005 - Versailles/Versailles.png",
@@ -337,7 +369,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 540,
+        "songIndex": 636,
         "name": "18035 - Etude Op 10-4",
         "songPath": "./Songs/21-PHOENIX/18035 - Etude Op 10-4",
         "banner": "./Songs/21-PHOENIX/18035 - Etude Op 10-4/Etude Op 10-4.png",
@@ -345,7 +377,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 545,
+        "songIndex": 641,
         "name": "18037 - Lacrimosa",
         "songPath": "./Songs/21-PHOENIX/18037 - Lacrimosa",
         "banner": "./Songs/21-PHOENIX/18037 - Lacrimosa/Lacrimosa.png",
@@ -353,7 +385,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 551,
+        "songIndex": 647,
         "name": "18044 - Yo! Say!! Fairy!!!",
         "songPath": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!",
         "banner": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!/16B3.png",
@@ -361,7 +393,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 559,
+        "songIndex": 655,
         "name": "18048 - Appassionata",
         "songPath": "./Songs/21-PHOENIX/18048 - Appassionata",
         "banner": "./Songs/21-PHOENIX/18048 - Appassionata/Appassionata.png",
@@ -369,7 +401,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 561,
+        "songIndex": 657,
         "name": "18049 - Curiosity Overdrive",
         "songPath": "./Songs/21-PHOENIX/18049 - Curiosity Overdrive",
         "banner": "./Songs/21-PHOENIX/18049 - Curiosity Overdrive/Curiosity Overdrive.png",
@@ -377,7 +409,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 582,
+        "songIndex": 678,
         "name": "18120 - Amor Fati",
         "songPath": "./Songs/21-PHOENIX/18120 - Amor Fati",
         "banner": "./Songs/21-PHOENIX/18120 - Amor Fati/Amor Fati.png",
@@ -385,7 +417,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 589,
+        "songIndex": 685,
         "name": "18130 - Beautiful Liar",
         "songPath": "./Songs/21-PHOENIX/18130 - Beautiful Liar",
         "banner": "./Songs/21-PHOENIX/18130 - Beautiful Liar/Beautiful Liar.png",
@@ -393,7 +425,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 595,
+        "songIndex": 691,
         "name": "18200 - GOODTEK",
         "songPath": "./Songs/21-PHOENIX/18200 - GOODTEK",
         "banner": "./Songs/21-PHOENIX/18200 - GOODTEK/GOODTEK.png",
@@ -401,7 +433,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 600,
+        "songIndex": 696,
         "name": "18225 - Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI",
         "songPath": "./Songs/21-PHOENIX/18225 - Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI",
         "banner": "./Songs/21-PHOENIX/18225 - Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI/Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len GUMI.png",

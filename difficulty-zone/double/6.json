@@ -25,6 +25,70 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 313,
+        "name": "(1) 1435 - You Again My Love",
+        "songPath": "./Songs/17-PRIME/(1) 1435 - You Again My Love",
+        "banner": "./Songs/17-PRIME/(1) 1435 - You Again My Love/1435.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1435 - You Again My Love/1435 - You Again My Love.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 320,
+        "name": "(1) 1442 - Pandora",
+        "songPath": "./Songs/17-PRIME/(1) 1442 - Pandora",
+        "banner": "./Songs/17-PRIME/(1) 1442 - Pandora/1442.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1442 - Pandora/1442 - Pandora.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 321,
+        "name": "(1) 1443 - Venus",
+        "songPath": "./Songs/17-PRIME/(1) 1443 - Venus",
+        "banner": "./Songs/17-PRIME/(1) 1443 - Venus/1443.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1443 - Venus/1443 - Venus.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 322,
+        "name": "(1) 1444 - Hate, Don't Hate!",
+        "songPath": "./Songs/17-PRIME/(1) 1444 - Hate, Don't Hate!",
+        "banner": "./Songs/17-PRIME/(1) 1444 - Hate, Don't Hate!/1444.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1444 - Hate, Don't Hate!/1444 - Hate, don't hate!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 327,
+        "name": "(1) 1449 - Loner",
+        "songPath": "./Songs/17-PRIME/(1) 1449 - Loner",
+        "banner": "./Songs/17-PRIME/(1) 1449 - Loner/1449.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1449 - Loner/1449 - Loner.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 334,
+        "name": "(1) 1458 - Dolly Kiss",
+        "songPath": "./Songs/17-PRIME/(1) 1458 - Dolly Kiss",
+        "banner": "./Songs/17-PRIME/(1) 1458 - Dolly Kiss/1458.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1458 - Dolly Kiss/1458 - Dolly Kiss.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 337,
+        "name": "(1) 1461 - Feel My Happiness",
+        "songPath": "./Songs/17-PRIME/(1) 1461 - Feel My Happiness",
+        "banner": "./Songs/17-PRIME/(1) 1461 - Feel My Happiness/1461.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1461 - Feel My Happiness/1461 - Feel My Happiness.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 370,
+        "name": "(1) 1496 - Heavy rotation",
+        "songPath": "./Songs/17-PRIME/(1) 1496 - Heavy rotation",
+        "banner": "./Songs/17-PRIME/(1) 1496 - Heavy rotation/1496.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1496 - Heavy rotation/1496.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 63,
         "name": "(1) E01 - Solitary 1.5",
         "songPath": "./Songs/13-NX~NXA/(1) E01 - Solitary 1.5",
@@ -201,7 +265,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 318,
+        "songIndex": 414,
         "name": "1544 - Bang Bang Bang",
         "songPath": "./Songs/18-PRIME 2/1544 - Bang Bang Bang",
         "banner": "./Songs/18-PRIME 2/1544 - Bang Bang Bang/1544.webp",
@@ -209,7 +273,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 319,
+        "songIndex": 415,
         "name": "1545 - Me Gustas Tu",
         "songPath": "./Songs/18-PRIME 2/1545 - Me Gustas Tu",
         "banner": "./Songs/18-PRIME 2/1545 - Me Gustas Tu/1545.webp",
@@ -217,7 +281,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 322,
+        "songIndex": 418,
         "name": "1548 - Pick Me",
         "songPath": "./Songs/18-PRIME 2/1548 - Pick Me",
         "banner": "./Songs/18-PRIME 2/1548 - Pick Me/1548.webp",
@@ -225,7 +289,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 323,
+        "songIndex": 419,
         "name": "1549 - Jackpot",
         "songPath": "./Songs/18-PRIME 2/1549 - Jackpot",
         "banner": "./Songs/18-PRIME 2/1549 - Jackpot/1549.webp",
@@ -233,7 +297,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 324,
+        "songIndex": 420,
         "name": "1550 - Gotta Be You",
         "songPath": "./Songs/18-PRIME 2/1550 - Gotta Be You",
         "banner": "./Songs/18-PRIME 2/1550 - Gotta Be You/1550.webp",
@@ -241,7 +305,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 332,
+        "songIndex": 428,
         "name": "1559 - Energetic",
         "songPath": "./Songs/18-PRIME 2/1559 - Energetic",
         "banner": "./Songs/18-PRIME 2/1559 - Energetic/1559.webp",
@@ -249,7 +313,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 341,
+        "songIndex": 437,
         "name": "1584 - Hush",
         "songPath": "./Songs/18-PRIME 2/1584 - Hush",
         "banner": "./Songs/18-PRIME 2/1584 - Hush/1584.webp",
@@ -257,7 +321,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 358,
+        "songIndex": 454,
         "name": "15B1 - Le Grand Bleu",
         "songPath": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu",
         "banner": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu/15B1.webp",
@@ -265,7 +329,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 394,
+        "songIndex": 490,
         "name": "1608 - MAX - I Want U",
         "songPath": "./Songs/19-XX/1608 - MAX - I Want U",
         "banner": "./Songs/19-XX/1608 - MAX - I Want U/1608.webp",
@@ -273,7 +337,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 425,
+        "songIndex": 521,
         "name": "1648 - CHUNG HA - Snapping",
         "songPath": "./Songs/19-XX/1648 - CHUNG HA - Snapping",
         "banner": "./Songs/19-XX/1648 - CHUNG HA - Snapping/1648.webp",
@@ -281,7 +345,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 439,
+        "songIndex": 535,
         "name": "1662 - SEVENTEEN - VERY NICE",
         "songPath": "./Songs/19-XX/1662 - SEVENTEEN - VERY NICE",
         "banner": "./Songs/19-XX/1662 - SEVENTEEN - VERY NICE/1662.webp",
@@ -289,7 +353,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 443,
+        "songIndex": 539,
         "name": "1666 - CHUNG HA - Gotta Go",
         "songPath": "./Songs/19-XX/1666 - CHUNG HA - Gotta Go",
         "banner": "./Songs/19-XX/1666 - CHUNG HA - Gotta Go/1666.webp",
@@ -297,7 +361,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 467,
+        "songIndex": 563,
         "name": "1690 - Lotze - Loki",
         "songPath": "./Songs/19-XX/1690 - Lotze - Loki",
         "banner": "./Songs/19-XX/1690 - Lotze - Loki/1690.webp",
@@ -305,7 +369,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 472,
+        "songIndex": 568,
         "name": "1695 - Cranky - Phalanx RS2018 edit",
         "songPath": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit",
         "banner": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit/1695.webp",
@@ -313,7 +377,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 526,
+        "songIndex": 622,
         "name": "18000 - VECTOR",
         "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",
         "banner": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.png",
@@ -321,7 +385,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 551,
+        "songIndex": 647,
         "name": "18044 - Yo! Say!! Fairy!!!",
         "songPath": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!",
         "banner": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!/16B3.png",
@@ -329,7 +393,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 554,
+        "songIndex": 650,
         "name": "18044.5 - Bluish Rose",
         "songPath": "./Songs/21-PHOENIX/18044.5 - Bluish Rose",
         "banner": "./Songs/21-PHOENIX/18044.5 - Bluish Rose/Bluish Rose.png",
@@ -337,7 +401,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 581,
+        "songIndex": 677,
         "name": "18115 - Alone",
         "songPath": "./Songs/21-PHOENIX/18115 - Alone",
         "banner": "./Songs/21-PHOENIX/18115 - Alone/Alone.png",
@@ -345,7 +409,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 590,
+        "songIndex": 686,
         "name": "18133 - PANDORA",
         "songPath": "./Songs/21-PHOENIX/18133 - PANDORA",
         "banner": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.png",
@@ -353,7 +417,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 601,
+        "songIndex": 697,
         "name": "18230 - Altale",
         "songPath": "./Songs/21-PHOENIX/18230 - Altale",
         "banner": "./Songs/21-PHOENIX/18230 - Altale/Altale.png",

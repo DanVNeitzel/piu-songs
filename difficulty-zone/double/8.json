@@ -9,6 +9,46 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 292,
+        "name": "(1) 1413 - Meteorize",
+        "songPath": "./Songs/17-PRIME/(1) 1413 - Meteorize",
+        "banner": "./Songs/17-PRIME/(1) 1413 - Meteorize/1413.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1413 - Meteorize/1413 - Meteorize.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 319,
+        "name": "(1) 1441 - I'm Sorry",
+        "songPath": "./Songs/17-PRIME/(1) 1441 - I'm Sorry",
+        "banner": "./Songs/17-PRIME/(1) 1441 - I'm Sorry/1441.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1441 - I'm Sorry/1441 - I'm Sorry.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 353,
+        "name": "(1) 1480 - Smile Diary",
+        "songPath": "./Songs/17-PRIME/(1) 1480 - Smile Diary",
+        "banner": "./Songs/17-PRIME/(1) 1480 - Smile Diary/1480.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1480 - Smile Diary/1480 - Smile-Diary.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 359,
+        "name": "(1) 1485 - Ai Yurete",
+        "songPath": "./Songs/17-PRIME/(1) 1485 - Ai Yurete",
+        "banner": "./Songs/17-PRIME/(1) 1485 - Ai Yurete/1485.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1485 - Ai Yurete/1485 - Ai, Yurete.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 360,
+        "name": "(1) 1486 - Setsuna Trip",
+        "songPath": "./Songs/17-PRIME/(1) 1486 - Setsuna Trip",
+        "banner": "./Songs/17-PRIME/(1) 1486 - Setsuna Trip/1486.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1486 - Setsuna Trip/1486 - Last Note - Setsuna Trip.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 77,
         "name": "(1) E15 - You Fall in Me",
         "songPath": "./Songs/13-NX~NXA/(1) E15 - You Fall in Me",
@@ -137,7 +177,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 299,
+        "songIndex": 395,
         "name": "1512 - Bring Back the Beat",
         "songPath": "./Songs/18-PRIME 2/1512 - Bring Back the Beat",
         "banner": "./Songs/18-PRIME 2/1512 - Bring Back the Beat/1512.webp",
@@ -145,7 +185,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 330,
+        "songIndex": 426,
         "name": "1556 - Number Nine",
         "songPath": "./Songs/18-PRIME 2/1556 - Number Nine",
         "banner": "./Songs/18-PRIME 2/1556 - Number Nine/1556.webp",
@@ -153,7 +193,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 357,
+        "songIndex": 453,
         "name": "15B0 - Asterios -ReEnrty-",
         "songPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEnrty-",
         "banner": "./Songs/18-PRIME 2/15B0 - Asterios -ReEnrty-/15B0.webp",
@@ -161,7 +201,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 407,
+        "songIndex": 503,
         "name": "1626 - Quree - Poseidon",
         "songPath": "./Songs/19-XX/1626 - Quree - Poseidon",
         "banner": "./Songs/19-XX/1626 - Quree - Poseidon/1626.webp",
@@ -169,7 +209,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 423,
+        "songIndex": 519,
         "name": "1646 - Turbo - Black Cat",
         "songPath": "./Songs/19-XX/1646 - Turbo - Black Cat",
         "banner": "./Songs/19-XX/1646 - Turbo - Black Cat/1646.webp",
@@ -177,7 +217,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 432,
+        "songIndex": 528,
         "name": "1655 - MOMOLAND - BBoom BBoom",
         "songPath": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom",
         "banner": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom/1655.webp",
@@ -185,7 +225,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 446,
+        "songIndex": 542,
         "name": "1669 - Matduke - Indestructible",
         "songPath": "./Songs/19-XX/1669 - Matduke - Indestructible",
         "banner": "./Songs/19-XX/1669 - Matduke - Indestructible/1669.webp",
@@ -193,7 +233,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 469,
+        "songIndex": 565,
         "name": "1692 - Houseplan - Houseplan",
         "songPath": "./Songs/19-XX/1692 - Houseplan - Houseplan",
         "banner": "./Songs/19-XX/1692 - Houseplan - Houseplan/1692.webp",
@@ -201,7 +241,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 474,
+        "songIndex": 570,
         "name": "1697 - NOMA - BRAIN POWER",
         "songPath": "./Songs/19-XX/1697 - NOMA - BRAIN POWER",
         "banner": "./Songs/19-XX/1697 - NOMA - BRAIN POWER/1697.webp",
@@ -209,7 +249,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 476,
+        "songIndex": 572,
         "name": "16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~",
         "songPath": "./Songs/19-XX/16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~",
         "banner": "./Songs/19-XX/16A0 - Sr. Lan Belmont - Can-can ~Orpheus in The Party Mix~/16A0.webp",
@@ -217,7 +257,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 477,
+        "songIndex": 573,
         "name": "16A1 - Yakikaze & Cashew - Papasito (feat. KuTiNA)",
         "songPath": "./Songs/19-XX/16A1 - Yakikaze & Cashew - Papasito (feat. KuTiNA)",
         "banner": "./Songs/19-XX/16A1 - Yakikaze & Cashew - Papasito (feat. KuTiNA)/16A1.webp",
@@ -225,7 +265,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 478,
+        "songIndex": 574,
         "name": "16A2 - Jehezukiel - Fires of Destiny",
         "songPath": "./Songs/19-XX/16A2 - Jehezukiel - Fires of Destiny",
         "banner": "./Songs/19-XX/16A2 - Jehezukiel - Fires of Destiny/16A2.webp",
@@ -233,7 +273,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 479,
+        "songIndex": 575,
         "name": "16A3 - MonstDeath - The End of the World ft. Skizzo",
         "songPath": "./Songs/19-XX/16A3 - MonstDeath - The End of the World ft. Skizzo",
         "banner": "./Songs/19-XX/16A3 - MonstDeath - The End of the World ft. Skizzo/16A3.webp",
@@ -241,7 +281,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 481,
+        "songIndex": 577,
         "name": "16A7 - uma - The Reverie",
         "songPath": "./Songs/19-XX/16A7 - uma - The Reverie",
         "banner": "./Songs/19-XX/16A7 - uma - The Reverie/16A7.webp",
@@ -249,7 +289,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 538,
+        "songIndex": 634,
         "name": "18033.5 - Lucid Dream",
         "songPath": "./Songs/21-PHOENIX/18033.5 - Lucid Dream",
         "banner": "./Songs/21-PHOENIX/18033.5 - Lucid Dream/Lucid Dream.png",
@@ -257,7 +297,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 548,
+        "songIndex": 644,
         "name": "18041 - Little Munchkin",
         "songPath": "./Songs/21-PHOENIX/18041 - Little Munchkin",
         "banner": "./Songs/21-PHOENIX/18041 - Little Munchkin/16B0.png",
@@ -265,7 +305,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 569,
+        "songIndex": 665,
         "name": "18055 - Sudden Appearance Image",
         "songPath": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image",
         "banner": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image/Sudden Appearance Image.png",
@@ -273,7 +313,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 575,
+        "songIndex": 671,
         "name": "18072 - Discord",
         "songPath": "./Songs/21-PHOENIX/18072 - Discord",
         "banner": "./Songs/21-PHOENIX/18072 - Discord/Discord.png",
@@ -281,7 +321,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 579,
+        "songIndex": 675,
         "name": "18105 - Nxde",
         "songPath": "./Songs/21-PHOENIX/18105 - Nxde",
         "banner": "./Songs/21-PHOENIX/18105 - Nxde/Nxde.png",
@@ -289,7 +329,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 585,
+        "songIndex": 681,
         "name": "18127 - Pirate",
         "songPath": "./Songs/21-PHOENIX/18127 - Pirate",
         "banner": "./Songs/21-PHOENIX/18127 - Pirate/Pirate.png",
@@ -297,7 +337,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 588,
+        "songIndex": 684,
         "name": "18129.5 - Spray",
         "songPath": "./Songs/21-PHOENIX/18129.5 - Spray",
         "banner": "./Songs/21-PHOENIX/18129.5 - Spray/Spray.png",
@@ -305,7 +345,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 591,
+        "songIndex": 687,
         "name": "18135 - STORM",
         "songPath": "./Songs/21-PHOENIX/18135 - STORM",
         "banner": "./Songs/21-PHOENIX/18135 - STORM/STORM.png",
@@ -313,7 +353,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 592,
+        "songIndex": 688,
         "name": "18140 - Airplane",
         "songPath": "./Songs/21-PHOENIX/18140 - Airplane",
         "banner": "./Songs/21-PHOENIX/18140 - Airplane/Airplane.png",
@@ -321,7 +361,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 598,
+        "songIndex": 694,
         "name": "18215 - MilK",
         "songPath": "./Songs/21-PHOENIX/18215 - MilK",
         "banner": "./Songs/21-PHOENIX/18215 - MilK/MilK.png",
@@ -329,7 +369,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 599,
+        "songIndex": 695,
         "name": "18220 - Acquire",
         "songPath": "./Songs/21-PHOENIX/18220 - Acquire",
         "banner": "./Songs/21-PHOENIX/18220 - Acquire/Acquire.png",

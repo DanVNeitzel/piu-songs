@@ -1,6 +1,22 @@
 [
     {
         "stageIndex": 0,
+        "songIndex": 298,
+        "name": "(1) 1419 - Super Fantasy",
+        "songPath": "./Songs/17-PRIME/(1) 1419 - Super Fantasy",
+        "banner": "./Songs/17-PRIME/(1) 1419 - Super Fantasy/1419.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1419 - Super Fantasy/1419 - Super Fantasy.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 354,
+        "name": "(1) 1481 - Bad Apple!! (Original Ver.)",
+        "songPath": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (Original Ver.)",
+        "banner": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (Original Ver.)/1481.webp",
+        "sscPath": "./Songs/17-PRIME/(1) 1481 - Bad Apple!! (Original Ver.)/1481 - Bad Apple!!.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 75,
         "name": "(1) E13 - Pumptris Quattro",
         "songPath": "./Songs/13-NX~NXA/(1) E13 - Pumptris Quattro",
@@ -49,7 +65,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 305,
+        "songIndex": 401,
         "name": "1525 - Arcana Force",
         "songPath": "./Songs/18-PRIME 2/1525 - Arcana Force",
         "banner": "./Songs/18-PRIME 2/1525 - Arcana Force/1525.webp",
@@ -57,7 +73,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 329,
+        "songIndex": 425,
         "name": "1555 - You're the Best",
         "songPath": "./Songs/18-PRIME 2/1555 - You're the Best",
         "banner": "./Songs/18-PRIME 2/1555 - You're the Best/1555.webp",
@@ -65,7 +81,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 337,
+        "songIndex": 433,
         "name": "1575 - Step",
         "songPath": "./Songs/18-PRIME 2/1575 - Step",
         "banner": "./Songs/18-PRIME 2/1575 - Step/1575.webp",
@@ -73,7 +89,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 402,
+        "songIndex": 498,
         "name": "1621 - Pory - La Cinquantaine",
         "songPath": "./Songs/19-XX/1621 - Pory - La Cinquantaine",
         "banner": "./Songs/19-XX/1621 - Pory - La Cinquantaine/1621.webp",
@@ -81,7 +97,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 407,
+        "songIndex": 503,
         "name": "1626 - Quree - Poseidon",
         "songPath": "./Songs/19-XX/1626 - Quree - Poseidon",
         "banner": "./Songs/19-XX/1626 - Quree - Poseidon/1626.webp",
@@ -89,7 +105,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 425,
+        "songIndex": 521,
         "name": "1648 - CHUNG HA - Snapping",
         "songPath": "./Songs/19-XX/1648 - CHUNG HA - Snapping",
         "banner": "./Songs/19-XX/1648 - CHUNG HA - Snapping/1648.webp",
@@ -97,7 +113,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 429,
+        "songIndex": 525,
         "name": "1652 - SUNMI - Gashina",
         "songPath": "./Songs/19-XX/1652 - SUNMI - Gashina",
         "banner": "./Songs/19-XX/1652 - SUNMI - Gashina/1652.webp",
@@ -105,7 +121,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 432,
+        "songIndex": 528,
         "name": "1655 - MOMOLAND - BBoom BBoom",
         "songPath": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom",
         "banner": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom/1655.webp",
@@ -113,7 +129,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 435,
+        "songIndex": 531,
         "name": "1658 - MAMAMOO - Starry Night",
         "songPath": "./Songs/19-XX/1658 - MAMAMOO - Starry Night",
         "banner": "./Songs/19-XX/1658 - MAMAMOO - Starry Night/1658.webp",
@@ -121,7 +137,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 449,
+        "songIndex": 545,
         "name": "1672 - Quree - Broken Karma (PIU EDIT)",
         "songPath": "./Songs/19-XX/1672 - Quree - Broken Karma (PIU EDIT)",
         "banner": "./Songs/19-XX/1672 - Quree - Broken Karma (PIU EDIT)/1672.webp",
@@ -129,7 +145,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 468,
+        "songIndex": 564,
         "name": "1691 - Lunatic Sounds - Dement ~After Legend~",
         "songPath": "./Songs/19-XX/1691 - Lunatic Sounds - Dement ~After Legend~",
         "banner": "./Songs/19-XX/1691 - Lunatic Sounds - Dement ~After Legend~/1691.webp",
@@ -137,7 +153,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 601,
+        "songIndex": 697,
         "name": "18230 - Altale",
         "songPath": "./Songs/21-PHOENIX/18230 - Altale",
         "banner": "./Songs/21-PHOENIX/18230 - Altale/Altale.png",
