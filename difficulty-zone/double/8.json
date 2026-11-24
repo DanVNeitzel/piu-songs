@@ -1,30 +1,30 @@
 [
     {
-        "stageIndex": 2,
+        "stageIndex": 9,
         "songIndex": 0,
         "name": "(1) C02 - Moonlight",
-        "songPath": "./Songs/11-EXCEED~ZERO/(1) C02 - Moonlight",
+        "songPath": "./Songs/08-1ST~ZERO/(1) C02 - Moonlight",
         "banner": null,
-        "sscPath": "./Songs/11-EXCEED~ZERO/(1) C02 - Moonlight/C02 - Moonlight.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(1) C02 - Moonlight/C02 - Moonlight.ssc"
     },
     {
-        "stageIndex": 1,
-        "songIndex": 1,
+        "stageIndex": 9,
+        "songIndex": 2,
         "name": "(2) 708 - Point Break",
-        "songPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break",
+        "songPath": "./Songs/08-1ST~ZERO/(2) 708 - Point Break",
         "banner": null,
-        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break/708 - Point Break.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(2) 708 - Point Break/708 - Point Break.ssc"
     },
     {
-        "stageIndex": 2,
-        "songIndex": 1,
+        "stageIndex": 9,
+        "songIndex": 8,
         "name": "(3) A05 - Pump Me Amadeus",
-        "songPath": "./Songs/11-EXCEED~ZERO/(3) A05 - Pump Me Amadeus",
+        "songPath": "./Songs/08-1ST~ZERO/(3) A05 - Pump Me Amadeus",
         "banner": null,
-        "sscPath": "./Songs/11-EXCEED~ZERO/(3) A05 - Pump Me Amadeus/A05 - Pump Me Amadeus.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(3) A05 - Pump Me Amadeus/A05 - Pump Me Amadeus.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 8,
         "name": "1512 - Bring Back the Beat",
         "songPath": "./Songs/18-PRIME 2/1512 - Bring Back the Beat",
@@ -32,7 +32,7 @@
         "sscPath": "./Songs/18-PRIME 2/1512 - Bring Back the Beat/1512 - Bring Back The Beat.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 22,
         "name": "1542 - ESCAPE",
         "songPath": "./Songs/18-PRIME 2/1542 - ESCAPE",
@@ -40,7 +40,7 @@
         "sscPath": "./Songs/18-PRIME 2/1542 - ESCAPE/1542 - ESCAPE.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 29,
         "name": "1556 - NUMBER NINE",
         "songPath": "./Songs/18-PRIME 2/1556 - NUMBER NINE",
@@ -48,7 +48,7 @@
         "sscPath": "./Songs/18-PRIME 2/1556 - NUMBER NINE/1556 - NUMBER NINE.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 38,
         "name": "1594 - Cross Time",
         "songPath": "./Songs/18-PRIME 2/1594 - Cross Time",
@@ -56,7 +56,7 @@
         "sscPath": "./Songs/18-PRIME 2/1594 - Cross Time/1594 - Cross Time.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 47,
         "name": "15B0 - Asterios -ReEntry-",
         "songPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEntry-",
@@ -64,7 +64,7 @@
         "sscPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEntry-/15B0 - Asterios -ReEntry-.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 12,
         "name": "1626 - Poseidon",
         "songPath": "./Songs/19-XX/1626 - Poseidon",
@@ -72,7 +72,7 @@
         "sscPath": "./Songs/19-XX/1626 - Poseidon/1626 - Poseidon.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 14,
         "name": "1629 - Tales of Pumpnia",
         "songPath": "./Songs/19-XX/1629 - Tales of Pumpnia",
@@ -80,7 +80,7 @@
         "sscPath": "./Songs/19-XX/1629 - Tales of Pumpnia/1629 - Tales of Pumpnia.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 20,
         "name": "1641 - Jogging",
         "songPath": "./Songs/19-XX/1641 - Jogging",
@@ -88,7 +88,7 @@
         "sscPath": "./Songs/19-XX/1641 - Jogging/1641 - Jogging.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 40,
         "name": "1687 - Cutie Song",
         "songPath": "./Songs/19-XX/1687 - Cutie Song",
@@ -96,7 +96,7 @@
         "sscPath": "./Songs/19-XX/1687 - Cutie Song/1687 - Cutie Song.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 44,
         "name": "1692 - Houseplan",
         "songPath": "./Songs/19-XX/1692 - Houseplan",
@@ -104,7 +104,7 @@
         "sscPath": "./Songs/19-XX/1692 - Houseplan/1692 - Houseplan.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 47,
         "name": "1697 - BRAIN POWER",
         "songPath": "./Songs/19-XX/1697 - BRAIN POWER",
@@ -112,7 +112,7 @@
         "sscPath": "./Songs/19-XX/1697 - BRAIN POWER/1697 - BRAIN POWER.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 50,
         "name": "16A1 - Papasito (feat. KuTiNA)",
         "songPath": "./Songs/19-XX/16A1 - Papasito (feat. KuTiNA)",
@@ -120,7 +120,7 @@
         "sscPath": "./Songs/19-XX/16A1 - Papasito (feat. KuTiNA)/16A1 - Papasito (feat. KuTiNA).ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 51,
         "name": "16A2 - Fires of Destiny",
         "songPath": "./Songs/19-XX/16A2 - Fires of Destiny",
@@ -128,7 +128,7 @@
         "sscPath": "./Songs/19-XX/16A2 - Fires of Destiny/16A2 - Fires of Destiny.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 52,
         "name": "16A3 - The End of the World ft. Skizzo",
         "songPath": "./Songs/19-XX/16A3 - The End of the World ft. Skizzo",
@@ -136,7 +136,7 @@
         "sscPath": "./Songs/19-XX/16A3 - The End of the World ft. Skizzo/16A3 - The End of the World ft. Skizzo.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 53,
         "name": "16A5 - Harmagedon",
         "songPath": "./Songs/19-XX/16A5 - Harmagedon",
@@ -144,7 +144,7 @@
         "sscPath": "./Songs/19-XX/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 30,
         "name": "18033.5 - Lucid Dream",
         "songPath": "./Songs/21-PHOENIX/18033.5 - Lucid Dream",
@@ -152,7 +152,7 @@
         "sscPath": "./Songs/21-PHOENIX/18033.5 - Lucid Dream/Lucid Dream.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 40,
         "name": "18041 - Little Munchkin",
         "songPath": "./Songs/21-PHOENIX/18041 - Little Munchkin",
@@ -160,7 +160,7 @@
         "sscPath": "./Songs/21-PHOENIX/18041 - Little Munchkin/16B0 - Little Munchkin.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 61,
         "name": "18055 - Sudden Appearance Image",
         "songPath": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image",
@@ -168,7 +168,7 @@
         "sscPath": "./Songs/21-PHOENIX/18055 - Sudden Appearance Image/Sudden Appearance Image.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 67,
         "name": "18072 - Discord",
         "songPath": "./Songs/21-PHOENIX/18072 - Discord",
@@ -176,7 +176,7 @@
         "sscPath": "./Songs/21-PHOENIX/18072 - Discord/Discord.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 71,
         "name": "18105 - Nxde",
         "songPath": "./Songs/21-PHOENIX/18105 - Nxde",
@@ -184,7 +184,7 @@
         "sscPath": "./Songs/21-PHOENIX/18105 - Nxde/Nxde.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 77,
         "name": "18127 - Pirate",
         "songPath": "./Songs/21-PHOENIX/18127 - Pirate",
@@ -192,7 +192,7 @@
         "sscPath": "./Songs/21-PHOENIX/18127 - Pirate/Pirate.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 80,
         "name": "18129.5 - Spray",
         "songPath": "./Songs/21-PHOENIX/18129.5 - Spray",
@@ -200,7 +200,7 @@
         "sscPath": "./Songs/21-PHOENIX/18129.5 - Spray/Spray.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 83,
         "name": "18135 - STORM",
         "songPath": "./Songs/21-PHOENIX/18135 - STORM",
@@ -208,7 +208,7 @@
         "sscPath": "./Songs/21-PHOENIX/18135 - STORM/STORM.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 84,
         "name": "18140 - Airplane",
         "songPath": "./Songs/21-PHOENIX/18140 - Airplane",
@@ -216,7 +216,7 @@
         "sscPath": "./Songs/21-PHOENIX/18140 - Airplane/Airplane.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 90,
         "name": "18215 - MilK",
         "songPath": "./Songs/21-PHOENIX/18215 - MilK",
@@ -224,7 +224,7 @@
         "sscPath": "./Songs/21-PHOENIX/18215 - MilK/MilK.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 91,
         "name": "18220 - Acquire",
         "songPath": "./Songs/21-PHOENIX/18220 - Acquire",

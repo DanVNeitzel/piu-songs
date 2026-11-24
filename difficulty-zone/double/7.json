@@ -1,38 +1,38 @@
 [
     {
-        "stageIndex": 5,
+        "stageIndex": 11,
         "songIndex": 1,
         "name": "(1) 1310 - Unique",
-        "songPath": "./Songs/16-FIESTA 2/(1) 1310 - Unique",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1310 - Unique",
         "banner": null,
-        "sscPath": "./Songs/16-FIESTA 2/(1) 1310 - Unique/1310 - Unique.ssc"
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1310 - Unique/1310 - Unique.ssc"
     },
     {
-        "stageIndex": 5,
+        "stageIndex": 11,
         "songIndex": 2,
         "name": "(2) 1235 - Utopia",
-        "songPath": "./Songs/16-FIESTA 2/(2) 1235 - Utopia",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1235 - Utopia",
         "banner": null,
-        "sscPath": "./Songs/16-FIESTA 2/(2) 1235 - Utopia/1235 - Utopia.ssc"
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1235 - Utopia/1235 - Utopia.ssc"
     },
     {
-        "stageIndex": 1,
-        "songIndex": 2,
+        "stageIndex": 9,
+        "songIndex": 3,
         "name": "(2) 711 - Winter",
-        "songPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter",
+        "songPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter",
         "banner": null,
-        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter/711 - Winter.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter/711 - Winter.ssc"
     },
     {
-        "stageIndex": 0,
-        "songIndex": 1,
+        "stageIndex": 9,
+        "songIndex": 6,
         "name": "(3) 504 - All I Want For X-Mas",
-        "songPath": "./Songs/08-1ST~PERF/(3) 504 - All I Want For X-Mas",
+        "songPath": "./Songs/08-1ST~ZERO/(3) 504 - All I Want For X-Mas",
         "banner": null,
-        "sscPath": "./Songs/08-1ST~PERF/(3) 504 - All I Want For X-Mas/504 - All I Want For X-Mas.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(3) 504 - All I Want For X-Mas/504 - All I Want For X-Mas.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 0,
         "name": "1501 - Last Rebirth",
         "songPath": "./Songs/18-PRIME 2/1501 - Last Rebirth",
@@ -40,7 +40,7 @@
         "sscPath": "./Songs/18-PRIME 2/1501 - Last Rebirth/1501 - Last Rebirth.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 7,
         "name": "1511 - Silver Beat feat. ChisaUezono",
         "songPath": "./Songs/18-PRIME 2/1511 - Silver Beat feat. ChisaUezono",
@@ -48,7 +48,7 @@
         "sscPath": "./Songs/18-PRIME 2/1511 - Silver Beat feat. ChisaUezono/1511 - Silver Beat feat. ChisaUezono.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 20,
         "name": "1540 - Rave'til the earth's end",
         "songPath": "./Songs/18-PRIME 2/1540 - Rave'til the earth's end",
@@ -56,7 +56,7 @@
         "sscPath": "./Songs/18-PRIME 2/1540 - Rave'til the earth's end/1540 - Rave'til the earth's end.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 30,
         "name": "1557 - Acquaintance",
         "songPath": "./Songs/18-PRIME 2/1557 - Acquaintance",
@@ -64,7 +64,7 @@
         "sscPath": "./Songs/18-PRIME 2/1557 - Acquaintance/1557 - Acquaintance.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 31,
         "name": "1562 - REALLY REALLY",
         "songPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY",
@@ -72,7 +72,7 @@
         "sscPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY/1562 - REALLY REALLY.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 43,
         "name": "15A4 - Magical Vacation",
         "songPath": "./Songs/18-PRIME 2/15A4 - Magical Vacation",
@@ -80,7 +80,7 @@
         "sscPath": "./Songs/18-PRIME 2/15A4 - Magical Vacation/15A4 - Magical Vacation.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 44,
         "name": "15A6 - Death Moon",
         "songPath": "./Songs/18-PRIME 2/15A6 - Death Moon",
@@ -88,7 +88,7 @@
         "sscPath": "./Songs/18-PRIME 2/15A6 - Death Moon/15A6 - Death Moon.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 0,
         "name": "1601 - Wedding Crashers",
         "songPath": "./Songs/19-XX/1601 - Wedding Crashers",
@@ -96,7 +96,7 @@
         "sscPath": "./Songs/19-XX/1601 - Wedding Crashers/1601 - Wedding Crashers.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 3,
         "name": "1613 - Sugar Plum",
         "songPath": "./Songs/19-XX/1613 - Sugar Plum",
@@ -104,7 +104,7 @@
         "sscPath": "./Songs/19-XX/1613 - Sugar Plum/1613 - Sugar Plum.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 10,
         "name": "1623 - CARMEN BUS",
         "songPath": "./Songs/19-XX/1623 - CARMEN BUS",
@@ -112,7 +112,7 @@
         "sscPath": "./Songs/19-XX/1623 - CARMEN BUS/1623 - CARMEN BUS.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 20,
         "name": "1641 - Jogging",
         "songPath": "./Songs/19-XX/1641 - Jogging",
@@ -120,7 +120,7 @@
         "sscPath": "./Songs/19-XX/1641 - Jogging/1641 - Jogging.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 22,
         "name": "1647 - HANN (Alone)",
         "songPath": "./Songs/19-XX/1647 - HANN (Alone)",
@@ -128,7 +128,7 @@
         "sscPath": "./Songs/19-XX/1647 - HANN (Alone)/1647 - HANN (Alone).ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 24,
         "name": "1656 - Rooftop",
         "songPath": "./Songs/19-XX/1656 - Rooftop",
@@ -136,7 +136,7 @@
         "sscPath": "./Songs/19-XX/1656 - Rooftop/1656 - Rooftop.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 25,
         "name": "1658 - Starry Night",
         "songPath": "./Songs/19-XX/1658 - Starry Night",
@@ -144,7 +144,7 @@
         "sscPath": "./Songs/19-XX/1658 - Starry Night/1658 - Starry Night.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 26,
         "name": "1661 - Bon Bon Chocolat",
         "songPath": "./Songs/19-XX/1661 - Bon Bon Chocolat",
@@ -152,7 +152,7 @@
         "sscPath": "./Songs/19-XX/1661 - Bon Bon Chocolat/1661 - Bon Bon Chocolat.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 31,
         "name": "1672 - Broken Karma (PIU EDIT)",
         "songPath": "./Songs/19-XX/1672 - Broken Karma (PIU EDIT)",
@@ -160,7 +160,7 @@
         "sscPath": "./Songs/19-XX/1672 - Broken Karma (PIU EDIT)/1672 - Broken Karma (PIU EDIT).ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 33,
         "name": "1674 - Lala",
         "songPath": "./Songs/19-XX/1674 - Lala",
@@ -168,7 +168,7 @@
         "sscPath": "./Songs/19-XX/1674 - Lala/1674 - Lala.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 38,
         "name": "1681 - Rage of Fire",
         "songPath": "./Songs/19-XX/1681 - Rage of Fire",
@@ -176,7 +176,7 @@
         "sscPath": "./Songs/19-XX/1681 - Rage of Fire/1681 - Rage of Fire.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 41,
         "name": "1688 - Headless Chicken",
         "songPath": "./Songs/19-XX/1688 - Headless Chicken",
@@ -184,7 +184,7 @@
         "sscPath": "./Songs/19-XX/1688 - Headless Chicken/1688 - Headless Chicken.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 54,
         "name": "16A7 - The Reverie",
         "songPath": "./Songs/19-XX/16A7 - The Reverie",
@@ -192,7 +192,7 @@
         "sscPath": "./Songs/19-XX/16A7 - The Reverie/16A7 - The Reverie.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 28,
         "name": "18033 - Flavor Step!",
         "songPath": "./Songs/21-PHOENIX/18033 - Flavor Step!",
@@ -200,7 +200,7 @@
         "sscPath": "./Songs/21-PHOENIX/18033 - Flavor Step!/Flavor Step!.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 62,
         "name": "18057 - Deca Dance",
         "songPath": "./Songs/21-PHOENIX/18057 - Deca Dance",
@@ -208,7 +208,7 @@
         "sscPath": "./Songs/21-PHOENIX/18057 - Deca Dance/Deca Dance.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 72,
         "name": "18110 - Teddy Bear",
         "songPath": "./Songs/21-PHOENIX/18110 - Teddy Bear",
@@ -216,7 +216,7 @@
         "sscPath": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 75,
         "name": "18125 - After LIKE",
         "songPath": "./Songs/21-PHOENIX/18125 - After LIKE",
@@ -224,7 +224,7 @@
         "sscPath": "./Songs/21-PHOENIX/18125 - After LIKE/After LIKE.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 93,
         "name": "18230 - Altale",
         "songPath": "./Songs/21-PHOENIX/18230 - Altale",

@@ -313,6 +313,8 @@ try {
     ];
 
     foreach (($songsRoot['children'] ?? []) as $stageIndex => $stage) {
+        // Filter channels reference songs already present in their source packs.
+        if (!empty($stage['virtual'])) continue;
         $stageName = $stage['name'] ?? ('Categoria ' . $stageIndex);
         $stageStats = [
             'songs' => 0,

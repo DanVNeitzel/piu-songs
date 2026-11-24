@@ -1,54 +1,54 @@
 [
     {
-        "stageIndex": 5,
+        "stageIndex": 11,
         "songIndex": 0,
         "name": "(1) 1303 - Passacaglia",
-        "songPath": "./Songs/16-FIESTA 2/(1) 1303 - Passacaglia",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia",
         "banner": null,
-        "sscPath": "./Songs/16-FIESTA 2/(1) 1303 - Passacaglia/1303 - Passacaglia.ssc"
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia/1303 - Passacaglia.ssc"
     },
     {
-        "stageIndex": 1,
-        "songIndex": 1,
+        "stageIndex": 9,
+        "songIndex": 2,
         "name": "(2) 708 - Point Break",
-        "songPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break",
+        "songPath": "./Songs/08-1ST~ZERO/(2) 708 - Point Break",
         "banner": null,
-        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 708 - Point Break/708 - Point Break.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(2) 708 - Point Break/708 - Point Break.ssc"
     },
     {
-        "stageIndex": 1,
-        "songIndex": 2,
-        "name": "(2) 711 - Winter",
-        "songPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter",
-        "banner": null,
-        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 711 - Winter/711 - Winter.ssc"
-    },
-    {
-        "stageIndex": 1,
+        "stageIndex": 9,
         "songIndex": 3,
+        "name": "(2) 711 - Winter",
+        "songPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter",
+        "banner": null,
+        "sscPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter/711 - Winter.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 4,
         "name": "(2) 718 - Dance With Me",
-        "songPath": "./Songs/09-EXTRA~PREX3/(2) 718 - Dance With Me",
+        "songPath": "./Songs/08-1ST~ZERO/(2) 718 - Dance With Me",
         "banner": null,
-        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 718 - Dance With Me/718 - Dance With Me.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(2) 718 - Dance With Me/718 - Dance With Me.ssc"
     },
     {
-        "stageIndex": 0,
-        "songIndex": 0,
+        "stageIndex": 9,
+        "songIndex": 5,
         "name": "(3) 503 - Rolling Christmas",
-        "songPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas",
+        "songPath": "./Songs/08-1ST~ZERO/(3) 503 - Rolling Christmas",
         "banner": null,
-        "sscPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas/503 - Rolling Christmas.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(3) 503 - Rolling Christmas/503 - Rolling Christmas.ssc"
     },
     {
-        "stageIndex": 0,
-        "songIndex": 2,
+        "stageIndex": 9,
+        "songIndex": 7,
         "name": "(3) 516 - Slam",
-        "songPath": "./Songs/08-1ST~PERF/(3) 516 - Slam",
+        "songPath": "./Songs/08-1ST~ZERO/(3) 516 - Slam",
         "banner": null,
-        "sscPath": "./Songs/08-1ST~PERF/(3) 516 - Slam/516 - Slam.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(3) 516 - Slam/516 - Slam.ssc"
     },
     {
-        "stageIndex": 6,
+        "stageIndex": 12,
         "songIndex": 2,
         "name": "1461 - Feel my Happiness",
         "songPath": "./Songs/17-PRIME/1461 - Feel my Happiness",
@@ -56,7 +56,7 @@
         "sscPath": "./Songs/17-PRIME/1461 - Feel my Happiness/1461 - Feel my Happiness.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 24,
         "name": "1549 - Jackpot",
         "songPath": "./Songs/18-PRIME 2/1549 - Jackpot",
@@ -64,7 +64,7 @@
         "sscPath": "./Songs/18-PRIME 2/1549 - Jackpot/1549 - Jackpot.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 25,
         "name": "1550 - Gotta Be You",
         "songPath": "./Songs/18-PRIME 2/1550 - Gotta Be You",
@@ -72,7 +72,7 @@
         "sscPath": "./Songs/18-PRIME 2/1550 - Gotta Be You/1550 - Gotta Be You.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 36,
         "name": "1584 - HUSH",
         "songPath": "./Songs/18-PRIME 2/1584 - HUSH",
@@ -80,7 +80,7 @@
         "sscPath": "./Songs/18-PRIME 2/1584 - HUSH/1584 - HUSH.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 48,
         "name": "15B1 - Le Grand Bleu",
         "songPath": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu",
@@ -88,7 +88,7 @@
         "sscPath": "./Songs/18-PRIME 2/15B1 - Le Grand Bleu/15B1 - Le Grand Bleu.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 46,
         "name": "1696 - POINT ZERO 2",
         "songPath": "./Songs/19-XX/1696 - POINT ZERO 2",
@@ -96,7 +96,7 @@
         "sscPath": "./Songs/19-XX/1696 - POINT ZERO 2/1696 - POINT ZERO 2.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 55,
         "name": "16B1 - Mopemope",
         "songPath": "./Songs/19-XX/16B1 - Mopemope",
@@ -104,7 +104,7 @@
         "sscPath": "./Songs/19-XX/16B1 - Mopemope/16B1 - Mopemope.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 59,
         "name": "16B5 - Tropicanic",
         "songPath": "./Songs/19-XX/16B5 - Tropicanic",
@@ -112,7 +112,7 @@
         "sscPath": "./Songs/19-XX/16B5 - Tropicanic/16B5 - Tropicanic.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 18,
         "name": "18000 - VECTOR",
         "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",
@@ -120,7 +120,7 @@
         "sscPath": "./Songs/21-PHOENIX/18000 - VECTOR/VECTOR.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 43,
         "name": "18044 - Yo! Say!! Fairy!!!",
         "songPath": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!",
@@ -128,7 +128,7 @@
         "sscPath": "./Songs/21-PHOENIX/18044 - Yo! Say!! Fairy!!!/16B3 - Yo! Say!! Fairy!!!.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 46,
         "name": "18044.5 - Bluish Rose",
         "songPath": "./Songs/21-PHOENIX/18044.5 - Bluish Rose",
@@ -136,7 +136,7 @@
         "sscPath": "./Songs/21-PHOENIX/18044.5 - Bluish Rose/Bluish Rose.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 73,
         "name": "18115 - Alone",
         "songPath": "./Songs/21-PHOENIX/18115 - Alone",
@@ -144,7 +144,7 @@
         "sscPath": "./Songs/21-PHOENIX/18115 - Alone/Alone.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 82,
         "name": "18133 - PANDORA",
         "songPath": "./Songs/21-PHOENIX/18133 - PANDORA",
@@ -152,7 +152,7 @@
         "sscPath": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 93,
         "name": "18230 - Altale",
         "songPath": "./Songs/21-PHOENIX/18230 - Altale",

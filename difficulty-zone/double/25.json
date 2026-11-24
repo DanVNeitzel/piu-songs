@@ -1,22 +1,22 @@
 [
     {
-        "stageIndex": 5,
+        "stageIndex": 11,
         "songIndex": 0,
         "name": "(1) 1303 - Passacaglia",
-        "songPath": "./Songs/16-FIESTA 2/(1) 1303 - Passacaglia",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia",
         "banner": null,
-        "sscPath": "./Songs/16-FIESTA 2/(1) 1303 - Passacaglia/1303 - Passacaglia.ssc"
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia/1303 - Passacaglia.ssc"
     },
     {
-        "stageIndex": 3,
-        "songIndex": 0,
+        "stageIndex": 11,
+        "songIndex": 3,
         "name": "1017 - Vacuum",
-        "songPath": "./Songs/14-FIESTA/1017 - Vacuum",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1017 - Vacuum",
         "banner": null,
-        "sscPath": "./Songs/14-FIESTA/1017 - Vacuum/1017 - Vacuum.ssc"
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1017 - Vacuum/1017 - Vacuum.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 2,
         "name": "1503 - Hellfire",
         "songPath": "./Songs/18-PRIME 2/1503 - Hellfire",
@@ -24,7 +24,7 @@
         "sscPath": "./Songs/18-PRIME 2/1503 - Hellfire/1503 - Hellfire.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 10,
         "name": "1517 - Kasou Shinja",
         "songPath": "./Songs/18-PRIME 2/1517 - Kasou Shinja",
@@ -32,7 +32,7 @@
         "sscPath": "./Songs/18-PRIME 2/1517 - Kasou Shinja/1517 - Kasou Shinja.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 19,
         "name": "1539 - Travel to Future",
         "songPath": "./Songs/18-PRIME 2/1539 - Travel to Future",
@@ -40,7 +40,7 @@
         "sscPath": "./Songs/18-PRIME 2/1539 - Travel to Future/1539 - Travel to Future.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 54,
         "name": "15D2 - [Remix] Shub Sothoth",
         "songPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth",
@@ -48,7 +48,7 @@
         "sscPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth/15D2 - [Remix] Shub Sothoth.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 56,
         "name": "15E4 - [Full Song] Acquaintance",
         "songPath": "./Songs/18-PRIME 2/15E4 - [Full Song] Acquaintance",
@@ -56,7 +56,7 @@
         "sscPath": "./Songs/18-PRIME 2/15E4 - [Full Song] Acquaintance/15E4 - [Full Song] Acquaintance.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 57,
         "name": "15E5 - [Full Song] Gargoyle",
         "songPath": "./Songs/18-PRIME 2/15E5 - [Full Song] Gargoyle",
@@ -64,7 +64,7 @@
         "sscPath": "./Songs/18-PRIME 2/15E5 - [Full Song] Gargoyle/15E5 - [Full Song] Gargoyle.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 58,
         "name": "15E7 - [Full Song] Chase Me",
         "songPath": "./Songs/18-PRIME 2/15E7 - [Full Song] Chase Me",
@@ -72,7 +72,7 @@
         "sscPath": "./Songs/18-PRIME 2/15E7 - [Full Song] Chase Me/15E7 - [Full Song] Chase Me.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 3,
         "name": "1613 - Sugar Plum",
         "songPath": "./Songs/19-XX/1613 - Sugar Plum",
@@ -80,7 +80,7 @@
         "sscPath": "./Songs/19-XX/1613 - Sugar Plum/1613 - Sugar Plum.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 4,
         "name": "1616 - HEART RABBIT COASTER",
         "songPath": "./Songs/19-XX/1616 - HEART RABBIT COASTER",
@@ -88,7 +88,7 @@
         "sscPath": "./Songs/19-XX/1616 - HEART RABBIT COASTER/1616 - HEART RABBIT COASTER.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 6,
         "name": "1618 - Skeptic",
         "songPath": "./Songs/19-XX/1618 - Skeptic",
@@ -96,7 +96,7 @@
         "sscPath": "./Songs/19-XX/1618 - Skeptic/1618 - Skeptic.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 7,
         "name": "1619 - Iolite Sky",
         "songPath": "./Songs/19-XX/1619 - Iolite Sky",
@@ -104,7 +104,7 @@
         "sscPath": "./Songs/19-XX/1619 - Iolite Sky/1619 - Iolite Sky.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 15,
         "name": "1630 - Kimchi Fingers",
         "songPath": "./Songs/19-XX/1630 - Kimchi Fingers",
@@ -112,7 +112,7 @@
         "sscPath": "./Songs/19-XX/1630 - Kimchi Fingers/1630 - Kimchi Fingers.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 18,
         "name": "1636 - Stardream (feat. Romelon)",
         "songPath": "./Songs/19-XX/1636 - Stardream (feat. Romelon)",
@@ -120,7 +120,7 @@
         "sscPath": "./Songs/19-XX/1636 - Stardream (feat. Romelon)/1636 - Stardream (feat. Romelon).ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 32,
         "name": "1673 - After a thousand years",
         "songPath": "./Songs/19-XX/1673 - After a thousand years",
@@ -128,7 +128,7 @@
         "sscPath": "./Songs/19-XX/1673 - After a thousand years/1673 - After a thousand years.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 34,
         "name": "1676 - Conflict",
         "songPath": "./Songs/19-XX/1676 - Conflict",
@@ -136,7 +136,7 @@
         "sscPath": "./Songs/19-XX/1676 - Conflict/1676 - Conflict.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 35,
         "name": "1677 - Danger & Danger",
         "songPath": "./Songs/19-XX/1677 - Danger & Danger",
@@ -144,7 +144,7 @@
         "sscPath": "./Songs/19-XX/1677 - Danger & Danger/1677 - Danger & Danger.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 39,
         "name": "1685 - Xeroize",
         "songPath": "./Songs/19-XX/1685 - Xeroize",
@@ -152,7 +152,7 @@
         "sscPath": "./Songs/19-XX/1685 - Xeroize/1685 - Xeroize.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 43,
         "name": "1691 - Dement ~After Legend~",
         "songPath": "./Songs/19-XX/1691 - Dement ~After Legend~",
@@ -160,7 +160,7 @@
         "sscPath": "./Songs/19-XX/1691 - Dement ~After Legend~/1691 - Dement ~After Legend~.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 46,
         "name": "1696 - POINT ZERO 2",
         "songPath": "./Songs/19-XX/1696 - POINT ZERO 2",
@@ -168,7 +168,7 @@
         "sscPath": "./Songs/19-XX/1696 - POINT ZERO 2/1696 - POINT ZERO 2.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 51,
         "name": "16A2 - Fires of Destiny",
         "songPath": "./Songs/19-XX/16A2 - Fires of Destiny",
@@ -176,7 +176,7 @@
         "sscPath": "./Songs/19-XX/16A2 - Fires of Destiny/16A2 - Fires of Destiny.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 53,
         "name": "16A5 - Harmagedon",
         "songPath": "./Songs/19-XX/16A5 - Harmagedon",
@@ -184,7 +184,7 @@
         "sscPath": "./Songs/19-XX/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 55,
         "name": "16B1 - Mopemope",
         "songPath": "./Songs/19-XX/16B1 - Mopemope",
@@ -192,7 +192,7 @@
         "sscPath": "./Songs/19-XX/16B1 - Mopemope/16B1 - Mopemope.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 56,
         "name": "16B2 - Re End of a Dream",
         "songPath": "./Songs/19-XX/16B2 - Re End of a Dream",
@@ -200,7 +200,7 @@
         "sscPath": "./Songs/19-XX/16B2 - Re End of a Dream/16B2 - Re End of a Dream.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 58,
         "name": "16B4 - Cygnus",
         "songPath": "./Songs/19-XX/16B4 - Cygnus",
@@ -208,7 +208,7 @@
         "sscPath": "./Songs/19-XX/16B4 - Cygnus/16B4 - Cygnus.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 61,
         "name": "16C5 - [Full Song] Allegro Con Fuoco",
         "songPath": "./Songs/19-XX/16C5 - [Full Song] Allegro Con Fuoco",
@@ -216,7 +216,7 @@
         "sscPath": "./Songs/19-XX/16C5 - [Full Song] Allegro Con Fuoco/16C5 - [Full Song] Allegro Con Fuoco.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 62,
         "name": "16D0 - [Remix] Desaparecer",
         "songPath": "./Songs/19-XX/16D0 - [Remix] Desaparecer",
@@ -224,7 +224,7 @@
         "sscPath": "./Songs/19-XX/16D0 - [Remix] Desaparecer/16D0 - [Remix] Desaparecer.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 71,
         "name": "16F7 - [Full Song] 8 6",
         "songPath": "./Songs/19-XX/16F7 - [Full Song] 8 6",
@@ -232,7 +232,7 @@
         "sscPath": "./Songs/19-XX/16F7 - [Full Song] 8 6/16F7 - [Full Song] 8 6.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 73,
         "name": "1705 - Ultimatum",
         "songPath": "./Songs/19-XX/1705 - Ultimatum",
@@ -240,7 +240,7 @@
         "sscPath": "./Songs/19-XX/1705 - Ultimatum/1705 - Ultimatum.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 10,
         "name": "1724 - Human Extinction (PIU Edit.)",
         "songPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)",
@@ -248,7 +248,7 @@
         "sscPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)/1724 - Human Extinction (PIU Edit.).ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 12,
         "name": "1726 - Underworld ft. Skizzo (PIU Edit.)",
         "songPath": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)",
@@ -256,7 +256,7 @@
         "sscPath": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)/1726 - Underworld ft. Skizzo (PIU Edit.).ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 13,
         "name": "1730 - Eternal Universe",
         "songPath": "./Songs/21-PHOENIX/1730 - Eternal Universe",
@@ -264,7 +264,7 @@
         "sscPath": "./Songs/21-PHOENIX/1730 - Eternal Universe/1730 - Eternal Universe.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 19,
         "name": "18005 - Versailles",
         "songPath": "./Songs/21-PHOENIX/18005 - Versailles",
@@ -272,7 +272,7 @@
         "sscPath": "./Songs/21-PHOENIX/18005 - Versailles/Versailles.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 24,
         "name": "18022 - Halloween Party ~Multiverse~",
         "songPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~",
@@ -280,7 +280,7 @@
         "sscPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~/Halloween Party ~Multiverse~.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 25,
         "name": "18025 - Jupin",
         "songPath": "./Songs/21-PHOENIX/18025 - Jupin",
@@ -288,7 +288,7 @@
         "sscPath": "./Songs/21-PHOENIX/18025 - Jupin/Jupin.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 26,
         "name": "18027 - Ghroth",
         "songPath": "./Songs/21-PHOENIX/18027 - Ghroth",
@@ -296,7 +296,7 @@
         "sscPath": "./Songs/21-PHOENIX/18027 - Ghroth/Ghroth.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 27,
         "name": "18030 - KUGUTSU",
         "songPath": "./Songs/21-PHOENIX/18030 - KUGUTSU",
@@ -304,7 +304,7 @@
         "sscPath": "./Songs/21-PHOENIX/18030 - KUGUTSU/KUGUTSU.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 32,
         "name": "18035 - Etude Op 10-4",
         "songPath": "./Songs/21-PHOENIX/18035 - Etude Op 10-4",
@@ -312,7 +312,7 @@
         "sscPath": "./Songs/21-PHOENIX/18035 - Etude Op 10-4/Etude Op 10-4.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 34,
         "name": "18036.3 - 1948",
         "songPath": "./Songs/21-PHOENIX/18036.3 - 1948",
@@ -320,7 +320,7 @@
         "sscPath": "./Songs/21-PHOENIX/18036.3 - 1948/1948.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 38,
         "name": "18039 - Solfeggietto",
         "songPath": "./Songs/21-PHOENIX/18039 - Solfeggietto",
@@ -328,7 +328,7 @@
         "sscPath": "./Songs/21-PHOENIX/18039 - Solfeggietto/16A8 - Solfeggietto.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 39,
         "name": "18040 - MURDOCH",
         "songPath": "./Songs/21-PHOENIX/18040 - MURDOCH",
@@ -336,7 +336,7 @@
         "sscPath": "./Songs/21-PHOENIX/18040 - MURDOCH/16A9 - MURDOCH.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 42,
         "name": "18043 - Barber's Madness",
         "songPath": "./Songs/21-PHOENIX/18043 - Barber's Madness",
@@ -344,7 +344,7 @@
         "sscPath": "./Songs/21-PHOENIX/18043 - Barber's Madness/16B2 - Barber's Madness.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 49,
         "name": "18046.5 - Imperium",
         "songPath": "./Songs/21-PHOENIX/18046.5 - Imperium",
@@ -352,7 +352,7 @@
         "sscPath": "./Songs/21-PHOENIX/18046.5 - Imperium/Imperium.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 50,
         "name": "18047 - Neo Catharsis",
         "songPath": "./Songs/21-PHOENIX/18047 - Neo Catharsis",
@@ -360,7 +360,7 @@
         "sscPath": "./Songs/21-PHOENIX/18047 - Neo Catharsis/Neo Catharsis.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 51,
         "name": "18048 - Appassionata",
         "songPath": "./Songs/21-PHOENIX/18048 - Appassionata",
@@ -368,7 +368,7 @@
         "sscPath": "./Songs/21-PHOENIX/18048 - Appassionata/Appassionata.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 54,
         "name": "18049.3 - SONIC BOOM",
         "songPath": "./Songs/21-PHOENIX/18049.3 - SONIC BOOM",
@@ -376,7 +376,7 @@
         "sscPath": "./Songs/21-PHOENIX/18049.3 - SONIC BOOM/SONIC BOOM.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 55,
         "name": "18049.5 - MEGAHEARTZ",
         "songPath": "./Songs/21-PHOENIX/18049.5 - MEGAHEARTZ",
@@ -384,7 +384,7 @@
         "sscPath": "./Songs/21-PHOENIX/18049.5 - MEGAHEARTZ/MEGAHEARTZ.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 56,
         "name": "18049.6 - Darkside Of The Mind",
         "songPath": "./Songs/21-PHOENIX/18049.6 - Darkside Of The Mind",
@@ -392,7 +392,7 @@
         "sscPath": "./Songs/21-PHOENIX/18049.6 - Darkside Of The Mind/Darkside Of The Mind.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 63,
         "name": "18060 - New Rose",
         "songPath": "./Songs/21-PHOENIX/18060 - New Rose",
@@ -400,7 +400,7 @@
         "sscPath": "./Songs/21-PHOENIX/18060 - New Rose/New Rose.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 70,
         "name": "18100 - BOCA",
         "songPath": "./Songs/21-PHOENIX/18100 - BOCA",
@@ -408,7 +408,7 @@
         "sscPath": "./Songs/21-PHOENIX/18100 - BOCA/BOCA.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 74,
         "name": "18120 - Amor Fati",
         "songPath": "./Songs/21-PHOENIX/18120 - Amor Fati",
@@ -416,7 +416,7 @@
         "sscPath": "./Songs/21-PHOENIX/18120 - Amor Fati/Amor Fati.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 75,
         "name": "18125 - After LIKE",
         "songPath": "./Songs/21-PHOENIX/18125 - After LIKE",
@@ -424,7 +424,7 @@
         "sscPath": "./Songs/21-PHOENIX/18125 - After LIKE/After LIKE.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 86,
         "name": "18180 - Nade Nade",
         "songPath": "./Songs/21-PHOENIX/18180 - Nade Nade",
@@ -432,7 +432,7 @@
         "sscPath": "./Songs/21-PHOENIX/18180 - Nade Nade/Nade Nade.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 88,
         "name": "18205 - CO5M1C R4ILR0AD",
         "songPath": "./Songs/21-PHOENIX/18205 - CO5M1C R4ILR0AD",
@@ -440,7 +440,7 @@
         "sscPath": "./Songs/21-PHOENIX/18205 - CO5M1C R4ILR0AD/CO5M1C R4ILR0AD.SSC"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 91,
         "name": "18220 - Acquire",
         "songPath": "./Songs/21-PHOENIX/18220 - Acquire",
@@ -448,7 +448,7 @@
         "sscPath": "./Songs/21-PHOENIX/18220 - Acquire/Acquire.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 97,
         "name": "18237 - R.I.P",
         "songPath": "./Songs/21-PHOENIX/18237 - R.I.P",
@@ -456,7 +456,7 @@
         "sscPath": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 99,
         "name": "18238 - PUPA",
         "songPath": "./Songs/21-PHOENIX/18238 - PUPA",
@@ -464,7 +464,7 @@
         "sscPath": "./Songs/21-PHOENIX/18238 - PUPA/PUPA.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 102,
         "name": "18238.7.0 - Rush-Hour",
         "songPath": "./Songs/21-PHOENIX/18238.7.0 - Rush-Hour",
@@ -472,7 +472,7 @@
         "sscPath": "./Songs/21-PHOENIX/18238.7.0 - Rush-Hour/Rush-Hour.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 106,
         "name": "18238.9 - Spooky Macaron",
         "songPath": "./Songs/21-PHOENIX/18238.9 - Spooky Macaron",
@@ -480,7 +480,7 @@
         "sscPath": "./Songs/21-PHOENIX/18238.9 - Spooky Macaron/Spooky Macaron.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 107,
         "name": "18239 - Aragami",
         "songPath": "./Songs/21-PHOENIX/18239 - Aragami",
@@ -488,7 +488,7 @@
         "sscPath": "./Songs/21-PHOENIX/18239 - Aragami/Aragami.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 109,
         "name": "18242 - Destr0yer",
         "songPath": "./Songs/21-PHOENIX/18242 - Destr0yer",
@@ -496,7 +496,7 @@
         "sscPath": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 112,
         "name": "18242.5 - Odin",
         "songPath": "./Songs/21-PHOENIX/18242.5 - Odin",
@@ -504,7 +504,7 @@
         "sscPath": "./Songs/21-PHOENIX/18242.5 - Odin/Odin.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 114,
         "name": "18242.6 - DOOFSENC",
         "songPath": "./Songs/21-PHOENIX/18242.6 - DOOFSENC",
@@ -512,7 +512,7 @@
         "sscPath": "./Songs/21-PHOENIX/18242.6 - DOOFSENC/DOOFSENC.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 116,
         "name": "18242.9 - Break Through Myself feat. Risa Yuzuki",
         "songPath": "./Songs/21-PHOENIX/18242.9 - Break Through Myself feat. Risa Yuzuki",
@@ -520,7 +520,7 @@
         "sscPath": "./Songs/21-PHOENIX/18242.9 - Break Through Myself feat. Risa Yuzuki/Break Through Myself feat. Risa Yuzuki.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 117,
         "name": "18243 - Viyella's Nightmare",
         "songPath": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare",
@@ -528,7 +528,7 @@
         "sscPath": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare/Viyella's Nightmare.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 120,
         "name": "18244 - TRICKL4SH 220",
         "songPath": "./Songs/21-PHOENIX/18244 - TRICKL4SH 220",
@@ -536,7 +536,7 @@
         "sscPath": "./Songs/21-PHOENIX/18244 - TRICKL4SH 220/TRICKL4SH 220.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 121,
         "name": "18244.4 - Extreme Music School 1st period feat. Nanahira",
         "songPath": "./Songs/21-PHOENIX/18244.4 - Extreme Music School 1st period feat. Nanahira",
@@ -544,7 +544,7 @@
         "sscPath": "./Songs/21-PHOENIX/18244.4 - Extreme Music School 1st period feat. Nanahira/Extreme Music School 1st period feat. Nanahira.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 126,
         "name": "18251 - Heliosphere",
         "songPath": "./Songs/21-PHOENIX/18251 - Heliosphere",
@@ -552,7 +552,7 @@
         "sscPath": "./Songs/21-PHOENIX/18251 - Heliosphere/Heliosphere.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 129,
         "name": "18A20 - INVASION",
         "songPath": "./Songs/21-PHOENIX/18A20 - INVASION",
@@ -560,7 +560,7 @@
         "sscPath": "./Songs/21-PHOENIX/18A20 - INVASION/INVASION.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 130,
         "name": "18A30 - Earendel",
         "songPath": "./Songs/21-PHOENIX/18A30 - Earendel",
@@ -568,7 +568,7 @@
         "sscPath": "./Songs/21-PHOENIX/18A30 - Earendel/Earendel.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 131,
         "name": "18A40 - Hymn of Golden Glory",
         "songPath": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory",
@@ -576,7 +576,7 @@
         "sscPath": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory/Hymn of Golden Glory.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 133,
         "name": "18A60 - Murdoch vs Otada",
         "songPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada",

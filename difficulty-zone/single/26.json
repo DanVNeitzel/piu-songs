@@ -1,6 +1,6 @@
 [
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 22,
         "name": "1542 - ESCAPE",
         "songPath": "./Songs/18-PRIME 2/1542 - ESCAPE",
@@ -8,7 +8,7 @@
         "sscPath": "./Songs/18-PRIME 2/1542 - ESCAPE/1542 - ESCAPE.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 34,
         "name": "18036.3 - 1948",
         "songPath": "./Songs/21-PHOENIX/18036.3 - 1948",
@@ -16,7 +16,7 @@
         "sscPath": "./Songs/21-PHOENIX/18036.3 - 1948/1948.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 38,
         "name": "18039 - Solfeggietto",
         "songPath": "./Songs/21-PHOENIX/18039 - Solfeggietto",

@@ -1,22 +1,22 @@
 [
     {
-        "stageIndex": 1,
-        "songIndex": 0,
+        "stageIndex": 9,
+        "songIndex": 1,
         "name": "(2) 701 - Dr. M",
-        "songPath": "./Songs/09-EXTRA~PREX3/(2) 701 - Dr. M",
+        "songPath": "./Songs/08-1ST~ZERO/(2) 701 - Dr. M",
         "banner": null,
-        "sscPath": "./Songs/09-EXTRA~PREX3/(2) 701 - Dr. M/701 - Dr. M.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(2) 701 - Dr. M/701 - Dr. M.ssc"
     },
     {
-        "stageIndex": 0,
-        "songIndex": 0,
+        "stageIndex": 9,
+        "songIndex": 5,
         "name": "(3) 503 - Rolling Christmas",
-        "songPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas",
+        "songPath": "./Songs/08-1ST~ZERO/(3) 503 - Rolling Christmas",
         "banner": null,
-        "sscPath": "./Songs/08-1ST~PERF/(3) 503 - Rolling Christmas/503 - Rolling Christmas.ssc"
+        "sscPath": "./Songs/08-1ST~ZERO/(3) 503 - Rolling Christmas/503 - Rolling Christmas.ssc"
     },
     {
-        "stageIndex": 6,
+        "stageIndex": 12,
         "songIndex": 0,
         "name": "1402 - Katkoi",
         "songPath": "./Songs/17-PRIME/1402 - Katkoi",
@@ -24,7 +24,7 @@
         "sscPath": "./Songs/17-PRIME/1402 - Katkoi/1402 - Katkoi.ssc"
     },
     {
-        "stageIndex": 6,
+        "stageIndex": 12,
         "songIndex": 3,
         "name": "1474 - Moment Day",
         "songPath": "./Songs/17-PRIME/1474 - Moment Day",
@@ -32,7 +32,7 @@
         "sscPath": "./Songs/17-PRIME/1474 - Moment Day/1474 - Moment Day.ssc"
     },
     {
-        "stageIndex": 6,
+        "stageIndex": 12,
         "songIndex": 4,
         "name": "1476 - Yoropiku Pikuyoro!",
         "songPath": "./Songs/17-PRIME/1476 - Yoropiku Pikuyoro!",
@@ -40,7 +40,7 @@
         "sscPath": "./Songs/17-PRIME/1476 - Yoropiku Pikuyoro!/1476 - Yoropiku Pikuyoro!.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 8,
         "name": "1512 - Bring Back the Beat",
         "songPath": "./Songs/18-PRIME 2/1512 - Bring Back the Beat",
@@ -48,7 +48,7 @@
         "sscPath": "./Songs/18-PRIME 2/1512 - Bring Back the Beat/1512 - Bring Back The Beat.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 14,
         "name": "1530 - Utsushiyo No Kaze feat. Kana",
         "songPath": "./Songs/18-PRIME 2/1530 - Utsushiyo No Kaze feat. Kana",
@@ -56,7 +56,7 @@
         "sscPath": "./Songs/18-PRIME 2/1530 - Utsushiyo No Kaze feat. Kana/1530 - Utsushiyo No Kaze feat. Kana.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 18,
         "name": "1538 - Up & Up (Produced by AWAL)",
         "songPath": "./Songs/18-PRIME 2/1538 - Up & Up (Produced by AWAL)",
@@ -64,7 +64,7 @@
         "sscPath": "./Songs/18-PRIME 2/1538 - Up & Up (Produced by AWAL)/1538 -  Up & Up (Produced by AWAL).ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 27,
         "name": "1553 - Up & Down",
         "songPath": "./Songs/18-PRIME 2/1553 - Up & Down",
@@ -72,7 +72,7 @@
         "sscPath": "./Songs/18-PRIME 2/1553 - Up & Down/1553 - Up & Down.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 28,
         "name": "1554 - Good Night",
         "songPath": "./Songs/18-PRIME 2/1554 - Good Night",
@@ -80,7 +80,7 @@
         "sscPath": "./Songs/18-PRIME 2/1554 - Good Night/1554 - Good Night.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 34,
         "name": "1576 - Just Kiddin",
         "songPath": "./Songs/18-PRIME 2/1576 - Just Kiddin",
@@ -88,7 +88,7 @@
         "sscPath": "./Songs/18-PRIME 2/1576 - Just Kiddin/1576 - Just Kiddin.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 37,
         "name": "1593 - V3",
         "songPath": "./Songs/18-PRIME 2/1593 - V3",
@@ -96,7 +96,7 @@
         "sscPath": "./Songs/18-PRIME 2/1593 - V3/1593 - V3.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 39,
         "name": "1597 - HELIX",
         "songPath": "./Songs/18-PRIME 2/1597 - HELIX",
@@ -104,7 +104,7 @@
         "sscPath": "./Songs/18-PRIME 2/1597 - HELIX/1597 - HELIX.ssc"
     },
     {
-        "stageIndex": 7,
+        "stageIndex": 13,
         "songIndex": 42,
         "name": "15A1 - BSPower Explosion",
         "songPath": "./Songs/18-PRIME 2/15A1 - BSPower Explosion",
@@ -112,7 +112,7 @@
         "sscPath": "./Songs/18-PRIME 2/15A1 - BSPower Explosion/15A1 - BSPower Explosion.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 4,
         "name": "1616 - HEART RABBIT COASTER",
         "songPath": "./Songs/19-XX/1616 - HEART RABBIT COASTER",
@@ -120,7 +120,7 @@
         "sscPath": "./Songs/19-XX/1616 - HEART RABBIT COASTER/1616 - HEART RABBIT COASTER.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 9,
         "name": "1622 - Le Grand Rouge",
         "songPath": "./Songs/19-XX/1622 - Le Grand Rouge",
@@ -128,7 +128,7 @@
         "sscPath": "./Songs/19-XX/1622 - Le Grand Rouge/1622 - Le Grand Rouge.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 29,
         "name": "1670 - 8 6",
         "songPath": "./Songs/19-XX/1670 - 8 6",
@@ -136,7 +136,7 @@
         "sscPath": "./Songs/19-XX/1670 - 8 6/1670 - 8 6.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 34,
         "name": "1676 - Conflict",
         "songPath": "./Songs/19-XX/1676 - Conflict",
@@ -144,7 +144,7 @@
         "sscPath": "./Songs/19-XX/1676 - Conflict/1676 - Conflict.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 36,
         "name": "1678 - Imagination",
         "songPath": "./Songs/19-XX/1678 - Imagination",
@@ -152,7 +152,7 @@
         "sscPath": "./Songs/19-XX/1678 - Imagination/1678 - Imagination.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 39,
         "name": "1685 - Xeroize",
         "songPath": "./Songs/19-XX/1685 - Xeroize",
@@ -160,7 +160,7 @@
         "sscPath": "./Songs/19-XX/1685 - Xeroize/1685 - Xeroize.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 44,
         "name": "1692 - Houseplan",
         "songPath": "./Songs/19-XX/1692 - Houseplan",
@@ -168,7 +168,7 @@
         "sscPath": "./Songs/19-XX/1692 - Houseplan/1692 - Houseplan.ssc"
     },
     {
-        "stageIndex": 8,
+        "stageIndex": 14,
         "songIndex": 70,
         "name": "16F6 - [Short Cut] Switronic",
         "songPath": "./Songs/19-XX/16F6 - [Short Cut] Switronic",
@@ -176,7 +176,7 @@
         "sscPath": "./Songs/19-XX/16F6 - [Short Cut] Switronic/16F6 - [Short Cut] Switronic.ssc"
     },
     {
-        "stageIndex": 9,
+        "stageIndex": 15,
         "songIndex": 76,
         "name": "18126 - ELEVEN",
         "songPath": "./Songs/21-PHOENIX/18126 - ELEVEN",

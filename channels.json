@@ -1,0 +1,193 @@
+{
+  "reference": "https://www.youtube.com/watch?v=LBN5_s6151o",
+  "channels": [
+    {
+      "id": "arcade-mix",
+      "folder": "ARCADE MIX",
+      "artwork": "Arcade_Mix.png",
+      "rule": "all"
+    },
+    {
+      "id": "new-tunes",
+      "folder": "NEW TUNES",
+      "artwork": "New_Tunes.png",
+      "rule": "manual"
+    },
+    {
+      "id": "k-pop",
+      "folder": "K-POP",
+      "artwork": "K-POP.png",
+      "rule": "category",
+      "values": [
+        "K-POP"
+      ]
+    },
+    {
+      "id": "original",
+      "folder": "ORIGINAL",
+      "artwork": "Original.png",
+      "rule": "category",
+      "values": [
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "world-music",
+      "folder": "WORLD MUSIC",
+      "artwork": "World_Music.png",
+      "rule": "category",
+      "values": [
+        "WORLD MUSIC",
+        "J-MUSIC"
+      ]
+    },
+    {
+      "id": "full-song",
+      "folder": "FULL SONG",
+      "artwork": "Full_Song.png",
+      "rule": "songtype",
+      "values": [
+        "FULLSONG"
+      ]
+    },
+    {
+      "id": "short-cut",
+      "folder": "SHORT CUT",
+      "artwork": "Short_Cut.png",
+      "rule": "songtype",
+      "values": [
+        "SHORTCUT"
+      ]
+    },
+    {
+      "id": "remix",
+      "folder": "REMIX",
+      "artwork": "Remix.png",
+      "rule": "songtype",
+      "values": [
+        "REMIX"
+      ]
+    },
+    {
+      "id": "series-zone",
+      "folder": "SERIES ZONE",
+      "artwork": "Series_Zone.png",
+      "rule": "all"
+    },
+    {
+      "id": "1st-to-zero",
+      "folder": "08-1ST~ZERO",
+      "artwork": "Series_Zone_1st_to_ZERO.png",
+      "rule": "series"
+    },
+    {
+      "id": "nx-to-nxa",
+      "folder": "13-NX~NXA",
+      "artwork": "Series_Zone_NX_to_NXA.png",
+      "rule": "series"
+    },
+    {
+      "id": "fiesta-to-fiesta2",
+      "folder": "16-FIESTA~FIESTA2",
+      "artwork": "Series_Zone_Fiesta_to_fiesta2.png",
+      "rule": "series"
+    },
+    {
+      "id": "prime",
+      "folder": "17-PRIME",
+      "artwork": "Series_Zone_Prime.png",
+      "rule": "series"
+    },
+    {
+      "id": "prime2",
+      "folder": "18-PRIME 2",
+      "artwork": "Series_Zone_Prime2.png",
+      "rule": "series"
+    },
+    {
+      "id": "xx",
+      "folder": "19-XX",
+      "artwork": "Series_Zone_XX.png",
+      "rule": "series"
+    },
+    {
+      "id": "phoenix",
+      "folder": "21-PHOENIX",
+      "artwork": "Series_Zone_Phoenix.png",
+      "rule": "series"
+    },
+    {
+      "id": "phoenix2",
+      "folder": "22-PHOENIX 2",
+      "artwork": "Series_Zone_Phoenix2.png",
+      "rule": "series"
+    },
+    {
+      "id": "rise-volume-1",
+      "folder": "RISE VOLUME 1",
+      "artwork": "Rise_Volume_01.png",
+      "rule": "manual"
+    },
+    {
+      "id": "difficulty-single",
+      "folder": "DIFFICULTY ZONE SINGLE",
+      "artwork": "Difficulty_Zone_Single.png",
+      "rule": "stepstype",
+      "values": [
+        "pump-single"
+      ]
+    },
+    {
+      "id": "difficulty-double",
+      "folder": "DIFFICULTY ZONE DOUBLE",
+      "artwork": "Difficulty_Zone_Double.png",
+      "rule": "stepstype",
+      "values": [
+        "pump-double"
+      ]
+    },
+    {
+      "id": "difficulty-half-double",
+      "folder": "DIFFICULTY ZONE H. DOUBLE",
+      "artwork": "Difficulty_Zone_H_Double.png",
+      "rule": "stepstype",
+      "values": [
+        "pump-halfdouble"
+      ]
+    },
+    {
+      "id": "ucs",
+      "folder": "UCS",
+      "artwork": "UCS.png",
+      "rule": "ucs"
+    },
+    {
+      "id": "online-matching",
+      "folder": "ONLINE MATCHING",
+      "artwork": "Online_Matching.png",
+      "rule": "manual"
+    },
+    {
+      "id": "rise-mix",
+      "folder": "RISE MIX",
+      "artwork": "Rise_Mix.png",
+      "rule": "manual"
+    },
+    {
+      "id": "co-op",
+      "folder": "CO-OP",
+      "artwork": "CO-OP.png",
+      "rule": "stepstype",
+      "values": [
+        "pump-couple",
+        "pump-routine"
+      ]
+    },
+    {
+      "id": "xross",
+      "folder": "XROSS",
+      "artwork": "Xross.png",
+      "rule": "manual"
+    }
+  ]
+}

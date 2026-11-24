@@ -74,6 +74,41 @@ O gerador procura uma imagem na raiz da categoria para preencher seu campo `bann
 
 ## Gerar o catálogo
 
+### Canais Phoenix 2
+
+`channels.json` define a ordem, os banners e as regras dos 26 canais da
+[referência em vídeo](https://www.youtube.com/watch?v=LBN5_s6151o).
+As pastas `08-1ST~ZERO` e `16-FIESTA~FIESTA2` reúnem, respectivamente,
+1st até Zero e Fiesta até Fiesta 2. Prime, Prime 2, XX, Phoenix e Phoenix 2
+ficam separados; NX até NXA possui sua própria pasta.
+
+Cada canal tem `banner.png`. Os canais de gênero, formato, dificuldade,
+Arcade Mix, Series Zone, Co-op e UCS referenciam os caminhos originais das
+músicas no catálogo, sem copiar os arquivos. `SONGCATEGORY` (ou `GENRE`
+quando necessário), `SONGTYPE` e `STEPSTYPE` determinam esses filtros.
+World Music também inclui a categoria J-Music. UCS inclui músicas com
+charts explicitamente identificados como UCS em `DESCRIPTION` ou `CHARTNAME`.
+Os canais de dificuldade filtram músicas pelo tipo do chart; a seleção
+por nível continua disponível em `difficulty-zone/`.
+
+New Tunes, Rise Volume 1, Rise Mix, Xross e Online Matching ficam vazios
+até receberem conteúdo: os SSC atuais não identificam essas associações.
+Os diretórios com apenas banner também aparecem no catálogo. A flag
+`virtual` indica canais de filtro, que o gerador de dificuldades ignora
+para não contar as mesmas músicas novamente. Essa organização do catálogo
+não implementa partidas online nem as regras de jogo de Rise Mix ou Xross.
+
+Para reaplicar a organização em uma cópia antiga da biblioteca, visualize:
+
+```powershell
+python organize_channels.py --artwork CAMINHO_DAS_IMAGENS_DOS_CANAIS
+```
+
+Acrescente `--apply` para mover as pastas e copiar os banners. O script
+verifica conflitos antes das movimentações e preserva um banner anterior
+como `banner_legacy.png`. Depois gere o catálogo e os índices de dificuldade.
+Ambos os geradores de catálogo aplicam as regras de `channel_catalog.php`.
+
 1. Adicione ou atualize os arquivos em `Songs/Categoria/Nome da música/`.
 2. Mantenha `base_songs.json` na raiz: ele fornece a estrutura inicial do catálogo.
 3. Abra [generate_songs_json.php](http://localhost:8000/generate_songs_json.php) no navegador.

@@ -146,6 +146,9 @@ foreach ($folders as $folder) {
     }
 }
 
+require_once __DIR__ . '/channel_catalog.php';
+$allSongsData = applyChannelLayout($allSongsData);
+
 // Salvar o arquivo songs.json
 $jsonOutput = json_encode($allSongsData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 
