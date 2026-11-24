@@ -1,147 +1,99 @@
 [
     {
-        "stageIndex": 13,
-        "songIndex": 3,
-        "name": "1505 - CROSS OVER feat. LyuU",
-        "songPath": "./Songs/18-PRIME 2/1505 - CROSS OVER feat. LyuU",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1505 - CROSS OVER feat. LyuU/1505 - CROSS OVER feat. LyuU.ssc"
+        "stageIndex": 11,
+        "songIndex": 108,
+        "name": "1119 - Crash Day",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1119 - Crash Day",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1119 - Crash Day/1119.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1119 - Crash Day/1119 - Crash Day.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 114,
+        "name": "1125 - X-Rave",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1125 - X-Rave",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1125 - X-Rave/1125.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1125 - X-Rave/1125 - X-Rave.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 121,
+        "name": "1153 - Pine Nut",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1153 - Pine Nut",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1153 - Pine Nut/1153.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1153 - Pine Nut/1153 - Pine Nut.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 5,
+        "songIndex": 6,
         "name": "1508 - Shub Niggurath",
         "songPath": "./Songs/18-PRIME 2/1508 - Shub Niggurath",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1508 - Shub Niggurath/1508 - Shub Niggurath.ssc"
+        "banner": "./Songs/18-PRIME 2/1508 - Shub Niggurath/1508.webp",
+        "sscPath": "./Songs/18-PRIME 2/1508 - Shub Niggurath/1508 - Shub Niggurath - Nato.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 22,
+        "songIndex": 7,
+        "name": "1509 - Further",
+        "songPath": "./Songs/18-PRIME 2/1509 - Further",
+        "banner": "./Songs/18-PRIME 2/1509 - Further/1509.webp",
+        "sscPath": "./Songs/18-PRIME 2/1509 - Further/1509 - Further - Doin.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 27,
         "name": "1542 - ESCAPE",
         "songPath": "./Songs/18-PRIME 2/1542 - ESCAPE",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1542 - ESCAPE/1542 - ESCAPE.ssc"
+        "banner": "./Songs/18-PRIME 2/1542 - ESCAPE/1542.webp",
+        "sscPath": "./Songs/18-PRIME 2/1542 - ESCAPE/1542 - ESCAPE - D_AAN.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 23,
-        "name": "1543 - Waltz of Doge",
-        "songPath": "./Songs/18-PRIME 2/1543 - Waltz of Doge",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1543 - Waltz of Doge/1543 - Waltz of Doge.ssc"
-    },
-    {
-        "stageIndex": 13,
-        "songIndex": 52,
-        "name": "15C5 - Fallen Angel",
-        "songPath": "./Songs/18-PRIME 2/15C5 - Fallen Angel",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/15C5 - Fallen Angel/15C5 - Fallen Angel.ssc"
-    },
-    {
-        "stageIndex": 13,
-        "songIndex": 53,
-        "name": "15D0 - [Remix] Vulcan",
-        "songPath": "./Songs/18-PRIME 2/15D0 - [Remix] Vulcan",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/15D0 - [Remix] Vulcan/15D0 - [Remix] Vulcan.ssc"
-    },
-    {
-        "stageIndex": 13,
-        "songIndex": 54,
-        "name": "15D2 - [Remix] Shub Sothoth",
-        "songPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth/15D2 - [Remix] Shub Sothoth.ssc"
-    },
-    {
-        "stageIndex": 13,
-        "songIndex": 58,
-        "name": "15E7 - [Full Song] Chase Me",
-        "songPath": "./Songs/18-PRIME 2/15E7 - [Full Song] Chase Me",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/15E7 - [Full Song] Chase Me/15E7 - [Full Song] Chase Me.ssc"
+        "songIndex": 82,
+        "name": "15D3 - Leather",
+        "songPath": "./Songs/18-PRIME 2/15D3 - Leather",
+        "banner": "./Songs/18-PRIME 2/15D3 - Leather/15D3.webp",
+        "sscPath": "./Songs/18-PRIME 2/15D3 - Leather/15D3 - Leather - Doin.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 5,
-        "name": "1617 - Lepton Strike",
-        "songPath": "./Songs/19-XX/1617 - Lepton Strike",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1617 - Lepton Strike/1617 - Lepton Strike.ssc"
+        "songIndex": 11,
+        "name": "1618 - Doin - Skeptic",
+        "songPath": "./Songs/19-XX/1618 - Doin - Skeptic",
+        "banner": "./Songs/19-XX/1618 - Doin - Skeptic/1618.webp",
+        "sscPath": "./Songs/19-XX/1618 - Doin - Skeptic/1618 - Doin - Skeptic.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 6,
-        "name": "1618 - Skeptic",
-        "songPath": "./Songs/19-XX/1618 - Skeptic",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1618 - Skeptic/1618 - Skeptic.ssc"
+        "songIndex": 65,
+        "name": "1676 - Siromaru + Cranky - Conflict",
+        "songPath": "./Songs/19-XX/1676 - Siromaru + Cranky - Conflict",
+        "banner": "./Songs/19-XX/1676 - Siromaru + Cranky - Conflict/1676.webp",
+        "sscPath": "./Songs/19-XX/1676 - Siromaru + Cranky - Conflict/1676 - Siromaru + Cranky - Conflict.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 34,
-        "name": "1676 - Conflict",
-        "songPath": "./Songs/19-XX/1676 - Conflict",
-        "banner": "./Songs/19-XX/1676 - Conflict/1676-Phoenix.png",
-        "sscPath": "./Songs/19-XX/1676 - Conflict/1676 - Conflict.ssc"
+        "songIndex": 74,
+        "name": "1685 - FE - Xeroize",
+        "songPath": "./Songs/19-XX/1685 - FE - Xeroize",
+        "banner": "./Songs/19-XX/1685 - FE - Xeroize/1685.webp",
+        "sscPath": "./Songs/19-XX/1685 - FE - Xeroize/1685 - FE - Xeroize.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 39,
-        "name": "1685 - Xeroize",
-        "songPath": "./Songs/19-XX/1685 - Xeroize",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1685 - Xeroize/1685 - Xeroize.ssc"
+        "songIndex": 86,
+        "name": "1697 - NOMA - BRAIN POWER",
+        "songPath": "./Songs/19-XX/1697 - NOMA - BRAIN POWER",
+        "banner": "./Songs/19-XX/1697 - NOMA - BRAIN POWER/1697.webp",
+        "sscPath": "./Songs/19-XX/1697 - NOMA - BRAIN POWER/1697 - BRAIN POWER.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 42,
-        "name": "1689 - Over The Horizon",
-        "songPath": "./Songs/19-XX/1689 - Over The Horizon",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1689 - Over The Horizon/1689 - Over The Horizon.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 49,
-        "name": "1699 - GLORIA",
-        "songPath": "./Songs/19-XX/1699 - GLORIA",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1699 - GLORIA/1699 - GLORIA.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 53,
-        "name": "16A5 - Harmagedon",
-        "songPath": "./Songs/19-XX/16A5 - Harmagedon",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 55,
-        "name": "16B1 - Mopemope",
-        "songPath": "./Songs/19-XX/16B1 - Mopemope",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16B1 - Mopemope/16B1 - Mopemope.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 57,
-        "name": "16B3 - CROSS RAY (feat. Lia)",
-        "songPath": "./Songs/19-XX/16B3 - CROSS RAY (feat. Lia)",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16B3 - CROSS RAY (feat. Lia)/16B3 - CROSS RAY (feat. Lia).ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 60,
-        "name": "16B8 - [Full Song] Good Night",
-        "songPath": "./Songs/19-XX/16B8 - [Full Song] Good Night",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16B8 - [Full Song] Good Night/16B8 - [Full Song] Good Night.ssc"
+        "songIndex": 96,
+        "name": "16D1 - SUNNY && DOIN - ERRORCODE 0",
+        "songPath": "./Songs/19-XX/16D1 - SUNNY && DOIN - ERRORCODE 0",
+        "banner": "./Songs/19-XX/16D1 - SUNNY && DOIN - ERRORCODE 0/16D1.webp",
+        "sscPath": "./Songs/19-XX/16D1 - SUNNY && DOIN - ERRORCODE 0/16D1 - SUNNY && DOIN - ERRORCODE 0.ssc"
     },
     {
         "stageIndex": 15,

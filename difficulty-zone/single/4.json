@@ -1,315 +1,1139 @@
 [
     {
         "stageIndex": 11,
-        "songIndex": 0,
-        "name": "(1) 1303 - Passacaglia",
-        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia",
-        "banner": null,
-        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia/1303 - Passacaglia.ssc"
-    },
-    {
-        "stageIndex": 9,
-        "songIndex": 0,
-        "name": "(1) C02 - Moonlight",
-        "songPath": "./Songs/08-1ST~ZERO/(1) C02 - Moonlight",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(1) C02 - Moonlight/C02 - Moonlight.ssc"
+        "songIndex": 2,
+        "name": "(1) 1301 - Pop The Track",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1301 - Pop The Track",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1301 - Pop The Track/1301.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1301 - Pop The Track/1301 - Pop The Track.ssc"
     },
     {
         "stageIndex": 11,
+        "songIndex": 3,
+        "name": "(1) 1303 - Passacaglia",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia/1303.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1303 - Passacaglia/1303 - Passacaglia.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 8,
+        "name": "(1) 1311 - Accident",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1311 - Accident",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1311 - Accident/title.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1311 - Accident/Accident.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 9,
+        "name": "(1) 1312 - D",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1312 - D",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1312 - D/1312.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1312 - D/1312 - D.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 11,
+        "name": "(1) 1314 - Lucid (PIU Edit)",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1314 - Lucid (PIU Edit)",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1314 - Lucid (PIU Edit)/1314.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1314 - Lucid (PIU Edit)/1314 - Lucid (PIU Edit).ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 12,
+        "name": "(1) 1315 - Nobody",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1315 - Nobody",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1315 - Nobody/1315.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1315 - Nobody/1315 - Nobody.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 14,
+        "name": "(1) 1317 - Step",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1317 - Step",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1317 - Step/1317.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1317 - Step/1317 - Step.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 15,
+        "name": "(1) 1318 - I'm The Best",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1318 - I'm The Best",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1318 - I'm The Best/1318.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1318 - I'm The Best/1318 - I'm The Best.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 16,
+        "name": "(1) 1319 - Can't Nobody",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1319 - Can't Nobody",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1319 - Can't Nobody/1319-Fiesta2.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1319 - Can't Nobody/1319 - Can't Nobody.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 17,
+        "name": "(1) 1320 - Shanghai Romance",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1320 - Shanghai Romance",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1320 - Shanghai Romance/1320.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1320 - Shanghai Romance/1320 - Shanghai Romance.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 19,
+        "name": "(1) 1322 - Lie",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1322 - Lie",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1322 - Lie/1322.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1322 - Lie/1322 - Lie.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 22,
+        "name": "(1) 1325 - Be Mine",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1325 - Be Mine",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1325 - Be Mine/1325-Fiesta2.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1325 - Be Mine/1325 - Be Mine.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 23,
+        "name": "(1) 1326 - Crayon",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1326 - Crayon",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1326 - Crayon/1326-Fiesta2.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1326 - Crayon/1327 - Crayon.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 24,
+        "name": "(1) 1327 - Mackerel",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1327 - Mackerel",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1327 - Mackerel/1327.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1327 - Mackerel/1327 - Mackerel.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 25,
+        "name": "(1) 1328 - Two Guys",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1328 - Two Guys",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1328 - Two Guys/1328.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1328 - Two Guys/1328 - Two Guys.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 26,
+        "name": "(1) 1329 - Danza Kuduro",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1329 - Danza Kuduro",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1329 - Danza Kuduro/1329.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1329 - Danza Kuduro/1329 - Danza Kuduro.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 27,
+        "name": "(1) 1330 - Rabiosa",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1330 - Rabiosa",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1330 - Rabiosa/1330.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1330 - Rabiosa/1330 - Rabiosa.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 30,
+        "name": "(1) 1333 - Los Malaventurados No Lloran",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1333 - Los Malaventurados No Lloran",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1333 - Los Malaventurados No Lloran/1333.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1333 - Los Malaventurados No Lloran/1333 - Los Malaventurados No Lloran.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 32,
+        "name": "(1) 1335 - Online",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1335 - Online",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1335 - Online/1335.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1335 - Online/1335 - Online.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 35,
+        "name": "(1) 1338 - Log-In",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1338 - Log-In",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1338 - Log-In/1338.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1338 - Log-In/1338 - Log-In.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 37,
+        "name": "(1) 1340 - Follow Me",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1340 - Follow Me",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1340 - Follow Me/1340.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1340 - Follow Me/1340 - Follow Me.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 0,
+        "name": "(1) E01 - Solitary 1.5",
+        "songPath": "./Songs/13-NX~NXA/(1) E01 - Solitary 1.5",
+        "banner": "./Songs/13-NX~NXA/(1) E01 - Solitary 1.5/E01.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E01 - Solitary 1.5/E01 - Solitary 1.5.ssc"
+    },
+    {
+        "stageIndex": 10,
         "songIndex": 2,
+        "name": "(1) E03 - Caprice of Otada",
+        "songPath": "./Songs/13-NX~NXA/(1) E03 - Caprice of Otada",
+        "banner": "./Songs/13-NX~NXA/(1) E03 - Caprice of Otada/E03.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E03 - Caprice of Otada/E03 - Caprice of Otada.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 3,
+        "name": "(1) E04 - Money",
+        "songPath": "./Songs/13-NX~NXA/(1) E04 - Money",
+        "banner": "./Songs/13-NX~NXA/(1) E04 - Money/E04.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E04 - Money/E04 - Money.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 11,
+        "name": "(1) E12 - Faster Z",
+        "songPath": "./Songs/13-NX~NXA/(1) E12 - Faster Z",
+        "banner": "./Songs/13-NX~NXA/(1) E12 - Faster Z/E12.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E12 - Faster Z/E12 - Faster Z.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 20,
+        "name": "(1) E21 - Come Back Home",
+        "songPath": "./Songs/13-NX~NXA/(1) E21 - Come Back Home",
+        "banner": "./Songs/13-NX~NXA/(1) E21 - Come Back Home/E21.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E21 - Come Back Home/E21 - Come Back Home.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 22,
+        "name": "(1) E23 - Guitar Man",
+        "songPath": "./Songs/13-NX~NXA/(1) E23 - Guitar Man",
+        "banner": "./Songs/13-NX~NXA/(1) E23 - Guitar Man/E23.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E23 - Guitar Man/(1) E23 - Guitar Man.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 26,
+        "name": "(1) E27 - Dance all Night",
+        "songPath": "./Songs/13-NX~NXA/(1) E27 - Dance all Night",
+        "banner": "./Songs/13-NX~NXA/(1) E27 - Dance all Night/E27.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E27 - Dance all Night/E27 - Dance all Night.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 27,
+        "name": "(1) E28 - Dance Vibrations",
+        "songPath": "./Songs/13-NX~NXA/(1) E28 - Dance Vibrations",
+        "banner": "./Songs/13-NX~NXA/(1) E28 - Dance Vibrations/E28.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E28 - Dance Vibrations/E28 - Dance Vibrations.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 28,
+        "name": "(1) E29 - Energizer",
+        "songPath": "./Songs/13-NX~NXA/(1) E29 - Energizer",
+        "banner": "./Songs/13-NX~NXA/(1) E29 - Energizer/E29.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1) E29 - Energizer/E29 - Energizer.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 45,
+        "name": "(2) 1212 - HardKore of The North",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1212 - HardKore of The North",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1212 - HardKore of The North/1212.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1212 - HardKore of The North/1212 - Hardkore of the North.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 47,
+        "name": "(2) 1219 - Tribe Attacker",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1219 - Tribe Attacker",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1219 - Tribe Attacker/1219.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1219 - Tribe Attacker/1219 - Tribe Attacker.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 48,
+        "name": "(2) 1221 - Virtual Emotion",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1221 - Virtual Emotion",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1221 - Virtual Emotion/1221.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1221 - Virtual Emotion/1221 - Virtual Emotion.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 52,
+        "name": "(2) 1230 - Rainspark",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1230 - Rainspark",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1230 - Rainspark/1230.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1230 - Rainspark/1230 - Rainspark.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 53,
         "name": "(2) 1235 - Utopia",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1235 - Utopia",
-        "banner": null,
+        "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1235 - Utopia/1235.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1235 - Utopia/1235 - Utopia.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 54,
+        "name": "(2) 1236 - Xuxa",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1236 - Xuxa",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1236 - Xuxa/1236.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1236 - Xuxa/1236 - Xuxa.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 55,
+        "name": "(2) 1237 - Be Alive (Raaban Inc. Mix)",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1237 - Be Alive (Raaban Inc. Mix)",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1237 - Be Alive (Raaban Inc. Mix)/1237.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1237 - Be Alive (Raaban Inc. Mix)/1237 - Be Alive (Raaban Inc. Mix).ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 36,
+        "name": "(2) D02 - Arch of Darkness",
+        "songPath": "./Songs/13-NX~NXA/(2) D02 - Arch of Darkness",
+        "banner": "./Songs/13-NX~NXA/(2) D02 - Arch of Darkness/D02.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D02 - Arch of Darkness/D02 - Arch of Darkness.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 37,
+        "name": "(2) D03 - Chimera",
+        "songPath": "./Songs/13-NX~NXA/(2) D03 - Chimera",
+        "banner": "./Songs/13-NX~NXA/(2) D03 - Chimera/D03.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D03 - Chimera/D03 - Chimera.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 38,
+        "name": "(2) D04 - Go Back",
+        "songPath": "./Songs/13-NX~NXA/(2) D04 - Go Back",
+        "banner": "./Songs/13-NX~NXA/(2) D04 - Go Back/D04.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D04 - Go Back/D04 - Go Back.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 42,
+        "name": "(2) D08 - Free!",
+        "songPath": "./Songs/13-NX~NXA/(2) D08 - Free!",
+        "banner": "./Songs/13-NX~NXA/(2) D08 - Free!/D08.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D08 - Free!/D08 - Free!.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 43,
+        "name": "(2) D09 - Lovely",
+        "songPath": "./Songs/13-NX~NXA/(2) D09 - Lovely",
+        "banner": "./Songs/13-NX~NXA/(2) D09 - Lovely/D09.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D09 - Lovely/D09 - Lovely.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 47,
+        "name": "(2) D13 - Handsome Character That Pass",
+        "songPath": "./Songs/13-NX~NXA/(2) D13 - Handsome Character That Pass",
+        "banner": "./Songs/13-NX~NXA/(2) D13 - Handsome Character That Pass/D13.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D13 - Handsome Character That Pass/D13 - Handsome Character That Pass.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 49,
+        "name": "(2) D15 - Do You Know That -Old School-",
+        "songPath": "./Songs/13-NX~NXA/(2) D15 - Do You Know That -Old School-",
+        "banner": "./Songs/13-NX~NXA/(2) D15 - Do You Know That -Old School-/D15.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D15 - Do You Know That -Old School-/D15 - Do You Know That -Old School-.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 51,
+        "name": "(2) D17 - Bullfighting's Song",
+        "songPath": "./Songs/13-NX~NXA/(2) D17 - Bullfighting's Song",
+        "banner": "./Songs/13-NX~NXA/(2) D17 - Bullfighting's Song/D17.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D17 - Bullfighting's Song/D17 - Bullfighting's Song.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 52,
+        "name": "(2) D18 - Ugly Dee",
+        "songPath": "./Songs/13-NX~NXA/(2) D18 - Ugly Dee",
+        "banner": "./Songs/13-NX~NXA/(2) D18 - Ugly Dee/D18.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D18 - Ugly Dee/D18 - Ugly Dee.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 56,
+        "name": "(2) D22 - Hold The Line",
+        "songPath": "./Songs/13-NX~NXA/(2) D22 - Hold The Line",
+        "banner": "./Songs/13-NX~NXA/(2) D22 - Hold The Line/D22.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D22 - Hold The Line/D22 - Hold The Line.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 57,
+        "name": "(2) D23 - It's The Hybs",
+        "songPath": "./Songs/13-NX~NXA/(2) D23 - It's The Hybs",
+        "banner": "./Songs/13-NX~NXA/(2) D23 - It's The Hybs/D23.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D23 - It's The Hybs/D23 - It's The Hybs.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 60,
+        "name": "(2) D26 - Haley",
+        "songPath": "./Songs/13-NX~NXA/(2) D26 - Haley",
+        "banner": "./Songs/13-NX~NXA/(2) D26 - Haley/D26.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D26 - Haley/D26 - Haley.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 62,
+        "name": "(2) D28 - Final Audition Episode 2-1",
+        "songPath": "./Songs/13-NX~NXA/(2) D28 - Final Audition Episode 2-1",
+        "banner": "./Songs/13-NX~NXA/(2) D28 - Final Audition Episode 2-1/D28.webp",
+        "sscPath": "./Songs/13-NX~NXA/(2) D28 - Final Audition Episode 2-1/D28 - Final Audition Episode 2-1.ssc"
     },
     {
         "stageIndex": 9,
         "songIndex": 1,
-        "name": "(2) 701 - Dr. M",
-        "songPath": "./Songs/08-1ST~ZERO/(2) 701 - Dr. M",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(2) 701 - Dr. M/701 - Dr. M.ssc"
+        "name": "02 Naissance",
+        "songPath": "./Songs/08-1ST~ZERO/02 Naissance",
+        "banner": "./Songs/08-1ST~ZERO/02 Naissance/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/02 Naissance/Naissance.ssc"
     },
     {
         "stageIndex": 9,
         "songIndex": 3,
-        "name": "(2) 711 - Winter",
-        "songPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter/711 - Winter.ssc"
+        "name": "04 Nightmare",
+        "songPath": "./Songs/08-1ST~ZERO/04 Nightmare",
+        "banner": "./Songs/08-1ST~ZERO/04 Nightmare/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/04 Nightmare/Nightmare.ssc"
     },
     {
         "stageIndex": 9,
         "songIndex": 4,
-        "name": "(2) 718 - Dance With Me",
-        "songPath": "./Songs/08-1ST~ZERO/(2) 718 - Dance With Me",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(2) 718 - Dance With Me/718 - Dance With Me.ssc"
+        "name": "05 Close Your Eyes",
+        "songPath": "./Songs/08-1ST~ZERO/05 Close Your Eyes",
+        "banner": "./Songs/08-1ST~ZERO/05 Close Your Eyes/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/05 Close Your Eyes/Close Your Eyes.ssc"
     },
     {
         "stageIndex": 9,
-        "songIndex": 5,
-        "name": "(3) 503 - Rolling Christmas",
-        "songPath": "./Songs/08-1ST~ZERO/(3) 503 - Rolling Christmas",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(3) 503 - Rolling Christmas/503 - Rolling Christmas.ssc"
+        "songIndex": 6,
+        "name": "07 Midnight Blue",
+        "songPath": "./Songs/08-1ST~ZERO/07 Midnight Blue",
+        "banner": "./Songs/08-1ST~ZERO/07 Midnight Blue/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/07 Midnight Blue/Midnight Blue.ssc"
     },
     {
         "stageIndex": 9,
         "songIndex": 8,
-        "name": "(3) A05 - Pump Me Amadeus",
-        "songPath": "./Songs/08-1ST~ZERO/(3) A05 - Pump Me Amadeus",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(3) A05 - Pump Me Amadeus/A05 - Pump Me Amadeus.ssc"
+        "name": "09 Pumping Up",
+        "songPath": "./Songs/08-1ST~ZERO/09 Pumping Up",
+        "banner": "./Songs/08-1ST~ZERO/09 Pumping Up/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/09 Pumping Up/Pumping Up.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 58,
+        "name": "1002 - Sorceress Elise",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1002 - Sorceress Elise",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1002 - Sorceress Elise/1002.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1002 - Sorceress Elise/1002 - Sorceress Elise.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 59,
+        "name": "1003 - Betrayer -Act 2",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1003 - Betrayer -Act 2",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1003 - Betrayer -Act 2/1003.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1003 - Betrayer -Act 2/1003 - Betrayer -Act 2-.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 60,
+        "name": "1004 - Good Life",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1004 - Good Life",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1004 - Good Life/1004.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1004 - Good Life/1004 - Good Life.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 63,
+        "name": "1007 - By Chance",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1007 - By Chance",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1007 - By Chance/1007.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1007 - By Chance/1007 - By Chance.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 66,
+        "name": "1010 - The Angel Who Lost Wings",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1010 - The Angel Who Lost Wings",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1010 - The Angel Who Lost Wings/1010.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1010 - The Angel Who Lost Wings/1010 - The Angel Who Lost Wings.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 68,
+        "name": "1012 - Enjoy! Enjoy!",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1012 - Enjoy! Enjoy!",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1012 - Enjoy! Enjoy!/1012.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1012 - Enjoy! Enjoy!/1012 - Enjoy! Enjoy!.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 69,
+        "name": "1013 - Destination",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1013 - Destination",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1013 - Destination/1013.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1013 - Destination/1013 - Destination.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 70,
+        "name": "1014 - Twist King",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1014 - Twist King",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1014 - Twist King/1014.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1014 - Twist King/1014 - Twist King.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 72,
+        "name": "1016 - Wanna",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1016 - Wanna",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1016 - Wanna/1016.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1016 - Wanna/1016 - Wanna.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 77,
+        "name": "1021 - Do it Reggae Style",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1021 - Do it Reggae Style",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1021 - Do it Reggae Style/1021.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1021 - Do it Reggae Style/1021 - Do It Reggae Style.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 78,
+        "name": "1022 - Xenesis",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1022 - Xenesis",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1022 - Xenesis/1022.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1022 - Xenesis/1022 - Xenesis.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 81,
+        "name": "1025 - Hello William",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1025 - Hello William",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1025 - Hello William/1025.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1025 - Hello William/1025 - Hello William.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 83,
+        "name": "1027 - Get Up (And Go)",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1027 - Get Up (And Go)",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1027 - Get Up (And Go)/1027.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1027 - Get Up (And Go)/1027 - Get Up (And Go).ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 86,
+        "name": "1030 - Pumping Jumping",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1030 - Pumping Jumping",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1030 - Pumping Jumping/1030.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1030 - Pumping Jumping/1030 - Pumping Jumping.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 87,
+        "name": "1094 - Tepris",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1094 - Tepris",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1094 - Tepris/1094.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1094 - Tepris/1094 - Tepris.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 89,
+        "name": "1096 - Dieciseis",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1096 - Dieciseis",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1096 - Dieciseis/1096.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1096 - Dieciseis/1096 - Dieciseis.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 10,
+        "name": "11 Extravaganza",
+        "songPath": "./Songs/08-1ST~ZERO/11 Extravaganza",
+        "banner": "./Songs/08-1ST~ZERO/11 Extravaganza/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/11 Extravaganza/Extravaganza.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 90,
+        "name": "1101 - Cleaner",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1101 - Cleaner",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1101 - Cleaner/1101.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1101 - Cleaner/1101 - Cleaner.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 92,
+        "name": "1103 - Reality",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1103 - Reality",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1103 - Reality/1103.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1103 - Reality/1103 - Reality.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 93,
+        "name": "1104 - Take Out",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1104 - Take Out",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1104 - Take Out/1104.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1104 - Take Out/1104 - Take Out.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 95,
+        "name": "1106 - Overblow",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1106 - Overblow",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1106 - Overblow/1106.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1106 - Overblow/1106 - Overblow.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 97,
+        "name": "1108 - Magic",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1108 - Magic",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1108 - Magic/1108.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1108 - Magic/1108 - Magic.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 98,
+        "name": "1109 - Hot Issue",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1109 - Hot Issue",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1109 - Hot Issue/1109.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1109 - Hot Issue/1109 - Hot Issue.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 99,
+        "name": "1110 - Magic Girl",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1110 - Magic Girl",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1110 - Magic Girl/1110.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1110 - Magic Girl/1110 - Magic Girl.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 103,
+        "name": "1114 - Superman",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1114 - Superman",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1114 - Superman/1114.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1114 - Superman/1114 - Superman.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 104,
+        "name": "1115 - Energy",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1115 - Energy",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1115 - Energy/1115.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1115 - Energy/1115 - Energy.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 105,
+        "name": "1116 - Mother",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1116 - Mother",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1116 - Mother/1116.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1116 - Mother/1116 - Mother.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 106,
+        "name": "1117 - No.3",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1117 - No.3",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1117 - No.3/1117.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1117 - No.3/1117 - No.3.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 107,
+        "name": "1118 - Like a Man",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1118 - Like a Man",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1118 - Like a Man/1118.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1118 - Like a Man/1118 - Like a Man.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 108,
+        "name": "1119 - Crash Day",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1119 - Crash Day",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1119 - Crash Day/1119.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1119 - Crash Day/1119 - Crash Day.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 110,
+        "name": "1121 - Gargoyle",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1121 - Gargoyle",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1121 - Gargoyle/1121.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1121 - Gargoyle/1121 - Gargoyle.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 111,
+        "name": "1122 - Allegro Con Fuoco",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1122 - Allegro Con Fuoco",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1122 - Allegro Con Fuoco/1122.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1122 - Allegro Con Fuoco/1122 - Allegro Con Fuoco.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 112,
+        "name": "1123 - Hungarian Dance V",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1123 - Hungarian Dance V",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1123 - Hungarian Dance V/1123.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1123 - Hungarian Dance V/1123 - Hungarian Dance V.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 113,
+        "name": "1124 - The Devil",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1124 - The Devil",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1124 - The Devil/1124.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1124 - The Devil/1124 - The Devil.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 116,
+        "name": "1127 - Smells Like a Chocolate",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1127 - Smells Like a Chocolate",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1127 - Smells Like a Chocolate/1127.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1127 - Smells Like a Chocolate/1127 - Smells Like a Chocolate.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 117,
+        "name": "1128 - Necromancy",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1128 - Necromancy",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1128 - Necromancy/1128.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1128 - Necromancy/1128 - Necromancy.ssc"
+    },
+    {
+        "stageIndex": 11,
+        "songIndex": 126,
+        "name": "1159 - Rave Until The Night is Over",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1159 - Rave Until The Night is Over",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1159 - Rave Until The Night is Over/1159.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1159 - Rave Until The Night is Over/1159 - Rave Until The Night is Over.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 12,
+        "name": "13 Caution",
+        "songPath": "./Songs/08-1ST~ZERO/13 Caution",
+        "banner": "./Songs/08-1ST~ZERO/13 Caution/Title.jpg",
+        "sscPath": "./Songs/08-1ST~ZERO/13 Caution/Caution.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 14,
+        "name": "15 Com Back",
+        "songPath": "./Songs/08-1ST~ZERO/15 Com Back",
+        "banner": "./Songs/08-1ST~ZERO/15 Com Back/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/15 Com Back/Com Back.ssc"
     },
     {
         "stageIndex": 13,
         "songIndex": 1,
         "name": "1502 - Super Capriccio",
         "songPath": "./Songs/18-PRIME 2/1502 - Super Capriccio",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1502 - Super Capriccio/1502 - Super Capriccio.ssc"
-    },
-    {
-        "stageIndex": 13,
-        "songIndex": 7,
-        "name": "1511 - Silver Beat feat. ChisaUezono",
-        "songPath": "./Songs/18-PRIME 2/1511 - Silver Beat feat. ChisaUezono",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1511 - Silver Beat feat. ChisaUezono/1511 - Silver Beat feat. ChisaUezono.ssc"
+        "banner": "./Songs/18-PRIME 2/1502 - Super Capriccio/1502.webp",
+        "sscPath": "./Songs/18-PRIME 2/1502 - Super Capriccio/1502 - Super Capriccio - SHK.ssc"
     },
     {
         "stageIndex": 13,
         "songIndex": 9,
-        "name": "1516 - Sarabande",
-        "songPath": "./Songs/18-PRIME 2/1516 - Sarabande",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1516 - Sarabande/1516 - Sarabande.ssc"
+        "name": "1511 - Silver Beat",
+        "songPath": "./Songs/18-PRIME 2/1511 - Silver Beat",
+        "banner": "./Songs/18-PRIME 2/1511 - Silver Beat/1511.webp",
+        "sscPath": "./Songs/18-PRIME 2/1511 - Silver Beat/1511 - Silver Beat feat.ChisaUezono - Tatsh.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 10,
+        "songIndex": 11,
+        "name": "1513 - Break Out",
+        "songPath": "./Songs/18-PRIME 2/1513 - Break Out",
+        "banner": "./Songs/18-PRIME 2/1513 - Break Out/1513.webp",
+        "sscPath": "./Songs/18-PRIME 2/1513 - Break Out/1513 - Break Out - Lunatic Sounds.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 12,
+        "name": "1516 - Sarabande",
+        "songPath": "./Songs/18-PRIME 2/1516 - Sarabande",
+        "banner": "./Songs/18-PRIME 2/1516 - Sarabande/1516.webp",
+        "sscPath": "./Songs/18-PRIME 2/1516 - Sarabande/1516 - Sarabande - MAX.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 13,
         "name": "1517 - Kasou Shinja",
         "songPath": "./Songs/18-PRIME 2/1517 - Kasou Shinja",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1517 - Kasou Shinja/1517 - Kasou Shinja.ssc"
+        "banner": "./Songs/18-PRIME 2/1517 - Kasou Shinja/1517.webp",
+        "sscPath": "./Songs/18-PRIME 2/1517 - Kasou Shinja/1517 - Kasou Shinja - MAX.ssc"
     },
     {
         "stageIndex": 13,
         "songIndex": 16,
-        "name": "1536 - Twist of Fate (feat. Ruriling)",
-        "songPath": "./Songs/18-PRIME 2/1536 - Twist of Fate (feat. Ruriling)",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1536 - Twist of Fate (feat. Ruriling)/1536 - Twist of Fate (feat. Ruriling).ssc"
-    },
-    {
-        "stageIndex": 13,
-        "songIndex": 17,
-        "name": "1537 - HTTP",
-        "songPath": "./Songs/18-PRIME 2/1537 - HTTP",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1537 - HTTP/1537 - HTTP.ssc"
-    },
-    {
-        "stageIndex": 13,
-        "songIndex": 20,
-        "name": "1540 - Rave'til the earth's end",
-        "songPath": "./Songs/18-PRIME 2/1540 - Rave'til the earth's end",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1540 - Rave'til the earth's end/1540 - Rave'til the earth's end.ssc"
+        "name": "1525 - Arcana Force",
+        "songPath": "./Songs/18-PRIME 2/1525 - Arcana Force",
+        "banner": "./Songs/18-PRIME 2/1525 - Arcana Force/1525.webp",
+        "sscPath": "./Songs/18-PRIME 2/1525 - Arcana Force/1525 - Arcana Force - mzet-P.ssc"
     },
     {
         "stageIndex": 13,
         "songIndex": 21,
-        "name": "1541 - Awakening",
-        "songPath": "./Songs/18-PRIME 2/1541 - Awakening",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1541 - Awakening/1541 - Awakening.ssc"
+        "name": "1536 - Twist Of Fate (feat.-Ruriling)",
+        "songPath": "./Songs/18-PRIME 2/1536 - Twist Of Fate (feat.-Ruriling)",
+        "banner": "./Songs/18-PRIME 2/1536 - Twist Of Fate (feat.-Ruriling)/1536.webp",
+        "sscPath": "./Songs/18-PRIME 2/1536 - Twist Of Fate (feat.-Ruriling)/1536 - Twist Of Fate - Jehezukiel.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 23,
-        "name": "1543 - Waltz of Doge",
-        "songPath": "./Songs/18-PRIME 2/1543 - Waltz of Doge",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1543 - Waltz of Doge/1543 - Waltz of Doge.ssc"
+        "songIndex": 22,
+        "name": "1537 - HTTP",
+        "songPath": "./Songs/18-PRIME 2/1537 - HTTP",
+        "banner": "./Songs/18-PRIME 2/1537 - HTTP/1537.webp",
+        "sscPath": "./Songs/18-PRIME 2/1537 - HTTP/1537 - HTTP - Quree.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 26,
-        "name": "1552 - SOBER",
-        "songPath": "./Songs/18-PRIME 2/1552 - SOBER",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1552 - SOBER/1552 - SOBER.ssc"
+        "songIndex": 25,
+        "name": "1540 - Rave 'til the Earth's End",
+        "songPath": "./Songs/18-PRIME 2/1540 - Rave 'til the Earth's End",
+        "banner": "./Songs/18-PRIME 2/1540 - Rave 'til the Earth's End/1540.webp",
+        "sscPath": "./Songs/18-PRIME 2/1540 - Rave 'til the Earth's End/1540 - Rave 'til the Earth's End - 5argon.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 27,
-        "name": "1553 - Up & Down",
-        "songPath": "./Songs/18-PRIME 2/1553 - Up & Down",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1553 - Up & Down/1553 - Up & Down.ssc"
+        "songIndex": 30,
+        "name": "1545 - Me Gustas Tu",
+        "songPath": "./Songs/18-PRIME 2/1545 - Me Gustas Tu",
+        "banner": "./Songs/18-PRIME 2/1545 - Me Gustas Tu/1545.webp",
+        "sscPath": "./Songs/18-PRIME 2/1545 - Me Gustas Tu/1545 - Me Gustas Tu - GFriend.ssc"
     },
     {
         "stageIndex": 13,
         "songIndex": 31,
-        "name": "1562 - REALLY REALLY",
-        "songPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY/1562 - REALLY REALLY.ssc"
+        "name": "1546 - Rhythm Ta",
+        "songPath": "./Songs/18-PRIME 2/1546 - Rhythm Ta",
+        "banner": "./Songs/18-PRIME 2/1546 - Rhythm Ta/1546.webp",
+        "sscPath": "./Songs/18-PRIME 2/1546 - Rhythm Ta/1546 - RHYTHM TA - iKON.ssc"
     },
     {
         "stageIndex": 13,
-        "songIndex": 47,
-        "name": "15B0 - Asterios -ReEntry-",
-        "songPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEntry-",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEntry-/15B0 - Asterios -ReEntry-.ssc"
+        "songIndex": 36,
+        "name": "1551 - Boombayah",
+        "songPath": "./Songs/18-PRIME 2/1551 - Boombayah",
+        "banner": "./Songs/18-PRIME 2/1551 - Boombayah/1551.webp",
+        "sscPath": "./Songs/18-PRIME 2/1551 - Boombayah/1551 - Boombayah - BLACKPINK.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 37,
+        "name": "1552 - SOBER",
+        "songPath": "./Songs/18-PRIME 2/1552 - SOBER",
+        "banner": "./Songs/18-PRIME 2/1552 - SOBER/1552.webp",
+        "sscPath": "./Songs/18-PRIME 2/1552 - SOBER/1552 - SOBER - BIGBANG.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 38,
+        "name": "1553 - Up & Down",
+        "songPath": "./Songs/18-PRIME 2/1553 - Up & Down",
+        "banner": "./Songs/18-PRIME 2/1553 - Up & Down/1553.webp",
+        "sscPath": "./Songs/18-PRIME 2/1553 - Up & Down/1553 - Up & Down - EXID.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 40,
+        "name": "1555 - You're the Best",
+        "songPath": "./Songs/18-PRIME 2/1555 - You're the Best",
+        "banner": "./Songs/18-PRIME 2/1555 - You're the Best/1555.webp",
+        "sscPath": "./Songs/18-PRIME 2/1555 - You're the Best/1555 - You're The Best - MAMAMOO.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 43,
+        "name": "1559 - Energetic",
+        "songPath": "./Songs/18-PRIME 2/1559 - Energetic",
+        "banner": "./Songs/18-PRIME 2/1559 - Energetic/1559.webp",
+        "sscPath": "./Songs/18-PRIME 2/1559 - Energetic/1559 - Energetic - Wanna One.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 45,
+        "name": "1561 - PICK ME",
+        "songPath": "./Songs/18-PRIME 2/1561 - PICK ME",
+        "banner": "./Songs/18-PRIME 2/1561 - PICK ME/1561.webp",
+        "sscPath": "./Songs/18-PRIME 2/1561 - PICK ME/1561 - PICK ME - PRODUCE 101.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 46,
+        "name": "1562 - REALLY REALLY",
+        "songPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY",
+        "banner": "./Songs/18-PRIME 2/1562 - REALLY REALLY/1562.webp",
+        "sscPath": "./Songs/18-PRIME 2/1562 - REALLY REALLY/1562 - Really Really - Winner.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 60,
+        "name": "15A2 - Start On Red",
+        "songPath": "./Songs/18-PRIME 2/15A2 - Start On Red",
+        "banner": "./Songs/18-PRIME 2/15A2 - Start On Red/15A2.webp",
+        "sscPath": "./Songs/18-PRIME 2/15A2 - Start On Red/15A2 - Start On Red - Nato.ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 68,
+        "name": "15B0 - Asterios -ReEnrty-",
+        "songPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEnrty-",
+        "banner": "./Songs/18-PRIME 2/15B0 - Asterios -ReEnrty-/15B0.webp",
+        "sscPath": "./Songs/18-PRIME 2/15B0 - Asterios -ReEnrty-/15B0 - Asterios -ReEnrty- - ATAS .ssc"
+    },
+    {
+        "stageIndex": 13,
+        "songIndex": 74,
+        "name": "15B7 - Clue",
+        "songPath": "./Songs/18-PRIME 2/15B7 - Clue",
+        "banner": "./Songs/18-PRIME 2/15B7 - Clue/15B7.webp",
+        "sscPath": "./Songs/18-PRIME 2/15B7 - Clue/15B7 - Clue - Transin.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 15,
+        "name": "16 Mobius Strip",
+        "songPath": "./Songs/08-1ST~ZERO/16 Mobius Strip",
+        "banner": "./Songs/08-1ST~ZERO/16 Mobius Strip/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/16 Mobius Strip/Mobius Strip.ssc"
     },
     {
         "stageIndex": 14,
         "songIndex": 0,
-        "name": "1601 - Wedding Crashers",
-        "songPath": "./Songs/19-XX/1601 - Wedding Crashers",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1601 - Wedding Crashers/1601 - Wedding Crashers.ssc"
+        "name": "1601 - SHK - Wedding Crashers",
+        "songPath": "./Songs/19-XX/1601 - SHK - Wedding Crashers",
+        "banner": "./Songs/19-XX/1601 - SHK - Wedding Crashers/1601.webp",
+        "sscPath": "./Songs/19-XX/1601 - SHK - Wedding Crashers/1601 - SHK - Wedding Crashers.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 2,
-        "name": "1607 - JANUS",
-        "songPath": "./Songs/19-XX/1607 - JANUS",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1607 - JANUS/1607 - JANUS.ssc"
+        "songIndex": 5,
+        "name": "1607 - MAX - JANUS",
+        "songPath": "./Songs/19-XX/1607 - MAX - JANUS",
+        "banner": "./Songs/19-XX/1607 - MAX - JANUS/1607.webp",
+        "sscPath": "./Songs/19-XX/1607 - MAX - JANUS/1607 - MAX - JANUS.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 3,
-        "name": "1613 - Sugar Plum",
-        "songPath": "./Songs/19-XX/1613 - Sugar Plum",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1613 - Sugar Plum/1613 - Sugar Plum.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 11,
-        "name": "1624 - Macaron Day",
-        "songPath": "./Songs/19-XX/1624 - Macaron Day",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1624 - Macaron Day/1624 - Macaron Day.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 15,
-        "name": "1630 - Kimchi Fingers",
-        "songPath": "./Songs/19-XX/1630 - Kimchi Fingers",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1630 - Kimchi Fingers/1630 - Kimchi Fingers.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 21,
-        "name": "1644 - Timing",
-        "songPath": "./Songs/19-XX/1644 - Timing",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1644 - Timing/1644 - Timing.ssc"
+        "songIndex": 17,
+        "name": "1624 - HyuN - Macaron Day",
+        "songPath": "./Songs/19-XX/1624 - HyuN - Macaron Day",
+        "banner": "./Songs/19-XX/1624 - HyuN - Macaron Day/1624.webp",
+        "sscPath": "./Songs/19-XX/1624 - HyuN - Macaron Day/1624 - HyuN - Macaron Day.ssc"
     },
     {
         "stageIndex": 14,
         "songIndex": 23,
-        "name": "1649 - NEKKOYA (PICK ME)",
-        "songPath": "./Songs/19-XX/1649 - NEKKOYA (PICK ME)",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1649 - NEKKOYA (PICK ME)/1649 - NEKKOYA (PICK ME).ssc"
+        "name": "1630 - Garlic Squad - Kimchi Fingers",
+        "songPath": "./Songs/19-XX/1630 - Garlic Squad - Kimchi Fingers",
+        "banner": "./Songs/19-XX/1630 - Garlic Squad - Kimchi Fingers/1630.webp",
+        "sscPath": "./Songs/19-XX/1630 - Garlic Squad - Kimchi Fingers/1630 - Garlic Squad - Kimchi Fingers.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 24,
-        "name": "1656 - Rooftop",
-        "songPath": "./Songs/19-XX/1656 - Rooftop",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1656 - Rooftop/1656 - Rooftop.ssc"
+        "songIndex": 28,
+        "name": "1635 - Memme - Tantanmen",
+        "songPath": "./Songs/19-XX/1635 - Memme - Tantanmen",
+        "banner": "./Songs/19-XX/1635 - Memme - Tantanmen/1635.webp",
+        "sscPath": "./Songs/19-XX/1635 - Memme - Tantanmen/1635 - Memme - Tantanmen.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 27,
-        "name": "1663 - GOOD BYE",
-        "songPath": "./Songs/19-XX/1663 - GOOD BYE",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1663 - GOOD BYE/1663 - GOOD BYE.ssc"
+        "songIndex": 31,
+        "name": "1642 - HAON, PULLIK - The Little Prince (Prod. Godic)",
+        "songPath": "./Songs/19-XX/1642 - HAON, PULLIK - The Little Prince (Prod. Godic)",
+        "banner": "./Songs/19-XX/1642 - HAON, PULLIK - The Little Prince (Prod. Godic)/1642.webp",
+        "sscPath": "./Songs/19-XX/1642 - HAON, PULLIK - The Little Prince (Prod. Godic)/1642 - HAON, PULLIK - The Little Prince (Prod. Godic).ssc"
     },
     {
         "stageIndex": 14,
         "songIndex": 32,
-        "name": "1673 - After a thousand years",
-        "songPath": "./Songs/19-XX/1673 - After a thousand years",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1673 - After a thousand years/1673 - After a thousand years.ssc"
+        "name": "1643 - Dreamcatcher - Full Moon",
+        "songPath": "./Songs/19-XX/1643 - Dreamcatcher - Full Moon",
+        "banner": "./Songs/19-XX/1643 - Dreamcatcher - Full Moon/1643.webp",
+        "sscPath": "./Songs/19-XX/1643 - Dreamcatcher - Full Moon/1643 - Dreamcatcher - Full Moon.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 37,
-        "name": "1680 - Obelisque",
-        "songPath": "./Songs/19-XX/1680 - Obelisque",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1680 - Obelisque/1680 - Obelisque.ssc"
+        "songIndex": 33,
+        "name": "1644 - HIGHTEEN - Timing",
+        "songPath": "./Songs/19-XX/1644 - HIGHTEEN - Timing",
+        "banner": "./Songs/19-XX/1644 - HIGHTEEN - Timing/1644.webp",
+        "sscPath": "./Songs/19-XX/1644 - HIGHTEEN - Timing/1644 - HIGHTEEN - Timing.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 35,
+        "name": "1646 - Turbo - Black Cat",
+        "songPath": "./Songs/19-XX/1646 - Turbo - Black Cat",
+        "banner": "./Songs/19-XX/1646 - Turbo - Black Cat/1646.webp",
+        "sscPath": "./Songs/19-XX/1646 - Turbo - Black Cat/1646 - Turbo - Black Cat.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 38,
+        "name": "1649 - PRODUCE48 - NEKKOYA (PICK ME)",
+        "songPath": "./Songs/19-XX/1649 - PRODUCE48 - NEKKOYA (PICK ME)",
+        "banner": "./Songs/19-XX/1649 - PRODUCE48 - NEKKOYA (PICK ME)/1649.webp",
+        "sscPath": "./Songs/19-XX/1649 - PRODUCE48 - NEKKOYA (PICK ME)/1649 - PRODUCE48 - NEKKOYA (PICK ME).ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 39,
+        "name": "1650 - APink - I'm so sick",
+        "songPath": "./Songs/19-XX/1650 - APink - I'm so sick",
+        "banner": "./Songs/19-XX/1650 - APink - I'm so sick/1650.webp",
+        "sscPath": "./Songs/19-XX/1650 - APink - I'm so sick/1650 - APink - I'm so sick.ssc"
     },
     {
         "stageIndex": 14,
         "songIndex": 40,
-        "name": "1687 - Cutie Song",
-        "songPath": "./Songs/19-XX/1687 - Cutie Song",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1687 - Cutie Song/1687 - Cutie Song.ssc"
+        "name": "1651 - Wanna one - BOOMERANG",
+        "songPath": "./Songs/19-XX/1651 - Wanna one - BOOMERANG",
+        "banner": "./Songs/19-XX/1651 - Wanna one - BOOMERANG/1651.webp",
+        "sscPath": "./Songs/19-XX/1651 - Wanna one - BOOMERANG/1651 - Wanna one - BOOMERANG.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 48,
-        "name": "1698 - Life is PIANO",
-        "songPath": "./Songs/19-XX/1698 - Life is PIANO",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1698 - Life is PIANO/1698 - Life is PIANO.ssc"
+        "songIndex": 41,
+        "name": "1652 - SUNMI - Gashina",
+        "songPath": "./Songs/19-XX/1652 - SUNMI - Gashina",
+        "banner": "./Songs/19-XX/1652 - SUNMI - Gashina/1652.webp",
+        "sscPath": "./Songs/19-XX/1652 - SUNMI - Gashina/1652 - SUNMI - Gashina.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 44,
+        "name": "1655 - MOMOLAND - BBoom BBoom",
+        "songPath": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom",
+        "banner": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom/1655.webp",
+        "sscPath": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom/1655 - MOMOLAND - BBoom BBoom.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 45,
+        "name": "1656 - N.Flying - Rooftop",
+        "songPath": "./Songs/19-XX/1656 - N.Flying - Rooftop",
+        "banner": "./Songs/19-XX/1656 - N.Flying - Rooftop/1656.webp",
+        "sscPath": "./Songs/19-XX/1656 - N.Flying - Rooftop/1656 - N.Flying - Rooftop.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 46,
+        "name": "1657 - OH MY GIRL - BUNGEE (Fall in Love)",
+        "songPath": "./Songs/19-XX/1657 - OH MY GIRL - BUNGEE (Fall in Love)",
+        "banner": "./Songs/19-XX/1657 - OH MY GIRL - BUNGEE (Fall in Love)/1657.webp",
+        "sscPath": "./Songs/19-XX/1657 - OH MY GIRL - BUNGEE (Fall in Love)/1657 - OH MY GIRL - BUNGEE (Fall in Love).ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 51,
+        "name": "1662 - SEVENTEEN - VERY NICE",
+        "songPath": "./Songs/19-XX/1662 - SEVENTEEN - VERY NICE",
+        "banner": "./Songs/19-XX/1662 - SEVENTEEN - VERY NICE/1662.webp",
+        "sscPath": "./Songs/19-XX/1662 - SEVENTEEN - VERY NICE/1662 - SEVENTEEN - VERY NICE.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 52,
+        "name": "1663 - HONG JINYOUNG - GOOD BYE",
+        "songPath": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE",
+        "banner": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE/1663.webp",
+        "sscPath": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE/1663 - HONG JINYOUNG - GOOD BYE.ssc"
     },
     {
         "stageIndex": 14,
         "songIndex": 53,
-        "name": "16A5 - Harmagedon",
-        "songPath": "./Songs/19-XX/16A5 - Harmagedon",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+        "name": "1664 - Dreamcatcher - YOU AND I",
+        "songPath": "./Songs/19-XX/1664 - Dreamcatcher - YOU AND I",
+        "banner": "./Songs/19-XX/1664 - Dreamcatcher - YOU AND I/1664.webp",
+        "sscPath": "./Songs/19-XX/1664 - Dreamcatcher - YOU AND I/1664 - Dreamcatcher - YOU AND I.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 57,
-        "name": "16B3 - CROSS RAY (feat. Lia)",
-        "songPath": "./Songs/19-XX/16B3 - CROSS RAY (feat. Lia)",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16B3 - CROSS RAY (feat. Lia)/16B3 - CROSS RAY (feat. Lia).ssc"
+        "songIndex": 55,
+        "name": "1666 - CHUNG HA - Gotta Go",
+        "songPath": "./Songs/19-XX/1666 - CHUNG HA - Gotta Go",
+        "banner": "./Songs/19-XX/1666 - CHUNG HA - Gotta Go/1666.webp",
+        "sscPath": "./Songs/19-XX/1666 - CHUNG HA - Gotta Go/1666 - CHUNG HA - Gotta Go.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 58,
-        "name": "16B4 - Cygnus",
-        "songPath": "./Songs/19-XX/16B4 - Cygnus",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16B4 - Cygnus/16B4 - Cygnus.ssc"
+        "songIndex": 62,
+        "name": "1673 - TOTO - After a thousand years",
+        "songPath": "./Songs/19-XX/1673 - TOTO - After a thousand years",
+        "banner": "./Songs/19-XX/1673 - TOTO - After a thousand years/1673.webp",
+        "sscPath": "./Songs/19-XX/1673 - TOTO - After a thousand years/1673 - TOTO - After a thousand years.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 59,
-        "name": "16B5 - Tropicanic",
-        "songPath": "./Songs/19-XX/16B5 - Tropicanic",
-        "banner": "./Songs/19-XX/16B5 - Tropicanic/16B5_Phoenix.png",
-        "sscPath": "./Songs/19-XX/16B5 - Tropicanic/16B5 - Tropicanic.ssc"
+        "songIndex": 64,
+        "name": "1675 - D_AAN - F(R)IEND",
+        "songPath": "./Songs/19-XX/1675 - D_AAN - F(R)IEND",
+        "banner": "./Songs/19-XX/1675 - D_AAN - F(R)IEND/1675.webp",
+        "sscPath": "./Songs/19-XX/1675 - D_AAN - F(R)IEND/1675 - D_AAN - F(R)IEND.ssc"
     },
     {
         "stageIndex": 14,
         "songIndex": 69,
-        "name": "16F4 - [Short Cut] I Want U",
-        "songPath": "./Songs/19-XX/16F4 - [Short Cut] I Want U",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16F4 - [Short Cut] I Want U/16F4 - [Short Cut] I Want U.ssc"
+        "name": "1680 - ESTi x M2U - Obelisque",
+        "songPath": "./Songs/19-XX/1680 - ESTi x M2U - Obelisque",
+        "banner": "./Songs/19-XX/1680 - ESTi x M2U - Obelisque/1680.webp",
+        "sscPath": "./Songs/19-XX/1680 - ESTi x M2U - Obelisque/1680 - ESTi x M2U - Obelisque.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 76,
+        "name": "1687 - Memme - Cutie Song",
+        "songPath": "./Songs/19-XX/1687 - Memme - Cutie Song",
+        "banner": "./Songs/19-XX/1687 - Memme - Cutie Song/1687.webp",
+        "sscPath": "./Songs/19-XX/1687 - Memme - Cutie Song/1687 - Memme - Cutie Song.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 87,
+        "name": "1698 - Junk - Life is PIANO",
+        "songPath": "./Songs/19-XX/1698 - Junk - Life is PIANO",
+        "banner": "./Songs/19-XX/1698 - Junk - Life is PIANO/1698.webp",
+        "sscPath": "./Songs/19-XX/1698 - Junk - Life is PIANO/1698 - Life is PIANO.ssc"
+    },
+    {
+        "stageIndex": 14,
+        "songIndex": 114,
+        "name": "16F4 - MAX - I Want U - SHORT CUT -",
+        "songPath": "./Songs/19-XX/16F4 - MAX - I Want U - SHORT CUT -",
+        "banner": "./Songs/19-XX/16F4 - MAX - I Want U - SHORT CUT -/16F4.webp",
+        "sscPath": "./Songs/19-XX/16F4 - MAX - I Want U - SHORT CUT -/16F4 - MAX - I Want U - SHORT CUT -.ssc"
     },
     {
         "stageIndex": 15,
@@ -318,14 +1142,6 @@
         "songPath": "./Songs/21-PHOENIX/1703 - ESP",
         "banner": "./Songs/21-PHOENIX/1703 - ESP/1703-wide.png",
         "sscPath": "./Songs/21-PHOENIX/1703 - ESP/1703 - ESP.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 73,
-        "name": "1705 - Ultimatum",
-        "songPath": "./Songs/19-XX/1705 - Ultimatum",
-        "banner": "./Songs/19-XX/1705 - Ultimatum/1705-Phoenix.png",
-        "sscPath": "./Songs/19-XX/1705 - Ultimatum/1705 - Ultimatum.ssc"
     },
     {
         "stageIndex": 15,
@@ -878,5 +1694,261 @@
         "songPath": "./Songs/21-PHOENIX/18F77 - [Short Cut] Hymn of Golden Glory",
         "banner": "./Songs/21-PHOENIX/18F77 - [Short Cut] Hymn of Golden Glory/[Short Cut] Hymn of Golden Glory.png",
         "sscPath": "./Songs/21-PHOENIX/18F77 - [Short Cut] Hymn of Golden Glory/[Short Cut] Hymn of Golden Glory.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 19,
+        "name": "19 Chicken Wing",
+        "songPath": "./Songs/08-1ST~ZERO/19 Chicken Wing",
+        "banner": "./Songs/08-1ST~ZERO/19 Chicken Wing/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/19 Chicken Wing/Chiken Wing.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 20,
+        "name": "20 Final Audition Episode 1",
+        "songPath": "./Songs/08-1ST~ZERO/20 Final Audition Episode 1",
+        "banner": "./Songs/08-1ST~ZERO/20 Final Audition Episode 1/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/20 Final Audition Episode 1/Final Audition Episode 1.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 22,
+        "name": "22 Pump Jump",
+        "songPath": "./Songs/08-1ST~ZERO/22 Pump Jump",
+        "banner": "./Songs/08-1ST~ZERO/22 Pump Jump/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/22 Pump Jump/Pump Jump.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 26,
+        "name": "26 Beethoven Virus",
+        "songPath": "./Songs/08-1ST~ZERO/26 Beethoven Virus",
+        "banner": "./Songs/08-1ST~ZERO/26 Beethoven Virus/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/26 Beethoven Virus/Beethoven Virus.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 28,
+        "name": "28 First Love",
+        "songPath": "./Songs/08-1ST~ZERO/28 First Love",
+        "banner": "./Songs/08-1ST~ZERO/28 First Love/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/28 First Love/First Love.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 33,
+        "name": "33 Mistake",
+        "songPath": "./Songs/08-1ST~ZERO/33 Mistake",
+        "banner": "./Songs/08-1ST~ZERO/33 Mistake/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/33 Mistake/Mistake.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 35,
+        "name": "35 Run",
+        "songPath": "./Songs/08-1ST~ZERO/35 Run",
+        "banner": "./Songs/08-1ST~ZERO/35 Run/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/35 Run/Run.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 36,
+        "name": "36 Run To You",
+        "songPath": "./Songs/08-1ST~ZERO/36 Run To You",
+        "banner": "./Songs/08-1ST~ZERO/36 Run To You/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/36 Run To You/Run To You.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 37,
+        "name": "37 Bee",
+        "songPath": "./Songs/08-1ST~ZERO/37 Bee",
+        "banner": "./Songs/08-1ST~ZERO/37 Bee/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/37 Bee/Bee.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 38,
+        "name": "38 D Gang",
+        "songPath": "./Songs/08-1ST~ZERO/38 D Gang",
+        "banner": "./Songs/08-1ST~ZERO/38 D Gang/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/38 D Gang/D Gang.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 39,
+        "name": "39 Hello",
+        "songPath": "./Songs/08-1ST~ZERO/39 Hello",
+        "banner": "./Songs/08-1ST~ZERO/39 Hello/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/39 Hello/Hello.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 41,
+        "name": "41 Come To Me",
+        "songPath": "./Songs/08-1ST~ZERO/41 Come To Me",
+        "banner": "./Songs/08-1ST~ZERO/41 Come To Me/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/41 Come To Me/Come To Me.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 44,
+        "name": "44 Get Your Groove On",
+        "songPath": "./Songs/08-1ST~ZERO/44 Get Your Groove On",
+        "banner": "./Songs/08-1ST~ZERO/44 Get Your Groove On/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/44 Get Your Groove On/Get Your Groove On.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 50,
+        "name": "50 Street Show Down",
+        "songPath": "./Songs/08-1ST~ZERO/50 Street Show Down",
+        "banner": "./Songs/08-1ST~ZERO/50 Street Show Down/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/50 Street Show Down/Street Show Down.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 52,
+        "name": "52 Winter",
+        "songPath": "./Songs/08-1ST~ZERO/52 Winter",
+        "banner": "./Songs/08-1ST~ZERO/52 Winter/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/52 Winter/Winter.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 54,
+        "name": "54 Till The End Of Time",
+        "songPath": "./Songs/08-1ST~ZERO/54 Till The End Of Time",
+        "banner": "./Songs/08-1ST~ZERO/54 Till The End Of Time/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/54 Till The End Of Time/Till The End Of Time.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 55,
+        "name": "55 Oy Oy Oy",
+        "songPath": "./Songs/08-1ST~ZERO/55 Oy Oy Oy",
+        "banner": "./Songs/08-1ST~ZERO/55 Oy Oy Oy/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/55 Oy Oy Oy/Oy Oy Oy.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 58,
+        "name": "58 Set Me Up",
+        "songPath": "./Songs/08-1ST~ZERO/58 Set Me Up",
+        "banner": "./Songs/08-1ST~ZERO/58 Set Me Up/Title.png",
+        "sscPath": "./Songs/08-1ST~ZERO/58 Set Me Up/Set Me Up.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 60,
+        "name": "60 Vook",
+        "songPath": "./Songs/08-1ST~ZERO/60 Vook",
+        "banner": "./Songs/08-1ST~ZERO/60 Vook/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/60 Vook/Vook.ssc"
+    },
+    {
+        "stageIndex": 9,
+        "songIndex": 61,
+        "name": "61 Csikos Post",
+        "songPath": "./Songs/08-1ST~ZERO/61 Csikos Post",
+        "banner": "./Songs/08-1ST~ZERO/61 Csikos Post/Title.PNG",
+        "sscPath": "./Songs/08-1ST~ZERO/61 Csikos Post/Csikos Post.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 71,
+        "name": "F06 - Slightly",
+        "songPath": "./Songs/13-NX~NXA/F06 - Slightly",
+        "banner": "./Songs/13-NX~NXA/F06 - Slightly/F06.webp",
+        "sscPath": "./Songs/13-NX~NXA/F06 - Slightly/F06 - Slightly.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 75,
+        "name": "F10 - Forward",
+        "songPath": "./Songs/13-NX~NXA/F10 - Forward",
+        "banner": "./Songs/13-NX~NXA/F10 - Forward/F10.webp",
+        "sscPath": "./Songs/13-NX~NXA/F10 - Forward/F10 - Forward.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 77,
+        "name": "F12 - Crazy",
+        "songPath": "./Songs/13-NX~NXA/F12 - Crazy",
+        "banner": "./Songs/13-NX~NXA/F12 - Crazy/F12.webp",
+        "sscPath": "./Songs/13-NX~NXA/F12 - Crazy/F12 - Crazy.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 80,
+        "name": "F15 - Digan lo que Digan",
+        "songPath": "./Songs/13-NX~NXA/F15 - Digan lo que Digan",
+        "banner": "./Songs/13-NX~NXA/F15 - Digan lo que Digan/F15.webp",
+        "sscPath": "./Songs/13-NX~NXA/F15 - Digan lo que Digan/F15 - Digan Lo Que Digan.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 82,
+        "name": "F17 - Change Myself",
+        "songPath": "./Songs/13-NX~NXA/F17 - Change Myself",
+        "banner": "./Songs/13-NX~NXA/F17 - Change Myself/F17.webp",
+        "sscPath": "./Songs/13-NX~NXA/F17 - Change Myself/F17 - Change Myself.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 83,
+        "name": "F18 - Come On!",
+        "songPath": "./Songs/13-NX~NXA/F18 - Come On!",
+        "banner": "./Songs/13-NX~NXA/F18 - Come On!/F18.webp",
+        "sscPath": "./Songs/13-NX~NXA/F18 - Come On!/F18 - Come On!.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 85,
+        "name": "F20 - U",
+        "songPath": "./Songs/13-NX~NXA/F20 - U",
+        "banner": "./Songs/13-NX~NXA/F20 - U/F20.webp",
+        "sscPath": "./Songs/13-NX~NXA/F20 - U/F20 - U.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 88,
+        "name": "F23 - Dj Otada",
+        "songPath": "./Songs/13-NX~NXA/F23 - Dj Otada",
+        "banner": "./Songs/13-NX~NXA/F23 - Dj Otada/F23.webp",
+        "sscPath": "./Songs/13-NX~NXA/F23 - Dj Otada/F23 - Dj Otada.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 90,
+        "name": "F25 - My Dreams",
+        "songPath": "./Songs/13-NX~NXA/F25 - My Dreams",
+        "banner": "./Songs/13-NX~NXA/F25 - My Dreams/F25.webp",
+        "sscPath": "./Songs/13-NX~NXA/F25 - My Dreams/F25 - My Dreams.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 91,
+        "name": "F26 - Toccata",
+        "songPath": "./Songs/13-NX~NXA/F26 - Toccata",
+        "banner": "./Songs/13-NX~NXA/F26 - Toccata/F26.webp",
+        "sscPath": "./Songs/13-NX~NXA/F26 - Toccata/F26 - Toccata.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 93,
+        "name": "F28 - Dawn of the Apocalypse",
+        "songPath": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse",
+        "banner": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse/F28.webp",
+        "sscPath": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse/F28 - Dawn of the Apocalypse.ssc"
+    },
+    {
+        "stageIndex": 10,
+        "songIndex": 95,
+        "name": "F80 - In Your Fantasy",
+        "songPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy",
+        "banner": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80.webp",
+        "sscPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80 - In Your Fantasy.ssc"
     }
 ]

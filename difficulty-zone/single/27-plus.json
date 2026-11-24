@@ -1,34 +1,18 @@
 [
     {
-        "stageIndex": 9,
-        "songIndex": 0,
-        "name": "(1) C02 - Moonlight",
-        "songPath": "./Songs/08-1ST~ZERO/(1) C02 - Moonlight",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(1) C02 - Moonlight/C02 - Moonlight.ssc"
+        "stageIndex": 10,
+        "songIndex": 31,
+        "name": "(1a) E07A - Very Old Coulpes (Short Term Memory Version)",
+        "songPath": "./Songs/13-NX~NXA/(1a) E07A - Very Old Coulpes (Short Term Memory Version)",
+        "banner": "./Songs/13-NX~NXA/(1a) E07A - Very Old Coulpes (Short Term Memory Version)/E07A.webp",
+        "sscPath": "./Songs/13-NX~NXA/(1a) E07A - Very Old Coulpes (Short Term Memory Version)/E07A - Very Old Coulpes (Short Term Memory Version).ssc"
     },
     {
-        "stageIndex": 9,
-        "songIndex": 3,
-        "name": "(2) 711 - Winter",
-        "songPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(2) 711 - Winter/711 - Winter.ssc"
-    },
-    {
-        "stageIndex": 9,
-        "songIndex": 7,
-        "name": "(3) 516 - Slam",
-        "songPath": "./Songs/08-1ST~ZERO/(3) 516 - Slam",
-        "banner": null,
-        "sscPath": "./Songs/08-1ST~ZERO/(3) 516 - Slam/516 - Slam.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 53,
-        "name": "16A5 - Harmagedon",
-        "songPath": "./Songs/19-XX/16A5 - Harmagedon",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+        "stageIndex": 11,
+        "songIndex": 71,
+        "name": "1015 - Fire",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1015 - Fire",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1015 - Fire/1015.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1015 - Fire/1015 - Fire.ssc"
     }
 ]

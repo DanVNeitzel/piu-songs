@@ -1,10 +1,10 @@
 [
     {
-        "stageIndex": 13,
-        "songIndex": 34,
-        "name": "1576 - Just Kiddin",
-        "songPath": "./Songs/18-PRIME 2/1576 - Just Kiddin",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1576 - Just Kiddin/1576 - Just Kiddin.ssc"
+        "stageIndex": 11,
+        "songIndex": 82,
+        "name": "1026 - Turkey March Minimal Tunes",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes",
+        "banner": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes/1026.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes/1026 - Turkey March Minimal Tunes.ssc"
     }
 ]

@@ -1,35 +1,27 @@
 [
     {
+        "stageIndex": 11,
+        "songIndex": 1,
+        "name": "(1) 1240 - VVV",
+        "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1240 - VVV",
+        "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1240 - VVV/1240.webp",
+        "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1240 - VVV/1240 - VVV.ssc"
+    },
+    {
         "stageIndex": 13,
-        "songIndex": 54,
-        "name": "15D2 - [Remix] Shub Sothoth",
-        "songPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/15D2 - [Remix] Shub Sothoth/15D2 - [Remix] Shub Sothoth.ssc"
+        "songIndex": 81,
+        "name": "15D1 - Shub Sothoth",
+        "songPath": "./Songs/18-PRIME 2/15D1 - Shub Sothoth",
+        "banner": "./Songs/18-PRIME 2/15D1 - Shub Sothoth/15D1.webp",
+        "sscPath": "./Songs/18-PRIME 2/15D1 - Shub Sothoth/15D1 - Shub Sothoth - Nato & EXC.ssc"
     },
     {
         "stageIndex": 14,
-        "songIndex": 47,
-        "name": "1697 - BRAIN POWER",
-        "songPath": "./Songs/19-XX/1697 - BRAIN POWER",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1697 - BRAIN POWER/1697 - BRAIN POWER.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 49,
-        "name": "1699 - GLORIA",
-        "songPath": "./Songs/19-XX/1699 - GLORIA",
-        "banner": null,
-        "sscPath": "./Songs/19-XX/1699 - GLORIA/1699 - GLORIA.ssc"
-    },
-    {
-        "stageIndex": 14,
-        "songIndex": 73,
-        "name": "1705 - Ultimatum",
-        "songPath": "./Songs/19-XX/1705 - Ultimatum",
-        "banner": "./Songs/19-XX/1705 - Ultimatum/1705-Phoenix.png",
-        "sscPath": "./Songs/19-XX/1705 - Ultimatum/1705 - Ultimatum.ssc"
+        "songIndex": 96,
+        "name": "16D1 - SUNNY && DOIN - ERRORCODE 0",
+        "songPath": "./Songs/19-XX/16D1 - SUNNY && DOIN - ERRORCODE 0",
+        "banner": "./Songs/19-XX/16D1 - SUNNY && DOIN - ERRORCODE 0/16D1.webp",
+        "sscPath": "./Songs/19-XX/16D1 - SUNNY && DOIN - ERRORCODE 0/16D1 - SUNNY && DOIN - ERRORCODE 0.ssc"
     },
     {
         "stageIndex": 15,

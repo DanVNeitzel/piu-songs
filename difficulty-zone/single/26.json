@@ -1,11 +1,11 @@
 [
     {
-        "stageIndex": 13,
-        "songIndex": 22,
-        "name": "1542 - ESCAPE",
-        "songPath": "./Songs/18-PRIME 2/1542 - ESCAPE",
-        "banner": null,
-        "sscPath": "./Songs/18-PRIME 2/1542 - ESCAPE/1542 - ESCAPE.ssc"
+        "stageIndex": 14,
+        "songIndex": 4,
+        "name": "1605 - SLAM - 1949",
+        "songPath": "./Songs/19-XX/1605 - SLAM - 1949",
+        "banner": "./Songs/19-XX/1605 - SLAM - 1949/1605.webp",
+        "sscPath": "./Songs/19-XX/1605 - SLAM - 1949/1605 - SLAM - 1949.ssc"
     },
     {
         "stageIndex": 15,
