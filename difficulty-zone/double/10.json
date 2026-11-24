@@ -1,503 +1,503 @@
 [
     {
-        "stageIndex": 11,
-        "songIndex": 1,
+        "stageIndex": 0,
+        "songIndex": 161,
         "name": "(1) 1240 - VVV",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1240 - VVV",
         "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1240 - VVV/1240.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1240 - VVV/1240 - VVV.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 2,
+        "stageIndex": 0,
+        "songIndex": 162,
         "name": "(1) 1301 - Pop The Track",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1301 - Pop The Track",
         "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1301 - Pop The Track/1301.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1301 - Pop The Track/1301 - Pop The Track.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 26,
+        "stageIndex": 0,
+        "songIndex": 186,
         "name": "(1) 1329 - Danza Kuduro",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1329 - Danza Kuduro",
         "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1329 - Danza Kuduro/1329.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1329 - Danza Kuduro/1329 - Danza Kuduro.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 35,
+        "stageIndex": 0,
+        "songIndex": 195,
         "name": "(1) 1338 - Log-In",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(1) 1338 - Log-In",
         "banner": "./Songs/16-FIESTA~FIESTA2/(1) 1338 - Log-In/1338.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(1) 1338 - Log-In/1338 - Log-In.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 2,
+        "stageIndex": 0,
+        "songIndex": 65,
         "name": "(1) E03 - Caprice of Otada",
         "songPath": "./Songs/13-NX~NXA/(1) E03 - Caprice of Otada",
         "banner": "./Songs/13-NX~NXA/(1) E03 - Caprice of Otada/E03.webp",
         "sscPath": "./Songs/13-NX~NXA/(1) E03 - Caprice of Otada/E03 - Caprice of Otada.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 22,
+        "stageIndex": 0,
+        "songIndex": 85,
         "name": "(1) E23 - Guitar Man",
         "songPath": "./Songs/13-NX~NXA/(1) E23 - Guitar Man",
         "banner": "./Songs/13-NX~NXA/(1) E23 - Guitar Man/E23.webp",
         "sscPath": "./Songs/13-NX~NXA/(1) E23 - Guitar Man/(1) E23 - Guitar Man.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 25,
+        "stageIndex": 0,
+        "songIndex": 88,
         "name": "(1) E26 - Chopstix",
         "songPath": "./Songs/13-NX~NXA/(1) E26 - Chopstix",
         "banner": "./Songs/13-NX~NXA/(1) E26 - Chopstix/E26.webp",
         "sscPath": "./Songs/13-NX~NXA/(1) E26 - Chopstix/E26 - Chopstix.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 27,
+        "stageIndex": 0,
+        "songIndex": 90,
         "name": "(1) E28 - Dance Vibrations",
         "songPath": "./Songs/13-NX~NXA/(1) E28 - Dance Vibrations",
         "banner": "./Songs/13-NX~NXA/(1) E28 - Dance Vibrations/E28.webp",
         "sscPath": "./Songs/13-NX~NXA/(1) E28 - Dance Vibrations/E28 - Dance Vibrations.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 41,
+        "stageIndex": 0,
+        "songIndex": 201,
         "name": "(2) 1202 - Y2Z",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1202 - Y2Z",
         "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1202 - Y2Z/1202.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1202 - Y2Z/1202 - Y2Z.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 43,
+        "stageIndex": 0,
+        "songIndex": 203,
         "name": "(2) 1208 - Switchback",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1208 - Switchback",
         "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1208 - Switchback/1208.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1208 - Switchback/1208 - SwitchBack.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 47,
+        "stageIndex": 0,
+        "songIndex": 207,
         "name": "(2) 1219 - Tribe Attacker",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1219 - Tribe Attacker",
         "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1219 - Tribe Attacker/1219.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1219 - Tribe Attacker/1219 - Tribe Attacker.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 49,
+        "stageIndex": 0,
+        "songIndex": 209,
         "name": "(2) 1222 - Take Me Back",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1222 - Take Me Back",
         "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1222 - Take Me Back/1222.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1222 - Take Me Back/1222 - Take Me Back.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 50,
+        "stageIndex": 0,
+        "songIndex": 210,
         "name": "(2) 1225 - Re-Rave",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1225 - Re-Rave",
         "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1225 - Re-Rave/1225.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1225 - Re-Rave/1225 - Re-Rave.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 55,
+        "stageIndex": 0,
+        "songIndex": 215,
         "name": "(2) 1237 - Be Alive (Raaban Inc. Mix)",
         "songPath": "./Songs/16-FIESTA~FIESTA2/(2) 1237 - Be Alive (Raaban Inc. Mix)",
         "banner": "./Songs/16-FIESTA~FIESTA2/(2) 1237 - Be Alive (Raaban Inc. Mix)/1237.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/(2) 1237 - Be Alive (Raaban Inc. Mix)/1237 - Be Alive (Raaban Inc. Mix).ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 38,
+        "stageIndex": 0,
+        "songIndex": 101,
         "name": "(2) D04 - Go Back",
         "songPath": "./Songs/13-NX~NXA/(2) D04 - Go Back",
         "banner": "./Songs/13-NX~NXA/(2) D04 - Go Back/D04.webp",
         "sscPath": "./Songs/13-NX~NXA/(2) D04 - Go Back/D04 - Go Back.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 63,
+        "stageIndex": 0,
+        "songIndex": 126,
         "name": "(2) D29 - Fire (Banya)",
         "songPath": "./Songs/13-NX~NXA/(2) D29 - Fire (Banya)",
         "banner": "./Songs/13-NX~NXA/(2) D29 - Fire (Banya)/D29.webp",
         "sscPath": "./Songs/13-NX~NXA/(2) D29 - Fire (Banya)/D29 - Fire (Banya).ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 79,
+        "stageIndex": 0,
+        "songIndex": 239,
         "name": "1023 - Arirang",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1023 - Arirang",
         "banner": "./Songs/16-FIESTA~FIESTA2/1023 - Arirang/1023.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1023 - Arirang/1023 - Arirang.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 82,
+        "stageIndex": 0,
+        "songIndex": 242,
         "name": "1026 - Turkey March Minimal Tunes",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes",
         "banner": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes/1026.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes/1026 - Turkey March Minimal Tunes.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 85,
+        "stageIndex": 0,
+        "songIndex": 245,
         "name": "1029 - Mission Possible -BlowBack-",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1029 - Mission Possible -BlowBack-",
         "banner": "./Songs/16-FIESTA~FIESTA2/1029 - Mission Possible -BlowBack-/1029.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1029 - Mission Possible -BlowBack-/1029 - Mission Possible - BlowBack-.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 97,
+        "stageIndex": 0,
+        "songIndex": 257,
         "name": "1108 - Magic",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1108 - Magic",
         "banner": "./Songs/16-FIESTA~FIESTA2/1108 - Magic/1108.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1108 - Magic/1108 - Magic.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 107,
+        "stageIndex": 0,
+        "songIndex": 267,
         "name": "1118 - Like a Man",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1118 - Like a Man",
         "banner": "./Songs/16-FIESTA~FIESTA2/1118 - Like a Man/1118.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1118 - Like a Man/1118 - Like a Man.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 115,
+        "stageIndex": 0,
+        "songIndex": 275,
         "name": "1126 - Native",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1126 - Native",
         "banner": "./Songs/16-FIESTA~FIESTA2/1126 - Native/1126.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1126 - Native/1126 - Native.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 122,
+        "stageIndex": 0,
+        "songIndex": 282,
         "name": "1154 - ASDF",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1154 - ASDF",
         "banner": "./Songs/16-FIESTA~FIESTA2/1154 - ASDF/1154.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1154 - ASDF/1154 - ASDF.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 127,
+        "stageIndex": 0,
+        "songIndex": 287,
         "name": "1160 - Jonathan's Dream",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1160 - Jonathan's Dream",
         "banner": "./Songs/16-FIESTA~FIESTA2/1160 - Jonathan's Dream/1160.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1160 - Jonathan's Dream/1160 - Jonathan's Dream.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 3,
+        "stageIndex": 0,
+        "songIndex": 292,
         "name": "1504 - Tritium",
         "songPath": "./Songs/18-PRIME 2/1504 - Tritium",
         "banner": "./Songs/18-PRIME 2/1504 - Tritium/1504.webp",
         "sscPath": "./Songs/18-PRIME 2/1504 - Tritium/1504 - Tritium - Memme.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 15,
+        "stageIndex": 0,
+        "songIndex": 304,
         "name": "1524 - Passing Rider",
         "songPath": "./Songs/18-PRIME 2/1524 - Passing Rider",
         "banner": "./Songs/18-PRIME 2/1524 - Passing Rider/1524.webp",
         "sscPath": "./Songs/18-PRIME 2/1524 - Passing Rider/1524 - Passing Rider - mzet-P.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 16,
+        "stageIndex": 0,
+        "songIndex": 305,
         "name": "1525 - Arcana Force",
         "songPath": "./Songs/18-PRIME 2/1525 - Arcana Force",
         "banner": "./Songs/18-PRIME 2/1525 - Arcana Force/1525.webp",
         "sscPath": "./Songs/18-PRIME 2/1525 - Arcana Force/1525 - Arcana Force - mzet-P.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 20,
+        "stageIndex": 0,
+        "songIndex": 309,
         "name": "1533 - Hey U",
         "songPath": "./Songs/18-PRIME 2/1533 - Hey U",
         "banner": "./Songs/18-PRIME 2/1533 - Hey U/1533.webp",
         "sscPath": "./Songs/18-PRIME 2/1533 - Hey U/1533 - Hey U - MAZO.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 21,
+        "stageIndex": 0,
+        "songIndex": 310,
         "name": "1536 - Twist Of Fate (feat.-Ruriling)",
         "songPath": "./Songs/18-PRIME 2/1536 - Twist Of Fate (feat.-Ruriling)",
         "banner": "./Songs/18-PRIME 2/1536 - Twist Of Fate (feat.-Ruriling)/1536.webp",
         "sscPath": "./Songs/18-PRIME 2/1536 - Twist Of Fate (feat.-Ruriling)/1536 - Twist Of Fate - Jehezukiel.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 22,
+        "stageIndex": 0,
+        "songIndex": 311,
         "name": "1537 - HTTP",
         "songPath": "./Songs/18-PRIME 2/1537 - HTTP",
         "banner": "./Songs/18-PRIME 2/1537 - HTTP/1537.webp",
         "sscPath": "./Songs/18-PRIME 2/1537 - HTTP/1537 - HTTP - Quree.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 33,
+        "stageIndex": 0,
+        "songIndex": 322,
         "name": "1548 - Pick Me",
         "songPath": "./Songs/18-PRIME 2/1548 - Pick Me",
         "banner": "./Songs/18-PRIME 2/1548 - Pick Me/1548.webp",
         "sscPath": "./Songs/18-PRIME 2/1548 - Pick Me/1548 - Pick Me - PRODUCE 101.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 40,
+        "stageIndex": 0,
+        "songIndex": 329,
         "name": "1555 - You're the Best",
         "songPath": "./Songs/18-PRIME 2/1555 - You're the Best",
         "banner": "./Songs/18-PRIME 2/1555 - You're the Best/1555.webp",
         "sscPath": "./Songs/18-PRIME 2/1555 - You're the Best/1555 - You're The Best - MAMAMOO.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 61,
+        "stageIndex": 0,
+        "songIndex": 350,
         "name": "15A3 - Time Attack Blue",
         "songPath": "./Songs/18-PRIME 2/15A3 - Time Attack Blue",
         "banner": "./Songs/18-PRIME 2/15A3 - Time Attack Blue/15A3.webp",
         "sscPath": "./Songs/18-PRIME 2/15A3 - Time Attack Blue/15A3 -Time Attack Blue - r300k.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 63,
+        "stageIndex": 0,
+        "songIndex": 352,
         "name": "15A5 - Visual Dream II (In Fiction)",
         "songPath": "./Songs/18-PRIME 2/15A5 - Visual Dream II (In Fiction)",
         "banner": "./Songs/18-PRIME 2/15A5 - Visual Dream II (In Fiction)/15A5.webp",
         "sscPath": "./Songs/18-PRIME 2/15A5 - Visual Dream II (In Fiction)/15A5 - Visual Dream 2 (In Fiction) - Aragon.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 70,
+        "stageIndex": 0,
+        "songIndex": 359,
         "name": "15B2 - INFINITY",
         "songPath": "./Songs/18-PRIME 2/15B2 - INFINITY",
         "banner": "./Songs/18-PRIME 2/15B2 - INFINITY/15B2.webp",
         "sscPath": "./Songs/18-PRIME 2/15B2 - INFINITY/15B2 - Infinity - Lunatic Sounds.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 74,
+        "stageIndex": 0,
+        "songIndex": 363,
         "name": "15B7 - Clue",
         "songPath": "./Songs/18-PRIME 2/15B7 - Clue",
         "banner": "./Songs/18-PRIME 2/15B7 - Clue/15B7.webp",
         "sscPath": "./Songs/18-PRIME 2/15B7 - Clue/15B7 - Clue - Transin.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 79,
+        "stageIndex": 0,
+        "songIndex": 368,
         "name": "15C5 - Fallen Angel",
         "songPath": "./Songs/18-PRIME 2/15C5 - Fallen Angel",
         "banner": "./Songs/18-PRIME 2/15C5 - Fallen Angel/15C5.webp",
         "sscPath": "./Songs/18-PRIME 2/15C5 - Fallen Angel/15C5 - Fallen Angel - DM Ashura ft. Ariel.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 1,
+        "stageIndex": 0,
+        "songIndex": 389,
         "name": "1602 - SHK - Switronic",
         "songPath": "./Songs/19-XX/1602 - SHK - Switronic",
         "banner": "./Songs/19-XX/1602 - SHK - Switronic/1602.webp",
         "sscPath": "./Songs/19-XX/1602 - SHK - Switronic/1602 - SHK - Switronic.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 2,
+        "stageIndex": 0,
+        "songIndex": 390,
         "name": "1603 - ATAS - Obliteration",
         "songPath": "./Songs/19-XX/1603 - ATAS - Obliteration",
         "banner": "./Songs/19-XX/1603 - ATAS - Obliteration/1603.webp",
         "sscPath": "./Songs/19-XX/1603 - ATAS - Obliteration/1603 - ATAS - Obliteration.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 34,
+        "stageIndex": 0,
+        "songIndex": 422,
         "name": "1645 - Dreamcatcher - Fly high",
         "songPath": "./Songs/19-XX/1645 - Dreamcatcher - Fly high",
         "banner": "./Songs/19-XX/1645 - Dreamcatcher - Fly high/1645.webp",
         "sscPath": "./Songs/19-XX/1645 - Dreamcatcher - Fly high/1645 - Dreamcatcher - Fly high.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 42,
+        "stageIndex": 0,
+        "songIndex": 430,
         "name": "1653 - EVERGLOW - Adios",
         "songPath": "./Songs/19-XX/1653 - EVERGLOW - Adios",
         "banner": "./Songs/19-XX/1653 - EVERGLOW - Adios/1653.webp",
         "sscPath": "./Songs/19-XX/1653 - EVERGLOW - Adios/1653 - EVERGLOW - Adios.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 50,
+        "stageIndex": 0,
+        "songIndex": 438,
         "name": "1661 - EVERBLOW - Bon Bon Chocolat",
         "songPath": "./Songs/19-XX/1661 - EVERBLOW - Bon Bon Chocolat",
         "banner": "./Songs/19-XX/1661 - EVERBLOW - Bon Bon Chocolat/1661.webp",
         "sscPath": "./Songs/19-XX/1661 - EVERBLOW - Bon Bon Chocolat/1661 - EVERBLOW - Bon Bon Chocolat.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 52,
+        "stageIndex": 0,
+        "songIndex": 440,
         "name": "1663 - HONG JINYOUNG - GOOD BYE",
         "songPath": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE",
         "banner": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE/1663.webp",
         "sscPath": "./Songs/19-XX/1663 - HONG JINYOUNG - GOOD BYE/1663 - HONG JINYOUNG - GOOD BYE.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 66,
+        "stageIndex": 0,
+        "songIndex": 454,
         "name": "1677 - Cranky - Danger & Danger",
         "songPath": "./Songs/19-XX/1677 - Cranky - Danger & Danger",
         "banner": "./Songs/19-XX/1677 - Cranky - Danger & Danger/1677.webp",
         "sscPath": "./Songs/19-XX/1677 - Cranky - Danger & Danger/1677 - Cranky - Danger & Danger.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 70,
+        "stageIndex": 0,
+        "songIndex": 458,
         "name": "1681 - MAX - Rage of Fire",
         "songPath": "./Songs/19-XX/1681 - MAX - Rage of Fire",
         "banner": "./Songs/19-XX/1681 - MAX - Rage of Fire/1681.webp",
         "sscPath": "./Songs/19-XX/1681 - MAX - Rage of Fire/1681 - MAX - Rage of Fire.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 82,
+        "stageIndex": 0,
+        "songIndex": 470,
         "name": "1693 - Roy Mikelate - Your Mind",
         "songPath": "./Songs/19-XX/1693 - Roy Mikelate - Your Mind",
         "banner": "./Songs/19-XX/1693 - Roy Mikelate - Your Mind/1693.webp",
         "sscPath": "./Songs/19-XX/1693 - Roy Mikelate - Your Mind/1693 - Roy Mikelate - Your Mind.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 84,
+        "stageIndex": 0,
+        "songIndex": 472,
         "name": "1695 - Cranky - Phalanx RS2018 edit",
         "songPath": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit",
         "banner": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit/1695.webp",
         "sscPath": "./Songs/19-XX/1695 - Cranky - Phalanx RS2018 edit/1695 - Cranky - Phalanx RS2018 edit.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 6,
+        "stageIndex": 0,
+        "songIndex": 514,
         "name": "1720 - Dancing",
         "songPath": "./Songs/21-PHOENIX/1720 - Dancing",
         "banner": "./Songs/21-PHOENIX/1720 - Dancing/1720.png",
         "sscPath": "./Songs/21-PHOENIX/1720 - Dancing/1720 - Dancing.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 23,
+        "stageIndex": 0,
+        "songIndex": 531,
         "name": "18020 - Euphorianic",
         "songPath": "./Songs/21-PHOENIX/18020 - Euphorianic",
         "banner": "./Songs/21-PHOENIX/18020 - Euphorianic/Euphorianic.png",
         "sscPath": "./Songs/21-PHOENIX/18020 - Euphorianic/Euphorianic.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 24,
+        "stageIndex": 0,
+        "songIndex": 532,
         "name": "18022 - Halloween Party ~Multiverse~",
         "songPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~",
         "banner": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~/Halloween Party ~Multiverse~.png",
         "sscPath": "./Songs/21-PHOENIX/18022 - Halloween Party ~Multiverse~/Halloween Party ~Multiverse~.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 68,
+        "stageIndex": 0,
+        "songIndex": 576,
         "name": "18075 - Bubble",
         "songPath": "./Songs/21-PHOENIX/18075 - Bubble",
         "banner": "./Songs/21-PHOENIX/18075 - Bubble/Bubble.png",
         "sscPath": "./Songs/21-PHOENIX/18075 - Bubble/Bubble.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 72,
+        "stageIndex": 0,
+        "songIndex": 580,
         "name": "18110 - Teddy Bear",
         "songPath": "./Songs/21-PHOENIX/18110 - Teddy Bear",
         "banner": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.png",
         "sscPath": "./Songs/21-PHOENIX/18110 - Teddy Bear/Teddy Bear.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 82,
+        "stageIndex": 0,
+        "songIndex": 590,
         "name": "18133 - PANDORA",
         "songPath": "./Songs/21-PHOENIX/18133 - PANDORA",
         "banner": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.png",
         "sscPath": "./Songs/21-PHOENIX/18133 - PANDORA/PANDORA.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 85,
+        "stageIndex": 0,
+        "songIndex": 593,
         "name": "18145 - Nostalgia",
         "songPath": "./Songs/21-PHOENIX/18145 - Nostalgia",
         "banner": "./Songs/21-PHOENIX/18145 - Nostalgia/Nostalgia.png",
         "sscPath": "./Songs/21-PHOENIX/18145 - Nostalgia/Nostalgia.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 97,
+        "stageIndex": 0,
+        "songIndex": 605,
         "name": "18237 - R.I.P",
         "songPath": "./Songs/21-PHOENIX/18237 - R.I.P",
         "banner": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..png",
         "sscPath": "./Songs/21-PHOENIX/18237 - R.I.P/R.I.P..ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 109,
+        "stageIndex": 0,
+        "songIndex": 617,
         "name": "18242 - Destr0yer",
         "songPath": "./Songs/21-PHOENIX/18242 - Destr0yer",
         "banner": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.png",
         "sscPath": "./Songs/21-PHOENIX/18242 - Destr0yer/Destr0yer.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 117,
+        "stageIndex": 0,
+        "songIndex": 625,
         "name": "18243 - Viyella's Nightmare",
         "songPath": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare",
         "banner": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare/Viyella's Nightmare.png",
         "sscPath": "./Songs/21-PHOENIX/18243 - Viyella's Nightmare/Viyella's Nightmare.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 133,
+        "stageIndex": 0,
+        "songIndex": 641,
         "name": "18A60 - Murdoch vs Otada",
         "songPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada",
         "banner": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.png",
         "sscPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 66,
+        "stageIndex": 0,
+        "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",
         "banner": "./Songs/13-NX~NXA/F01 - Blaze Emotion/F01.webp",
         "sscPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion/F01 - Blaze Emotion.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 67,
+        "stageIndex": 0,
+        "songIndex": 130,
         "name": "F02 - Cannon X1",
         "songPath": "./Songs/13-NX~NXA/F02 - Cannon X1",
         "banner": "./Songs/13-NX~NXA/F02 - Cannon X1/F02.webp",
         "sscPath": "./Songs/13-NX~NXA/F02 - Cannon X1/F02 - Cannon X1.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 72,
+        "stageIndex": 0,
+        "songIndex": 135,
         "name": "F07 - I am Your Girl",
         "songPath": "./Songs/13-NX~NXA/F07 - I am Your Girl",
         "banner": "./Songs/13-NX~NXA/F07 - I am Your Girl/F07.webp",
         "sscPath": "./Songs/13-NX~NXA/F07 - I am Your Girl/F07 - I am Your Girl.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 89,
+        "stageIndex": 0,
+        "songIndex": 152,
         "name": "F24 - K.O.A. -Alice in Wonderworld-",
         "songPath": "./Songs/13-NX~NXA/F24 - K.O.A. -Alice in Wonderworld-",
         "banner": "./Songs/13-NX~NXA/F24 - K.O.A. -Alice in Wonderworld-/F24.webp",
         "sscPath": "./Songs/13-NX~NXA/F24 - K.O.A. -Alice in Wonderworld-/F24 - K.O.A. -Alice in Wonderworld-.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 96,
+        "stageIndex": 0,
+        "songIndex": 159,
         "name": "FE13B - Pumptris 8Bit ver",
         "songPath": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver",
         "banner": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver/FE13B.webp",

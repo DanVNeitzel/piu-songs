@@ -1,15 +1,15 @@
 [
     {
-        "stageIndex": 10,
-        "songIndex": 31,
+        "stageIndex": 0,
+        "songIndex": 94,
         "name": "(1a) E07A - Very Old Coulpes (Short Term Memory Version)",
         "songPath": "./Songs/13-NX~NXA/(1a) E07A - Very Old Coulpes (Short Term Memory Version)",
         "banner": "./Songs/13-NX~NXA/(1a) E07A - Very Old Coulpes (Short Term Memory Version)/E07A.webp",
         "sscPath": "./Songs/13-NX~NXA/(1a) E07A - Very Old Coulpes (Short Term Memory Version)/E07A - Very Old Coulpes (Short Term Memory Version).ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 71,
+        "stageIndex": 0,
+        "songIndex": 231,
         "name": "1015 - Fire",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1015 - Fire",
         "banner": "./Songs/16-FIESTA~FIESTA2/1015 - Fire/1015.webp",

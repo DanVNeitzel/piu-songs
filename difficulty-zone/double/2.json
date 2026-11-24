@@ -1,151 +1,151 @@
 [
     {
-        "stageIndex": 10,
-        "songIndex": 12,
+        "stageIndex": 0,
+        "songIndex": 75,
         "name": "(1) E13 - Pumptris Quattro",
         "songPath": "./Songs/13-NX~NXA/(1) E13 - Pumptris Quattro",
         "banner": "./Songs/13-NX~NXA/(1) E13 - Pumptris Quattro/E13.webp",
         "sscPath": "./Songs/13-NX~NXA/(1) E13 - Pumptris Quattro/E13 - Pumptris Quattro.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 25,
+        "stageIndex": 0,
+        "songIndex": 88,
         "name": "(1) E26 - Chopstix",
         "songPath": "./Songs/13-NX~NXA/(1) E26 - Chopstix",
         "banner": "./Songs/13-NX~NXA/(1) E26 - Chopstix/E26.webp",
         "sscPath": "./Songs/13-NX~NXA/(1) E26 - Chopstix/E26 - Chopstix.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 26,
+        "stageIndex": 0,
+        "songIndex": 89,
         "name": "(1) E27 - Dance all Night",
         "songPath": "./Songs/13-NX~NXA/(1) E27 - Dance all Night",
         "banner": "./Songs/13-NX~NXA/(1) E27 - Dance all Night/E27.webp",
         "sscPath": "./Songs/13-NX~NXA/(1) E27 - Dance all Night/E27 - Dance all Night.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 55,
+        "stageIndex": 0,
+        "songIndex": 118,
         "name": "(2) D21 - So",
         "songPath": "./Songs/13-NX~NXA/(2) D21 - So",
         "banner": "./Songs/13-NX~NXA/(2) D21 - So/D21.webp",
         "sscPath": "./Songs/13-NX~NXA/(2) D21 - So/D21 - So.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 79,
+        "stageIndex": 0,
+        "songIndex": 239,
         "name": "1023 - Arirang",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1023 - Arirang",
         "banner": "./Songs/16-FIESTA~FIESTA2/1023 - Arirang/1023.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1023 - Arirang/1023 - Arirang.ssc"
     },
     {
-        "stageIndex": 11,
-        "songIndex": 92,
+        "stageIndex": 0,
+        "songIndex": 252,
         "name": "1103 - Reality",
         "songPath": "./Songs/16-FIESTA~FIESTA2/1103 - Reality",
         "banner": "./Songs/16-FIESTA~FIESTA2/1103 - Reality/1103.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1103 - Reality/1103 - Reality.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 16,
+        "stageIndex": 0,
+        "songIndex": 305,
         "name": "1525 - Arcana Force",
         "songPath": "./Songs/18-PRIME 2/1525 - Arcana Force",
         "banner": "./Songs/18-PRIME 2/1525 - Arcana Force/1525.webp",
         "sscPath": "./Songs/18-PRIME 2/1525 - Arcana Force/1525 - Arcana Force - mzet-P.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 40,
+        "stageIndex": 0,
+        "songIndex": 329,
         "name": "1555 - You're the Best",
         "songPath": "./Songs/18-PRIME 2/1555 - You're the Best",
         "banner": "./Songs/18-PRIME 2/1555 - You're the Best/1555.webp",
         "sscPath": "./Songs/18-PRIME 2/1555 - You're the Best/1555 - You're The Best - MAMAMOO.ssc"
     },
     {
-        "stageIndex": 13,
-        "songIndex": 48,
+        "stageIndex": 0,
+        "songIndex": 337,
         "name": "1575 - Step",
         "songPath": "./Songs/18-PRIME 2/1575 - Step",
         "banner": "./Songs/18-PRIME 2/1575 - Step/1575.webp",
         "sscPath": "./Songs/18-PRIME 2/1575 - Step/1575 - Step - SID-SOUND.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 14,
+        "stageIndex": 0,
+        "songIndex": 402,
         "name": "1621 - Pory - La Cinquantaine",
         "songPath": "./Songs/19-XX/1621 - Pory - La Cinquantaine",
         "banner": "./Songs/19-XX/1621 - Pory - La Cinquantaine/1621.webp",
         "sscPath": "./Songs/19-XX/1621 - Pory - La Cinquantaine/1621 - Pory - La Cinquantaine.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 19,
+        "stageIndex": 0,
+        "songIndex": 407,
         "name": "1626 - Quree - Poseidon",
         "songPath": "./Songs/19-XX/1626 - Quree - Poseidon",
         "banner": "./Songs/19-XX/1626 - Quree - Poseidon/1626.webp",
         "sscPath": "./Songs/19-XX/1626 - Quree - Poseidon/1626 - Quree - Poseidon.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 37,
+        "stageIndex": 0,
+        "songIndex": 425,
         "name": "1648 - CHUNG HA - Snapping",
         "songPath": "./Songs/19-XX/1648 - CHUNG HA - Snapping",
         "banner": "./Songs/19-XX/1648 - CHUNG HA - Snapping/1648.webp",
         "sscPath": "./Songs/19-XX/1648 - CHUNG HA - Snapping/1648 - CHUNG HA - Snapping.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 41,
+        "stageIndex": 0,
+        "songIndex": 429,
         "name": "1652 - SUNMI - Gashina",
         "songPath": "./Songs/19-XX/1652 - SUNMI - Gashina",
         "banner": "./Songs/19-XX/1652 - SUNMI - Gashina/1652.webp",
         "sscPath": "./Songs/19-XX/1652 - SUNMI - Gashina/1652 - SUNMI - Gashina.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 44,
+        "stageIndex": 0,
+        "songIndex": 432,
         "name": "1655 - MOMOLAND - BBoom BBoom",
         "songPath": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom",
         "banner": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom/1655.webp",
         "sscPath": "./Songs/19-XX/1655 - MOMOLAND - BBoom BBoom/1655 - MOMOLAND - BBoom BBoom.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 47,
+        "stageIndex": 0,
+        "songIndex": 435,
         "name": "1658 - MAMAMOO - Starry Night",
         "songPath": "./Songs/19-XX/1658 - MAMAMOO - Starry Night",
         "banner": "./Songs/19-XX/1658 - MAMAMOO - Starry Night/1658.webp",
         "sscPath": "./Songs/19-XX/1658 - MAMAMOO - Starry Night/1658 - MAMAMOO - Starry Night.ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 61,
+        "stageIndex": 0,
+        "songIndex": 449,
         "name": "1672 - Quree - Broken Karma (PIU EDIT)",
         "songPath": "./Songs/19-XX/1672 - Quree - Broken Karma (PIU EDIT)",
         "banner": "./Songs/19-XX/1672 - Quree - Broken Karma (PIU EDIT)/1672.webp",
         "sscPath": "./Songs/19-XX/1672 - Quree - Broken Karma (PIU EDIT)/1672 - Quree - Broken Karma (PIU EDIT).ssc"
     },
     {
-        "stageIndex": 14,
-        "songIndex": 80,
+        "stageIndex": 0,
+        "songIndex": 468,
         "name": "1691 - Lunatic Sounds - Dement ~After Legend~",
         "songPath": "./Songs/19-XX/1691 - Lunatic Sounds - Dement ~After Legend~",
         "banner": "./Songs/19-XX/1691 - Lunatic Sounds - Dement ~After Legend~/1691.webp",
         "sscPath": "./Songs/19-XX/1691 - Lunatic Sounds - Dement ~After Legend~/1691 - Lunatic Sounds - Dement ~After Legend~.ssc"
     },
     {
-        "stageIndex": 15,
-        "songIndex": 93,
+        "stageIndex": 0,
+        "songIndex": 601,
         "name": "18230 - Altale",
         "songPath": "./Songs/21-PHOENIX/18230 - Altale",
         "banner": "./Songs/21-PHOENIX/18230 - Altale/Altale.png",
         "sscPath": "./Songs/21-PHOENIX/18230 - Altale/Altale.ssc"
     },
     {
-        "stageIndex": 10,
-        "songIndex": 94,
+        "stageIndex": 0,
+        "songIndex": 157,
         "name": "F29 - Final Audition Episode 2-X",
         "songPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X",
         "banner": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X/F29.webp",

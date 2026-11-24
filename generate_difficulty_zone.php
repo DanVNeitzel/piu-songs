@@ -312,9 +312,8 @@ try {
         'duplicatesSkipped' => 0,
     ];
 
+    $seenSongPaths = [];
     foreach (($songsRoot['children'] ?? []) as $stageIndex => $stage) {
-        // Filter channels reference songs already present in their source packs.
-        if (!empty($stage['virtual'])) continue;
         $stageName = $stage['name'] ?? ('Categoria ' . $stageIndex);
         $stageStats = [
             'songs' => 0,
@@ -329,6 +328,11 @@ try {
         outputLine("<p>Escaneando musicas e arquivos .ssc...</p>");
 
         foreach (($stage['children'] ?? []) as $songIndex => $song) {
+            // A filter may also contain the only reference to a newly imported song.
+            // Deduplicate actual paths instead of dropping every virtual channel.
+            $songPath = $song['path'] ?? '';
+            if ($songPath !== '' && isset($seenSongPaths[$songPath])) continue;
+            if ($songPath !== '') $seenSongPaths[$songPath] = true;
             $sscFiles = songSscFiles($song);
             if (empty($sscFiles)) {
                 $stageStats['withoutSsc']++;
