@@ -1609,6 +1609,110 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 762,
+        "name": "19020 - BLAZOR",
+        "songPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR",
+        "banner": "./Songs/22-PHOENIX 2/19020 - BLAZOR/BLAZOR_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR/19020 - BLAZOR.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 763,
+        "name": "19025 - Until Defined",
+        "songPath": "./Songs/22-PHOENIX 2/19025 - Until Defined",
+        "banner": "./Songs/22-PHOENIX 2/19025 - Until Defined/Until Defined_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19025 - Until Defined/19025 - Until Defined.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 768,
+        "name": "19070 - Legendary Dominion",
+        "songPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion",
+        "banner": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/Legendary Dominion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/19070 - Legendary Dominion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 769,
+        "name": "19095 - The Stranger",
+        "songPath": "./Songs/22-PHOENIX 2/19095 - The Stranger",
+        "banner": "./Songs/22-PHOENIX 2/19095 - The Stranger/The Stranger_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19095 - The Stranger/19095 - The Stranger.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 771,
+        "name": "19105 - NEMONEMO",
+        "songPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO",
+        "banner": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/NEMONEMO_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/19105 - NEMONEMO.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 772,
+        "name": "19110 - Do the Dance",
+        "songPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance",
+        "banner": "./Songs/22-PHOENIX 2/19110 - Do the Dance/Do the Dance_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance/19110 - Do the Dance.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 776,
+        "name": "19140 - DIE ANOTHER DAY",
+        "songPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY",
+        "banner": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 777,
+        "name": "19240 - PHYSALIS",
+        "songPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS",
+        "banner": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/PHYSALIS_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/19240 - PHYSALIS.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 781,
+        "name": "19260 - QUATTUORUX",
+        "songPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX",
+        "banner": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/QUATTUORUX_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/19260 - QUATTUORUX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 782,
+        "name": "19270 - NightTheater",
+        "songPath": "./Songs/22-PHOENIX 2/19270 - NightTheater",
+        "banner": "./Songs/22-PHOENIX 2/19270 - NightTheater/NightTheater_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19270 - NightTheater/19270 - NightTheater.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 784,
+        "name": "19285 - Assault TAXI",
+        "songPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI",
+        "banner": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/Assault TAXI_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/19285 - Assault TAXI.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 786,
+        "name": "19450 - Dreamchasers",
+        "songPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers",
+        "banner": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/Dreamchasers_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/19450 - Dreamchasers.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 20,
         "name": "20 Final Audition Episode 1",
         "songPath": "./Songs/08-1ST~ZERO/20 Final Audition Episode 1",

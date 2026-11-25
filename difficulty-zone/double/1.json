@@ -6,5 +6,13 @@
         "songPath": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes",
         "banner": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes/1026.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1026 - Turkey March Minimal Tunes/1026 - Turkey March Minimal Tunes.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
     }
 ]

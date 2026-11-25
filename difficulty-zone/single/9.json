@@ -1057,6 +1057,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 760,
+        "name": "19013 - Falling Stars",
+        "songPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars",
+        "banner": "./Songs/22-PHOENIX 2/19013 - Falling Stars/Falling Stars_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars/19013 - Falling Stars.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 769,
+        "name": "19095 - The Stranger",
+        "songPath": "./Songs/22-PHOENIX 2/19095 - The Stranger",
+        "banner": "./Songs/22-PHOENIX 2/19095 - The Stranger/The Stranger_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19095 - The Stranger/19095 - The Stranger.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 776,
+        "name": "19140 - DIE ANOTHER DAY",
+        "songPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY",
+        "banner": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 27,
         "name": "27 Oh Rosa",
         "songPath": "./Songs/08-1ST~ZERO/27 Oh Rosa",

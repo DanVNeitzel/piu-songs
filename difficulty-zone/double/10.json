@@ -601,6 +601,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 769,
+        "name": "19095 - The Stranger",
+        "songPath": "./Songs/22-PHOENIX 2/19095 - The Stranger",
+        "banner": "./Songs/22-PHOENIX 2/19095 - The Stranger/The Stranger_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19095 - The Stranger/19095 - The Stranger.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",

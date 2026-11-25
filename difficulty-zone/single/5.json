@@ -305,7 +305,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 814,
+        "songIndex": 845,
         "name": "(18)E00001210-Kitty Cat",
         "songPath": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat",
         "banner": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat/1210.png",
@@ -1326,6 +1326,38 @@
         "songPath": "./Songs/08-1ST~ZERO/19 Another Truth",
         "banner": "./Songs/08-1ST~ZERO/19 Another Truth/Title.png",
         "sscPath": "./Songs/08-1ST~ZERO/19 Another Truth/Another Truth.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 772,
+        "name": "19110 - Do the Dance",
+        "songPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance",
+        "banner": "./Songs/22-PHOENIX 2/19110 - Do the Dance/Do the Dance_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance/19110 - Do the Dance.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 774,
+        "name": "19130 - 404 (New Era)",
+        "songPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)",
+        "banner": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/404 (New Era)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/19130 - 404 (New Era).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 775,
+        "name": "19135 - CALL ME BACK",
+        "songPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK",
+        "banner": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 776,
+        "name": "19140 - DIE ANOTHER DAY",
+        "songPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY",
+        "banner": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY.ssc"
     },
     {
         "stageIndex": 0,

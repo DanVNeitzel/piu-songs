@@ -769,6 +769,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 21,
         "name": "21 Extra BanYa Remix",
         "songPath": "./Songs/08-1ST~ZERO/21 Extra BanYa Remix",

@@ -1729,6 +1729,102 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 758,
+        "name": "19005 - Mephitz",
+        "songPath": "./Songs/22-PHOENIX 2/19005 - Mephitz",
+        "banner": "./Songs/22-PHOENIX 2/19005 - Mephitz/Mephitz_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19005 - Mephitz/19005 - Mephitz.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 759,
+        "name": "19010 - Punishment Restaurant",
+        "songPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant",
+        "banner": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/Punishment Restaurant_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/19010 - Punishment Restaurant.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 762,
+        "name": "19020 - BLAZOR",
+        "songPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR",
+        "banner": "./Songs/22-PHOENIX 2/19020 - BLAZOR/BLAZOR_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR/19020 - BLAZOR.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 764,
+        "name": "19030 - B3",
+        "songPath": "./Songs/22-PHOENIX 2/19030 - B3",
+        "banner": "./Songs/22-PHOENIX 2/19030 - B3/B3_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19030 - B3/B3.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 770,
+        "name": "19100 - T.B.H",
+        "songPath": "./Songs/22-PHOENIX 2/19100 - T.B.H",
+        "banner": "./Songs/22-PHOENIX 2/19100 - T.B.H/T.B.H_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19100 - T.B.H/19100 - T.B.H.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 772,
+        "name": "19110 - Do the Dance",
+        "songPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance",
+        "banner": "./Songs/22-PHOENIX 2/19110 - Do the Dance/Do the Dance_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance/19110 - Do the Dance.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 775,
+        "name": "19135 - CALL ME BACK",
+        "songPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK",
+        "banner": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 785,
+        "name": "19290 - FREEDOM DiVE",
+        "songPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE",
+        "banner": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/FREEDOM DiVE_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/19290 - FREEDOM DiVE.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 26,
         "name": "26 Beethoven Virus",
         "songPath": "./Songs/08-1ST~ZERO/26 Beethoven Virus",

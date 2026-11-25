@@ -550,5 +550,69 @@
         "songPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada",
         "banner": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.png",
         "sscPath": "./Songs/21-PHOENIX/18A60 - Murdoch vs Otada/Murdoch vs Otada.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 768,
+        "name": "19070 - Legendary Dominion",
+        "songPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion",
+        "banner": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/Legendary Dominion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/19070 - Legendary Dominion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 769,
+        "name": "19095 - The Stranger",
+        "songPath": "./Songs/22-PHOENIX 2/19095 - The Stranger",
+        "banner": "./Songs/22-PHOENIX 2/19095 - The Stranger/The Stranger_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19095 - The Stranger/19095 - The Stranger.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 783,
+        "name": "19280 - INFiNiTE ENERZY -Overdoze-",
+        "songPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-",
+        "banner": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/INFiNiTE ENERZY -Overdoze-_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/19280 - INFiNiTE ENERZY -Overdoze-.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 785,
+        "name": "19290 - FREEDOM DiVE",
+        "songPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE",
+        "banner": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/FREEDOM DiVE_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/19290 - FREEDOM DiVE.ssc"
     }
 ]

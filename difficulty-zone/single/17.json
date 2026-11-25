@@ -1809,6 +1809,86 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 759,
+        "name": "19010 - Punishment Restaurant",
+        "songPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant",
+        "banner": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/Punishment Restaurant_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/19010 - Punishment Restaurant.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 760,
+        "name": "19013 - Falling Stars",
+        "songPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars",
+        "banner": "./Songs/22-PHOENIX 2/19013 - Falling Stars/Falling Stars_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars/19013 - Falling Stars.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 770,
+        "name": "19100 - T.B.H",
+        "songPath": "./Songs/22-PHOENIX 2/19100 - T.B.H",
+        "banner": "./Songs/22-PHOENIX 2/19100 - T.B.H/T.B.H_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19100 - T.B.H/19100 - T.B.H.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 772,
+        "name": "19110 - Do the Dance",
+        "songPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance",
+        "banner": "./Songs/22-PHOENIX 2/19110 - Do the Dance/Do the Dance_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance/19110 - Do the Dance.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 776,
+        "name": "19140 - DIE ANOTHER DAY",
+        "songPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY",
+        "banner": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 785,
+        "name": "19290 - FREEDOM DiVE",
+        "songPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE",
+        "banner": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/FREEDOM DiVE_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/19290 - FREEDOM DiVE.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 786,
+        "name": "19450 - Dreamchasers",
+        "songPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers",
+        "banner": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/Dreamchasers_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/19450 - Dreamchasers.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 26,
         "name": "26 Beethoven Virus",
         "songPath": "./Songs/08-1ST~ZERO/26 Beethoven Virus",

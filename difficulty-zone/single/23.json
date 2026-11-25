@@ -673,6 +673,54 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 762,
+        "name": "19020 - BLAZOR",
+        "songPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR",
+        "banner": "./Songs/22-PHOENIX 2/19020 - BLAZOR/BLAZOR_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR/19020 - BLAZOR.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 781,
+        "name": "19260 - QUATTUORUX",
+        "songPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX",
+        "banner": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/QUATTUORUX_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/19260 - QUATTUORUX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 783,
+        "name": "19280 - INFiNiTE ENERZY -Overdoze-",
+        "songPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-",
+        "banner": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/INFiNiTE ENERZY -Overdoze-_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/19280 - INFiNiTE ENERZY -Overdoze-.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 157,
         "name": "F29 - Final Audition Episode 2-X",
         "songPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X",

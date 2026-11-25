@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 788,
+        "songIndex": 819,
         "name": "(03)E0000112-Another Truth",
         "songPath": "./Songs/ORIGINAL/(03)E0000112-Another Truth",
         "banner": "./Songs/ORIGINAL/(03)E0000112-Another Truth/112.PNG",
@@ -1302,6 +1302,30 @@
         "songPath": "./Songs/21-PHOENIX/18A90 - Crimson hood",
         "banner": "./Songs/21-PHOENIX/18A90 - Crimson hood/Crimson hood.png",
         "sscPath": "./Songs/21-PHOENIX/18A90 - Crimson hood/Crimson hood.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 759,
+        "name": "19010 - Punishment Restaurant",
+        "songPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant",
+        "banner": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/Punishment Restaurant_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/19010 - Punishment Restaurant.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 772,
+        "name": "19110 - Do the Dance",
+        "songPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance",
+        "banner": "./Songs/22-PHOENIX 2/19110 - Do the Dance/Do the Dance_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance/19110 - Do the Dance.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 775,
+        "name": "19135 - CALL ME BACK",
+        "songPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK",
+        "banner": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK.ssc"
     },
     {
         "stageIndex": 0,

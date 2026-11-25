@@ -913,6 +913,54 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 760,
+        "name": "19013 - Falling Stars",
+        "songPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars",
+        "banner": "./Songs/22-PHOENIX 2/19013 - Falling Stars/Falling Stars_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars/19013 - Falling Stars.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 780,
+        "name": "19250 - Crash-Landing Rendezvous",
+        "songPath": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous",
+        "banner": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous/Crash-Landing Rendezvous_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous/19250 - Crash-Landing Rendezvous.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 781,
+        "name": "19260 - QUATTUORUX",
+        "songPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX",
+        "banner": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/QUATTUORUX_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/19260 - QUATTUORUX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 783,
+        "name": "19280 - INFiNiTE ENERZY -Overdoze-",
+        "songPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-",
+        "banner": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/INFiNiTE ENERZY -Overdoze-_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/19280 - INFiNiTE ENERZY -Overdoze-.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 784,
+        "name": "19285 - Assault TAXI",
+        "songPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI",
+        "banner": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/Assault TAXI_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/19285 - Assault TAXI.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 785,
+        "name": "19290 - FREEDOM DiVE",
+        "songPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE",
+        "banner": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/FREEDOM DiVE_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/19290 - FREEDOM DiVE.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 20,
         "name": "20 Final Audition Episode 1",
         "songPath": "./Songs/08-1ST~ZERO/20 Final Audition Episode 1",

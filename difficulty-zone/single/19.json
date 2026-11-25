@@ -1353,6 +1353,86 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 763,
+        "name": "19025 - Until Defined",
+        "songPath": "./Songs/22-PHOENIX 2/19025 - Until Defined",
+        "banner": "./Songs/22-PHOENIX 2/19025 - Until Defined/Until Defined_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19025 - Until Defined/19025 - Until Defined.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 764,
+        "name": "19030 - B3",
+        "songPath": "./Songs/22-PHOENIX 2/19030 - B3",
+        "banner": "./Songs/22-PHOENIX 2/19030 - B3/B3_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19030 - B3/B3.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 774,
+        "name": "19130 - 404 (New Era)",
+        "songPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)",
+        "banner": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/404 (New Era)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/19130 - 404 (New Era).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 777,
+        "name": "19240 - PHYSALIS",
+        "songPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS",
+        "banner": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/PHYSALIS_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/19240 - PHYSALIS.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 778,
+        "name": "19245 - L (PIU Edit)",
+        "songPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)",
+        "banner": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 780,
+        "name": "19250 - Crash-Landing Rendezvous",
+        "songPath": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous",
+        "banner": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous/Crash-Landing Rendezvous_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous/19250 - Crash-Landing Rendezvous.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 781,
+        "name": "19260 - QUATTUORUX",
+        "songPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX",
+        "banner": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/QUATTUORUX_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/19260 - QUATTUORUX.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 20,
         "name": "20 Final Audition Episode 1",
         "songPath": "./Songs/08-1ST~ZERO/20 Final Audition Episode 1",

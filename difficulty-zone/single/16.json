@@ -1697,6 +1697,110 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 758,
+        "name": "19005 - Mephitz",
+        "songPath": "./Songs/22-PHOENIX 2/19005 - Mephitz",
+        "banner": "./Songs/22-PHOENIX 2/19005 - Mephitz/Mephitz_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19005 - Mephitz/19005 - Mephitz.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 764,
+        "name": "19030 - B3",
+        "songPath": "./Songs/22-PHOENIX 2/19030 - B3",
+        "banner": "./Songs/22-PHOENIX 2/19030 - B3/B3_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19030 - B3/B3.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 768,
+        "name": "19070 - Legendary Dominion",
+        "songPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion",
+        "banner": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/Legendary Dominion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/19070 - Legendary Dominion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 774,
+        "name": "19130 - 404 (New Era)",
+        "songPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)",
+        "banner": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/404 (New Era)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/19130 - 404 (New Era).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 775,
+        "name": "19135 - CALL ME BACK",
+        "songPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK",
+        "banner": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 778,
+        "name": "19245 - L (PIU Edit)",
+        "songPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)",
+        "banner": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 780,
+        "name": "19250 - Crash-Landing Rendezvous",
+        "songPath": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous",
+        "banner": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous/Crash-Landing Rendezvous_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19250 - Crash-Landing Rendezvous/19250 - Crash-Landing Rendezvous.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 783,
+        "name": "19280 - INFiNiTE ENERZY -Overdoze-",
+        "songPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-",
+        "banner": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/INFiNiTE ENERZY -Overdoze-_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/19280 - INFiNiTE ENERZY -Overdoze-.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 26,
         "name": "26 Beethoven Virus",
         "songPath": "./Songs/08-1ST~ZERO/26 Beethoven Virus",

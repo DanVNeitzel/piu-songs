@@ -126,5 +126,21 @@
         "songPath": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory",
         "banner": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory/Hymn of Golden Glory.png",
         "sscPath": "./Songs/21-PHOENIX/18A40 - Hymn of Golden Glory/Hymn of Golden Glory.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 768,
+        "name": "19070 - Legendary Dominion",
+        "songPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion",
+        "banner": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/Legendary Dominion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19070 - Legendary Dominion/19070 - Legendary Dominion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 785,
+        "name": "19290 - FREEDOM DiVE",
+        "songPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE",
+        "banner": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/FREEDOM DiVE_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/19290 - FREEDOM DiVE.ssc"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 787,
+        "songIndex": 818,
         "name": "(02)E00001561-PICK ME",
         "songPath": "./Songs/ORIGINAL/(02)E00001561-PICK ME",
         "banner": "./Songs/ORIGINAL/(02)E00001561-PICK ME/1561.png",
@@ -1990,6 +1990,62 @@
         "songPath": "./Songs/08-1ST~ZERO/19 Chicken Wing",
         "banner": "./Songs/08-1ST~ZERO/19 Chicken Wing/Title.png",
         "sscPath": "./Songs/08-1ST~ZERO/19 Chicken Wing/Chiken Wing.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 759,
+        "name": "19010 - Punishment Restaurant",
+        "songPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant",
+        "banner": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/Punishment Restaurant_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/19010 - Punishment Restaurant.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 769,
+        "name": "19095 - The Stranger",
+        "songPath": "./Songs/22-PHOENIX 2/19095 - The Stranger",
+        "banner": "./Songs/22-PHOENIX 2/19095 - The Stranger/The Stranger_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19095 - The Stranger/19095 - The Stranger.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 770,
+        "name": "19100 - T.B.H",
+        "songPath": "./Songs/22-PHOENIX 2/19100 - T.B.H",
+        "banner": "./Songs/22-PHOENIX 2/19100 - T.B.H/T.B.H_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19100 - T.B.H/19100 - T.B.H.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 771,
+        "name": "19105 - NEMONEMO",
+        "songPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO",
+        "banner": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/NEMONEMO_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/19105 - NEMONEMO.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
     },
     {
         "stageIndex": 0,

@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 776,
+        "songIndex": 807,
         "name": "(01)E00001661-Bon Bon Chocolat",
         "songPath": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat",
         "banner": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat/1661.png",
@@ -473,7 +473,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 802,
+        "songIndex": 833,
         "name": "(10)E0000B19-Canon D",
         "songPath": "./Songs/ORIGINAL/(10)E0000B19-Canon D",
         "banner": "./Songs/ORIGINAL/(10)E0000B19-Canon D/B19.PNG",
@@ -481,7 +481,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 807,
+        "songIndex": 838,
         "name": "(13)E0000405-Mr. Larpus",
         "songPath": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus",
         "banner": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus/405.PNG",
@@ -489,7 +489,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 814,
+        "songIndex": 845,
         "name": "(18)E00001210-Kitty Cat",
         "songPath": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat",
         "banner": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat/1210.png",
@@ -689,7 +689,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 817,
+        "songIndex": 848,
         "name": "(20)E00001481-Bad Apple!! feat. Nomico",
         "songPath": "./Songs/ORIGINAL/(20)E00001481-Bad Apple!! feat. Nomico",
         "banner": "./Songs/ORIGINAL/(20)E00001481-Bad Apple!! feat. Nomico/1481.png",
@@ -1590,6 +1590,38 @@
         "songPath": "./Songs/08-1ST~ZERO/19 Another Truth",
         "banner": "./Songs/08-1ST~ZERO/19 Another Truth/Title.png",
         "sscPath": "./Songs/08-1ST~ZERO/19 Another Truth/Another Truth.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 772,
+        "name": "19110 - Do the Dance",
+        "songPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance",
+        "banner": "./Songs/22-PHOENIX 2/19110 - Do the Dance/Do the Dance_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19110 - Do the Dance/19110 - Do the Dance.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 774,
+        "name": "19130 - 404 (New Era)",
+        "songPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)",
+        "banner": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/404 (New Era)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/19130 - 404 (New Era).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 775,
+        "name": "19135 - CALL ME BACK",
+        "songPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK",
+        "banner": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19135 - CALL ME BACK/CALL ME BACK.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 776,
+        "name": "19140 - DIE ANOTHER DAY",
+        "songPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY",
+        "banner": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY.ssc"
     },
     {
         "stageIndex": 0,

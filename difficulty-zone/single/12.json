@@ -105,7 +105,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 807,
+        "songIndex": 838,
         "name": "(13)E0000405-Mr. Larpus",
         "songPath": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus",
         "banner": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus/405.PNG",
@@ -902,6 +902,62 @@
         "songPath": "./Songs/21-PHOENIX/18F65 - [Short Cut] Phoenix Opening",
         "banner": "./Songs/21-PHOENIX/18F65 - [Short Cut] Phoenix Opening/[Short Cut] Phoenix Opening 2023.png",
         "sscPath": "./Songs/21-PHOENIX/18F65 - [Short Cut] Phoenix Opening/[Short Cut] Phoenix Opening.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 758,
+        "name": "19005 - Mephitz",
+        "songPath": "./Songs/22-PHOENIX 2/19005 - Mephitz",
+        "banner": "./Songs/22-PHOENIX 2/19005 - Mephitz/Mephitz_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19005 - Mephitz/19005 - Mephitz.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 763,
+        "name": "19025 - Until Defined",
+        "songPath": "./Songs/22-PHOENIX 2/19025 - Until Defined",
+        "banner": "./Songs/22-PHOENIX 2/19025 - Until Defined/Until Defined_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19025 - Until Defined/19025 - Until Defined.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 778,
+        "name": "19245 - L (PIU Edit)",
+        "songPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)",
+        "banner": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 782,
+        "name": "19270 - NightTheater",
+        "songPath": "./Songs/22-PHOENIX 2/19270 - NightTheater",
+        "banner": "./Songs/22-PHOENIX 2/19270 - NightTheater/NightTheater_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19270 - NightTheater/19270 - NightTheater.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 786,
+        "name": "19450 - Dreamchasers",
+        "songPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers",
+        "banner": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/Dreamchasers_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/19450 - Dreamchasers.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
     },
     {
         "stageIndex": 0,

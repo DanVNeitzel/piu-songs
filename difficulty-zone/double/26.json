@@ -329,6 +329,38 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 777,
+        "name": "19240 - PHYSALIS",
+        "songPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS",
+        "banner": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/PHYSALIS_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/19240 - PHYSALIS.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 781,
+        "name": "19260 - QUATTUORUX",
+        "songPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX",
+        "banner": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/QUATTUORUX_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/19260 - QUATTUORUX.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 136,
         "name": "F08 - Only You",
         "songPath": "./Songs/13-NX~NXA/F08 - Only You",

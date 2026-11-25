@@ -1249,6 +1249,134 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 759,
+        "name": "19010 - Punishment Restaurant",
+        "songPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant",
+        "banner": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/Punishment Restaurant_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/19010 - Punishment Restaurant.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 763,
+        "name": "19025 - Until Defined",
+        "songPath": "./Songs/22-PHOENIX 2/19025 - Until Defined",
+        "banner": "./Songs/22-PHOENIX 2/19025 - Until Defined/Until Defined_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19025 - Until Defined/19025 - Until Defined.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 764,
+        "name": "19030 - B3",
+        "songPath": "./Songs/22-PHOENIX 2/19030 - B3",
+        "banner": "./Songs/22-PHOENIX 2/19030 - B3/B3_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19030 - B3/B3.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 765,
+        "name": "19040 - Digitalis",
+        "songPath": "./Songs/22-PHOENIX 2/19040 - Digitalis",
+        "banner": "./Songs/22-PHOENIX 2/19040 - Digitalis/Digitalis_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19040 - Digitalis/19040 - Digitalis.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 770,
+        "name": "19100 - T.B.H",
+        "songPath": "./Songs/22-PHOENIX 2/19100 - T.B.H",
+        "banner": "./Songs/22-PHOENIX 2/19100 - T.B.H/T.B.H_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19100 - T.B.H/19100 - T.B.H.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 771,
+        "name": "19105 - NEMONEMO",
+        "songPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO",
+        "banner": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/NEMONEMO_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/19105 - NEMONEMO.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 774,
+        "name": "19130 - 404 (New Era)",
+        "songPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)",
+        "banner": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/404 (New Era)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/19130 - 404 (New Era).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 782,
+        "name": "19270 - NightTheater",
+        "songPath": "./Songs/22-PHOENIX 2/19270 - NightTheater",
+        "banner": "./Songs/22-PHOENIX 2/19270 - NightTheater/NightTheater_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19270 - NightTheater/19270 - NightTheater.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 783,
+        "name": "19280 - INFiNiTE ENERZY -Overdoze-",
+        "songPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-",
+        "banner": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/INFiNiTE ENERZY -Overdoze-_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/19280 - INFiNiTE ENERZY -Overdoze-.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 784,
+        "name": "19285 - Assault TAXI",
+        "songPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI",
+        "banner": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/Assault TAXI_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/19285 - Assault TAXI.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 786,
+        "name": "19450 - Dreamchasers",
+        "songPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers",
+        "banner": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/Dreamchasers_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/19450 - Dreamchasers.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 21,
         "name": "21 Extra BanYa Remix",
         "songPath": "./Songs/08-1ST~ZERO/21 Extra BanYa Remix",

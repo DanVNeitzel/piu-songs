@@ -310,5 +310,45 @@
         "songPath": "./Songs/21-PHOENIX/18A99 - Doppelganger",
         "banner": "./Songs/21-PHOENIX/18A99 - Doppelganger/Doppelganger.png",
         "sscPath": "./Songs/21-PHOENIX/18A99 - Doppelganger/Doppelganger.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 777,
+        "name": "19240 - PHYSALIS",
+        "songPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS",
+        "banner": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/PHYSALIS_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/19240 - PHYSALIS.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 778,
+        "name": "19245 - L (PIU Edit)",
+        "songPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)",
+        "banner": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 781,
+        "name": "19260 - QUATTUORUX",
+        "songPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX",
+        "banner": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/QUATTUORUX_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/19260 - QUATTUORUX.ssc"
     }
 ]

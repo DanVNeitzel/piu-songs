@@ -1001,6 +1001,78 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 763,
+        "name": "19025 - Until Defined",
+        "songPath": "./Songs/22-PHOENIX 2/19025 - Until Defined",
+        "banner": "./Songs/22-PHOENIX 2/19025 - Until Defined/Until Defined_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19025 - Until Defined/19025 - Until Defined.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 774,
+        "name": "19130 - 404 (New Era)",
+        "songPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)",
+        "banner": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/404 (New Era)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/19130 - 404 (New Era).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 776,
+        "name": "19140 - DIE ANOTHER DAY",
+        "songPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY",
+        "banner": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 784,
+        "name": "19285 - Assault TAXI",
+        "songPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI",
+        "banner": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/Assault TAXI_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/19285 - Assault TAXI.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 20,
         "name": "20 Final Audition Episode 1",
         "songPath": "./Songs/08-1ST~ZERO/20 Final Audition Episode 1",

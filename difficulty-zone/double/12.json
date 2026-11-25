@@ -793,6 +793,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 764,
+        "name": "19030 - B3",
+        "songPath": "./Songs/22-PHOENIX 2/19030 - B3",
+        "banner": "./Songs/22-PHOENIX 2/19030 - B3/B3_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19030 - B3/B3.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 33,
         "name": "33 Mistake",
         "songPath": "./Songs/08-1ST~ZERO/33 Mistake",

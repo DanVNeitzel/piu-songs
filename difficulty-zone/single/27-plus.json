@@ -14,5 +14,13 @@
         "songPath": "./Songs/16-FIESTA~FIESTA2/1015 - Fire",
         "banner": "./Songs/16-FIESTA~FIESTA2/1015 - Fire/1015.webp",
         "sscPath": "./Songs/16-FIESTA~FIESTA2/1015 - Fire/1015 - Fire.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 785,
+        "name": "19290 - FREEDOM DiVE",
+        "songPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE",
+        "banner": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/FREEDOM DiVE_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19290 - FREEDOM DiVE/19290 - FREEDOM DiVE.ssc"
     }
 ]

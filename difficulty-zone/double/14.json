@@ -809,6 +809,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 759,
+        "name": "19010 - Punishment Restaurant",
+        "songPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant",
+        "banner": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/Punishment Restaurant_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/19010 - Punishment Restaurant.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 782,
+        "name": "19270 - NightTheater",
+        "songPath": "./Songs/22-PHOENIX 2/19270 - NightTheater",
+        "banner": "./Songs/22-PHOENIX 2/19270 - NightTheater/NightTheater_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19270 - NightTheater/19270 - NightTheater.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 784,
+        "name": "19285 - Assault TAXI",
+        "songPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI",
+        "banner": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/Assault TAXI_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/19285 - Assault TAXI.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 28,
         "name": "28 First Love",
         "songPath": "./Songs/08-1ST~ZERO/28 First Love",

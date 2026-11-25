@@ -1361,6 +1361,94 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 760,
+        "name": "19013 - Falling Stars",
+        "songPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars",
+        "banner": "./Songs/22-PHOENIX 2/19013 - Falling Stars/Falling Stars_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19013 - Falling Stars/19013 - Falling Stars.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 762,
+        "name": "19020 - BLAZOR",
+        "songPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR",
+        "banner": "./Songs/22-PHOENIX 2/19020 - BLAZOR/BLAZOR_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR/19020 - BLAZOR.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 767,
+        "name": "19060 - OVERNIGHT FLOWER",
+        "songPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER",
+        "banner": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/OVERNIGHT FLOWER_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19060 - OVERNIGHT FLOWER/19060 - OVERNIGHT FLOWER.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 774,
+        "name": "19130 - 404 (New Era)",
+        "songPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)",
+        "banner": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/404 (New Era)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19130 - 404 (New Era)/19130 - 404 (New Era).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 777,
+        "name": "19240 - PHYSALIS",
+        "songPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS",
+        "banner": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/PHYSALIS_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19240 - PHYSALIS/19240 - PHYSALIS.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 784,
+        "name": "19285 - Assault TAXI",
+        "songPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI",
+        "banner": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/Assault TAXI_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19285 - Assault TAXI/19285 - Assault TAXI.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 786,
+        "name": "19450 - Dreamchasers",
+        "songPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers",
+        "banner": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/Dreamchasers_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19450 - Dreamchasers/19450 - Dreamchasers.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 26,
         "name": "26 Beethoven Virus",
         "songPath": "./Songs/08-1ST~ZERO/26 Beethoven Virus",

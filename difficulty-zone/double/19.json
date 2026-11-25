@@ -1161,6 +1161,70 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 769,
+        "name": "19095 - The Stranger",
+        "songPath": "./Songs/22-PHOENIX 2/19095 - The Stranger",
+        "banner": "./Songs/22-PHOENIX 2/19095 - The Stranger/The Stranger_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19095 - The Stranger/19095 - The Stranger.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 771,
+        "name": "19105 - NEMONEMO",
+        "songPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO",
+        "banner": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/NEMONEMO_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/19105 - NEMONEMO.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 776,
+        "name": "19140 - DIE ANOTHER DAY",
+        "songPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY",
+        "banner": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19140 - DIE ANOTHER DAY/DIE ANOTHER DAY.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 778,
+        "name": "19245 - L (PIU Edit)",
+        "songPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)",
+        "banner": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit)_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19245 - L (PIU Edit)/L (PIU Edit).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 782,
+        "name": "19270 - NightTheater",
+        "songPath": "./Songs/22-PHOENIX 2/19270 - NightTheater",
+        "banner": "./Songs/22-PHOENIX 2/19270 - NightTheater/NightTheater_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19270 - NightTheater/19270 - NightTheater.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 783,
+        "name": "19280 - INFiNiTE ENERZY -Overdoze-",
+        "songPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-",
+        "banner": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/INFiNiTE ENERZY -Overdoze-_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19280 - INFiNiTE ENERZY -Overdoze-/19280 - INFiNiTE ENERZY -Overdoze-.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 37,
         "name": "37 Bee",
         "songPath": "./Songs/08-1ST~ZERO/37 Bee",

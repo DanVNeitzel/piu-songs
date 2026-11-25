@@ -345,7 +345,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 802,
+        "songIndex": 833,
         "name": "(10)E0000B19-Canon D",
         "songPath": "./Songs/ORIGINAL/(10)E0000B19-Canon D",
         "banner": "./Songs/ORIGINAL/(10)E0000B19-Canon D/B19.PNG",
@@ -353,7 +353,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 804,
+        "songIndex": 835,
         "name": "(11)E0000711-Winter",
         "songPath": "./Songs/ORIGINAL/(11)E0000711-Winter",
         "banner": "./Songs/ORIGINAL/(11)E0000711-Winter/711.PNG",
@@ -1430,6 +1430,30 @@
         "songPath": "./Songs/21-PHOENIX/18F80 - [Short Cut] PRiMA MATERiA",
         "banner": "./Songs/21-PHOENIX/18F80 - [Short Cut] PRiMA MATERiA/[Short Cut] PRiMA MATERiA.png",
         "sscPath": "./Songs/21-PHOENIX/18F80 - [Short Cut] PRiMA MATERiA/[Short Cut] PRiMA MATERiA.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 764,
+        "name": "19030 - B3",
+        "songPath": "./Songs/22-PHOENIX 2/19030 - B3",
+        "banner": "./Songs/22-PHOENIX 2/19030 - B3/B3_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19030 - B3/B3.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
     },
     {
         "stageIndex": 0,

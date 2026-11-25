@@ -161,7 +161,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 805,
+        "songIndex": 836,
         "name": "(11)E0000736-Csikos Post",
         "songPath": "./Songs/ORIGINAL/(11)E0000736-Csikos Post",
         "banner": "./Songs/ORIGINAL/(11)E0000736-Csikos Post/736.PNG",
@@ -169,7 +169,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 806,
+        "songIndex": 837,
         "name": "(12)E0000505-Beethoven Virus",
         "songPath": "./Songs/ORIGINAL/(12)E0000505-Beethoven Virus",
         "banner": "./Songs/ORIGINAL/(12)E0000505-Beethoven Virus/505.PNG",
@@ -990,6 +990,62 @@
         "songPath": "./Songs/21-PHOENIX/18A70 - wither garden",
         "banner": "./Songs/21-PHOENIX/18A70 - wither garden/wither garden.png",
         "sscPath": "./Songs/21-PHOENIX/18A70 - wither garden/wither garden.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 759,
+        "name": "19010 - Punishment Restaurant",
+        "songPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant",
+        "banner": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/Punishment Restaurant_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19010 - Punishment Restaurant/19010 - Punishment Restaurant.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 761,
+        "name": "19015 - Ghost Bloody Train",
+        "songPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train",
+        "banner": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19015 - Ghost Bloody Train/Ghost Bloody Train.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 762,
+        "name": "19020 - BLAZOR",
+        "songPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR",
+        "banner": "./Songs/22-PHOENIX 2/19020 - BLAZOR/BLAZOR_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19020 - BLAZOR/19020 - BLAZOR.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 764,
+        "name": "19030 - B3",
+        "songPath": "./Songs/22-PHOENIX 2/19030 - B3",
+        "banner": "./Songs/22-PHOENIX 2/19030 - B3/B3_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19030 - B3/B3.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 765,
+        "name": "19040 - Digitalis",
+        "songPath": "./Songs/22-PHOENIX 2/19040 - Digitalis",
+        "banner": "./Songs/22-PHOENIX 2/19040 - Digitalis/Digitalis_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19040 - Digitalis/19040 - Digitalis.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 770,
+        "name": "19100 - T.B.H",
+        "songPath": "./Songs/22-PHOENIX 2/19100 - T.B.H",
+        "banner": "./Songs/22-PHOENIX 2/19100 - T.B.H/T.B.H_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19100 - T.B.H/19100 - T.B.H.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 779,
+        "name": "19249 - Can I friend you on Bassbook lol",
+        "songPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol",
+        "banner": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19249 - Can I friend you on Bassbook lol/Can I friend you on Bassbook lol.ssc"
     },
     {
         "stageIndex": 0,

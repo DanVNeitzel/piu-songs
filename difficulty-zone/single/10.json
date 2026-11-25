@@ -281,7 +281,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 802,
+        "songIndex": 833,
         "name": "(10)E0000B19-Canon D",
         "songPath": "./Songs/ORIGINAL/(10)E0000B19-Canon D",
         "banner": "./Songs/ORIGINAL/(10)E0000B19-Canon D/B19.PNG",
@@ -289,7 +289,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 804,
+        "songIndex": 835,
         "name": "(11)E0000711-Winter",
         "songPath": "./Songs/ORIGINAL/(11)E0000711-Winter",
         "banner": "./Songs/ORIGINAL/(11)E0000711-Winter/711.PNG",
@@ -297,7 +297,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 816,
+        "songIndex": 847,
         "name": "(19)E00001122-Allegro Con Fuoco",
         "songPath": "./Songs/ORIGINAL/(19)E00001122-Allegro Con Fuoco",
         "banner": "./Songs/ORIGINAL/(19)E00001122-Allegro Con Fuoco/1122.PNG",
@@ -1014,6 +1014,46 @@
         "songPath": "./Songs/08-1ST~ZERO/19 Chicken Wing",
         "banner": "./Songs/08-1ST~ZERO/19 Chicken Wing/Title.png",
         "sscPath": "./Songs/08-1ST~ZERO/19 Chicken Wing/Chiken Wing.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 757,
+        "name": "19001 - Enjoy the Show",
+        "songPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show",
+        "banner": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/Enjoy The Show_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19001 - Enjoy the Show/19001 - Enjoy the Show.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 766,
+        "name": "19050 - The Last Rebellion",
+        "songPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion",
+        "banner": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/The Last Rebellion_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19050 - The Last Rebellion/19050 - The Last Rebellion.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 771,
+        "name": "19105 - NEMONEMO",
+        "songPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO",
+        "banner": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/NEMONEMO_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19105 - NEMONEMO/19105 - NEMONEMO.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 773,
+        "name": "19120 - BANG BANG",
+        "songPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG",
+        "banner": "./Songs/22-PHOENIX 2/19120 - BANG BANG/BANG BANG_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19120 - BANG BANG/19120 - BANG BANG.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 787,
+        "name": "19460 - SUPER HARAGURO POP",
+        "songPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP",
+        "banner": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/SUPER HARAGURO POP_B.png",
+        "sscPath": "./Songs/22-PHOENIX 2/19460 - SUPER HARAGURO POP/19460 - SUPER HARAGURO POP.ssc"
     },
     {
         "stageIndex": 0,
