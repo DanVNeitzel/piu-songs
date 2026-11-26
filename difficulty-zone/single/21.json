@@ -489,6 +489,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 788,
+        "name": "16A5 - Harmagedon",
+        "songPath": "./Songs/NEW TUNES/16A5 - Harmagedon",
+        "banner": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5.png",
+        "sscPath": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 577,
         "name": "16A7 - uma - The Reverie",
         "songPath": "./Songs/19-XX/16A7 - uma - The Reverie",
@@ -577,6 +585,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 802,
+        "name": "1704 - Autumn Break",
+        "songPath": "./Songs/NEW TUNES/1704 - Autumn Break",
+        "banner": "./Songs/NEW TUNES/1704 - Autumn Break/1704.png",
+        "sscPath": "./Songs/NEW TUNES/1704 - Autumn Break/1704 - Autumn Break.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 803,
+        "name": "1705 - Ultimatum",
+        "songPath": "./Songs/NEW TUNES/1705 - Ultimatum",
+        "banner": "./Songs/NEW TUNES/1705 - Ultimatum/1705.png",
+        "sscPath": "./Songs/NEW TUNES/1705 - Ultimatum/1705 - Ultimatum.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 606,
         "name": "1706 - Highway Chaser",
         "songPath": "./Songs/21-PHOENIX/1706 - Highway Chaser",
@@ -590,6 +614,30 @@
         "songPath": "./Songs/21-PHOENIX/1708 - Binary Star",
         "banner": "./Songs/21-PHOENIX/1708 - Binary Star/1708.png",
         "sscPath": "./Songs/21-PHOENIX/1708 - Binary Star/1708 - Binary Star.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 807,
+        "name": "1709 - Bestest Frenemy!",
+        "songPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!",
+        "banner": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709.png",
+        "sscPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709 - Bestest Frenemy!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 812,
+        "name": "1714 - Quantum Hyperspace",
+        "songPath": "./Songs/NEW TUNES/1714 - Quantum Hyperspace",
+        "banner": "./Songs/NEW TUNES/1714 - Quantum Hyperspace/1714.png",
+        "sscPath": "./Songs/NEW TUNES/1714 - Quantum Hyperspace/1714 - Quantum Hyperspace.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 813,
+        "name": "1715 - New World",
+        "songPath": "./Songs/NEW TUNES/1715 - New World",
+        "banner": "./Songs/NEW TUNES/1715 - New World/1715.png",
+        "sscPath": "./Songs/NEW TUNES/1715 - New World/1715 - New World.ssc"
     },
     {
         "stageIndex": 0,

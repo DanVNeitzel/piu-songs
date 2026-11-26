@@ -305,7 +305,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 845,
+        "songIndex": 889,
         "name": "(18)E00001210-Kitty Cat",
         "songPath": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat",
         "banner": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat/1210.png",
@@ -1086,6 +1086,14 @@
         "songPath": "./Songs/21-PHOENIX/1708 - Binary Star",
         "banner": "./Songs/21-PHOENIX/1708 - Binary Star/1708.png",
         "sscPath": "./Songs/21-PHOENIX/1708 - Binary Star/1708 - Binary Star.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 810,
+        "name": "1712 - Parapara Achuku Dancing2Night",
+        "songPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night",
+        "banner": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712.png",
+        "sscPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712 - Parapara Achuku Dancing2Night.ssc"
     },
     {
         "stageIndex": 0,

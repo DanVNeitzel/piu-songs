@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 807,
+        "songIndex": 851,
         "name": "(01)E00001661-Bon Bon Chocolat",
         "songPath": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat",
         "banner": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat/1661.png",
@@ -201,7 +201,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 845,
+        "songIndex": 889,
         "name": "(18)E00001210-Kitty Cat",
         "songPath": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat",
         "banner": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat/1210.png",

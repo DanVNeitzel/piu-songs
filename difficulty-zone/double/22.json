@@ -601,6 +601,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 816,
+        "name": "1718 - Kokugen Kairou Labyrinth",
+        "songPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth",
+        "banner": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718.png",
+        "sscPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718 - Kokugen Kairou Labyrinth.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 615,
         "name": "1725 - That Kitty (PIU Edit.)",
         "songPath": "./Songs/21-PHOENIX/1725 - That Kitty (PIU Edit.)",

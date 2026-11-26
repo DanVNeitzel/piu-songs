@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 807,
+        "songIndex": 851,
         "name": "(01)E00001661-Bon Bon Chocolat",
         "songPath": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat",
         "banner": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat/1661.png",
@@ -9,7 +9,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 818,
+        "songIndex": 862,
         "name": "(02)E00001561-PICK ME",
         "songPath": "./Songs/ORIGINAL/(02)E00001561-PICK ME",
         "banner": "./Songs/ORIGINAL/(02)E00001561-PICK ME/1561.png",
@@ -457,7 +457,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 834,
+        "songIndex": 878,
         "name": "(11)E0000701-Dr. M",
         "songPath": "./Songs/ORIGINAL/(11)E0000701-Dr. M",
         "banner": "./Songs/ORIGINAL/(11)E0000701-Dr. M/701.PNG",
@@ -1217,6 +1217,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 788,
+        "name": "16A5 - Harmagedon",
+        "songPath": "./Songs/NEW TUNES/16A5 - Harmagedon",
+        "banner": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5.png",
+        "sscPath": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 789,
+        "name": "16A6 - Repentance",
+        "songPath": "./Songs/NEW TUNES/16A6 - Repentance",
+        "banner": "./Songs/NEW TUNES/16A6 - Repentance/16A6.png",
+        "sscPath": "./Songs/NEW TUNES/16A6 - Repentance/16A6 - Repentance.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 597,
         "name": "16F3 - MAX - XX OPENING - SHORT CUT - 2020",
         "songPath": "./Songs/19-XX/16F3 - MAX - XX OPENING - SHORT CUT - 2020",
@@ -1238,6 +1254,46 @@
         "songPath": "./Songs/21-PHOENIX/1706 - Highway Chaser",
         "banner": "./Songs/21-PHOENIX/1706 - Highway Chaser/1706.png",
         "sscPath": "./Songs/21-PHOENIX/1706 - Highway Chaser/1706 - Highway Chaser.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 809,
+        "name": "1711 - NEVER GIVE UP!",
+        "songPath": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!",
+        "banner": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!/1711.png",
+        "sscPath": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!/1711 - NEVER GIVE UP!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 811,
+        "name": "1713 - 2step baby",
+        "songPath": "./Songs/NEW TUNES/1713 - 2step baby",
+        "banner": "./Songs/NEW TUNES/1713 - 2step baby/1713.png",
+        "sscPath": "./Songs/NEW TUNES/1713 - 2step baby/1713 - 2step baby.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 812,
+        "name": "1714 - Quantum Hyperspace",
+        "songPath": "./Songs/NEW TUNES/1714 - Quantum Hyperspace",
+        "banner": "./Songs/NEW TUNES/1714 - Quantum Hyperspace/1714.png",
+        "sscPath": "./Songs/NEW TUNES/1714 - Quantum Hyperspace/1714 - Quantum Hyperspace.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 813,
+        "name": "1715 - New World",
+        "songPath": "./Songs/NEW TUNES/1715 - New World",
+        "banner": "./Songs/NEW TUNES/1715 - New World/1715.png",
+        "sscPath": "./Songs/NEW TUNES/1715 - New World/1715 - New World.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 829,
+        "name": "1746 - Dead Soul",
+        "songPath": "./Songs/NEW TUNES/1746 - Dead Soul",
+        "banner": "./Songs/NEW TUNES/1746 - Dead Soul/1746.png",
+        "sscPath": "./Songs/NEW TUNES/1746 - Dead Soul/1746 - Dead Soul.ssc"
     },
     {
         "stageIndex": 0,

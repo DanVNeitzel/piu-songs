@@ -849,6 +849,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 789,
+        "name": "16A6 - Repentance",
+        "songPath": "./Songs/NEW TUNES/16A6 - Repentance",
+        "banner": "./Songs/NEW TUNES/16A6 - Repentance/16A6.png",
+        "sscPath": "./Songs/NEW TUNES/16A6 - Repentance/16A6 - Repentance.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 577,
         "name": "16A7 - uma - The Reverie",
         "songPath": "./Songs/19-XX/16A7 - uma - The Reverie",
@@ -921,11 +929,43 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 803,
+        "name": "1705 - Ultimatum",
+        "songPath": "./Songs/NEW TUNES/1705 - Ultimatum",
+        "banner": "./Songs/NEW TUNES/1705 - Ultimatum/1705.png",
+        "sscPath": "./Songs/NEW TUNES/1705 - Ultimatum/1705 - Ultimatum.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 607,
         "name": "1708 - Binary Star",
         "songPath": "./Songs/21-PHOENIX/1708 - Binary Star",
         "banner": "./Songs/21-PHOENIX/1708 - Binary Star/1708.png",
         "sscPath": "./Songs/21-PHOENIX/1708 - Binary Star/1708 - Binary Star.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 807,
+        "name": "1709 - Bestest Frenemy!",
+        "songPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!",
+        "banner": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709.png",
+        "sscPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709 - Bestest Frenemy!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 808,
+        "name": "1710 - Lifestreaming",
+        "songPath": "./Songs/NEW TUNES/1710 - Lifestreaming",
+        "banner": "./Songs/NEW TUNES/1710 - Lifestreaming/1710.png",
+        "sscPath": "./Songs/NEW TUNES/1710 - Lifestreaming/1710 - Lifestreaming.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 812,
+        "name": "1714 - Quantum Hyperspace",
+        "songPath": "./Songs/NEW TUNES/1714 - Quantum Hyperspace",
+        "banner": "./Songs/NEW TUNES/1714 - Quantum Hyperspace/1714.png",
+        "sscPath": "./Songs/NEW TUNES/1714 - Quantum Hyperspace/1714 - Quantum Hyperspace.ssc"
     },
     {
         "stageIndex": 0,

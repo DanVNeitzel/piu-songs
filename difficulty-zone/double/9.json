@@ -353,6 +353,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 789,
+        "name": "16A6 - Repentance",
+        "songPath": "./Songs/NEW TUNES/16A6 - Repentance",
+        "banner": "./Songs/NEW TUNES/16A6 - Repentance/16A6.png",
+        "sscPath": "./Songs/NEW TUNES/16A6 - Repentance/16A6 - Repentance.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 622,
         "name": "18000 - VECTOR",
         "songPath": "./Songs/21-PHOENIX/18000 - VECTOR",

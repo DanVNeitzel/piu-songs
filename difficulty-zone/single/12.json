@@ -105,7 +105,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 838,
+        "songIndex": 882,
         "name": "(13)E0000405-Mr. Larpus",
         "songPath": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus",
         "banner": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus/405.PNG",
@@ -545,6 +545,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 788,
+        "name": "16A5 - Harmagedon",
+        "songPath": "./Songs/NEW TUNES/16A5 - Harmagedon",
+        "banner": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5.png",
+        "sscPath": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 586,
         "name": "16D9 -  PRODUCE48 - NEKKOYA (PICK ME) - FULL SONG -",
         "songPath": "./Songs/19-XX/16D9 -  PRODUCE48 - NEKKOYA (PICK ME) - FULL SONG -",
@@ -577,11 +585,27 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 802,
+        "name": "1704 - Autumn Break",
+        "songPath": "./Songs/NEW TUNES/1704 - Autumn Break",
+        "banner": "./Songs/NEW TUNES/1704 - Autumn Break/1704.png",
+        "sscPath": "./Songs/NEW TUNES/1704 - Autumn Break/1704 - Autumn Break.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 608,
         "name": "1717 - About The Universe",
         "songPath": "./Songs/21-PHOENIX/1717 - About The Universe",
         "banner": "./Songs/21-PHOENIX/1717 - About The Universe/1717.png",
         "sscPath": "./Songs/21-PHOENIX/1717 - About The Universe/1717 - About The Universe.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 816,
+        "name": "1718 - Kokugen Kairou Labyrinth",
+        "songPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth",
+        "banner": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718.png",
+        "sscPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718 - Kokugen Kairou Labyrinth.ssc"
     },
     {
         "stageIndex": 0,

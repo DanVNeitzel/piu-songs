@@ -761,11 +761,43 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 807,
+        "name": "1709 - Bestest Frenemy!",
+        "songPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!",
+        "banner": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709.png",
+        "sscPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709 - Bestest Frenemy!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 809,
+        "name": "1711 - NEVER GIVE UP!",
+        "songPath": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!",
+        "banner": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!/1711.png",
+        "sscPath": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!/1711 - NEVER GIVE UP!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 814,
+        "name": "1716 - Fairy Dash",
+        "songPath": "./Songs/NEW TUNES/1716 - Fairy Dash",
+        "banner": "./Songs/NEW TUNES/1716 - Fairy Dash/1716.png",
+        "sscPath": "./Songs/NEW TUNES/1716 - Fairy Dash/1716 - Fairy Dash.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 620,
         "name": "1744 - Ultimate Eyes",
         "songPath": "./Songs/21-PHOENIX/1744 - Ultimate Eyes",
         "banner": "./Songs/21-PHOENIX/1744 - Ultimate Eyes/1744.png",
         "sscPath": "./Songs/21-PHOENIX/1744 - Ultimate Eyes/1744 - Ultimate Eyes.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 830,
+        "name": "1747 - Reveil a",
+        "songPath": "./Songs/NEW TUNES/1747 - Reveil a",
+        "banner": "./Songs/NEW TUNES/1747 - Reveil a/1747.png",
+        "sscPath": "./Songs/NEW TUNES/1747 - Reveil a/1747 - Reveil a.ssc"
     },
     {
         "stageIndex": 0,

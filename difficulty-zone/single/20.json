@@ -641,6 +641,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 791,
+        "name": "16A8 - Solfeggietto",
+        "songPath": "./Songs/NEW TUNES/16A8 - Solfeggietto",
+        "banner": "./Songs/NEW TUNES/16A8 - Solfeggietto/16A8.png",
+        "sscPath": "./Songs/NEW TUNES/16A8 - Solfeggietto/16A8 - Solfeggietto.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 579,
         "name": "16D0 - Applesoda vs MAX - Desaparecer",
         "songPath": "./Songs/19-XX/16D0 - Applesoda vs MAX - Desaparecer",
@@ -673,11 +681,43 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 805,
+        "name": "1707 - Novatail",
+        "songPath": "./Songs/NEW TUNES/1707 - Novatail",
+        "banner": "./Songs/NEW TUNES/1707 - Novatail/1707.png",
+        "sscPath": "./Songs/NEW TUNES/1707 - Novatail/1707 - Novatail.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 607,
         "name": "1708 - Binary Star",
         "songPath": "./Songs/21-PHOENIX/1708 - Binary Star",
         "banner": "./Songs/21-PHOENIX/1708 - Binary Star/1708.png",
         "sscPath": "./Songs/21-PHOENIX/1708 - Binary Star/1708 - Binary Star.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 810,
+        "name": "1712 - Parapara Achuku Dancing2Night",
+        "songPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night",
+        "banner": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712.png",
+        "sscPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712 - Parapara Achuku Dancing2Night.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 814,
+        "name": "1716 - Fairy Dash",
+        "songPath": "./Songs/NEW TUNES/1716 - Fairy Dash",
+        "banner": "./Songs/NEW TUNES/1716 - Fairy Dash/1716.png",
+        "sscPath": "./Songs/NEW TUNES/1716 - Fairy Dash/1716 - Fairy Dash.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 816,
+        "name": "1718 - Kokugen Kairou Labyrinth",
+        "songPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth",
+        "banner": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718.png",
+        "sscPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718 - Kokugen Kairou Labyrinth.ssc"
     },
     {
         "stageIndex": 0,
@@ -726,6 +766,22 @@
         "songPath": "./Songs/21-PHOENIX/1734 - 4NT",
         "banner": "./Songs/21-PHOENIX/1734 - 4NT/1734.png",
         "sscPath": "./Songs/21-PHOENIX/1734 - 4NT/1734 - 4NT.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 829,
+        "name": "1746 - Dead Soul",
+        "songPath": "./Songs/NEW TUNES/1746 - Dead Soul",
+        "banner": "./Songs/NEW TUNES/1746 - Dead Soul/1746.png",
+        "sscPath": "./Songs/NEW TUNES/1746 - Dead Soul/1746 - Dead Soul.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 830,
+        "name": "1747 - Reveil a",
+        "songPath": "./Songs/NEW TUNES/1747 - Reveil a",
+        "banner": "./Songs/NEW TUNES/1747 - Reveil a/1747.png",
+        "sscPath": "./Songs/NEW TUNES/1747 - Reveil a/1747 - Reveil a.ssc"
     },
     {
         "stageIndex": 0,

@@ -561,6 +561,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 788,
+        "name": "16A5 - Harmagedon",
+        "songPath": "./Songs/NEW TUNES/16A5 - Harmagedon",
+        "banner": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5.png",
+        "sscPath": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 798,
+        "name": "1700 - Red Blossom",
+        "songPath": "./Songs/NEW TUNES/1700 - Red Blossom",
+        "banner": "./Songs/NEW TUNES/1700 - Red Blossom/1700.png",
+        "sscPath": "./Songs/NEW TUNES/1700 - Red Blossom/1700 - Red Blossom.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 603,
         "name": "1702 - Nato - God Mode 2.0 feat. Skizzo",
         "songPath": "./Songs/19-XX/1702 - Nato - God Mode 2.0 feat. Skizzo",

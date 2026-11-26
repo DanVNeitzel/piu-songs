@@ -809,6 +809,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 810,
+        "name": "1712 - Parapara Achuku Dancing2Night",
+        "songPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night",
+        "banner": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712.png",
+        "sscPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712 - Parapara Achuku Dancing2Night.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 816,
+        "name": "1718 - Kokugen Kairou Labyrinth",
+        "songPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth",
+        "banner": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718.png",
+        "sscPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718 - Kokugen Kairou Labyrinth.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 612,
         "name": "1722 - Fracture Temporelle",
         "songPath": "./Songs/21-PHOENIX/1722 - Fracture Temporelle",

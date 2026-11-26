@@ -1193,6 +1193,38 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 808,
+        "name": "1710 - Lifestreaming",
+        "songPath": "./Songs/NEW TUNES/1710 - Lifestreaming",
+        "banner": "./Songs/NEW TUNES/1710 - Lifestreaming/1710.png",
+        "sscPath": "./Songs/NEW TUNES/1710 - Lifestreaming/1710 - Lifestreaming.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 809,
+        "name": "1711 - NEVER GIVE UP!",
+        "songPath": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!",
+        "banner": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!/1711.png",
+        "sscPath": "./Songs/NEW TUNES/1711 - NEVER GIVE UP!/1711 - NEVER GIVE UP!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 810,
+        "name": "1712 - Parapara Achuku Dancing2Night",
+        "songPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night",
+        "banner": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712.png",
+        "sscPath": "./Songs/NEW TUNES/1712 - Parapara Achuku Dancing2Night/1712 - Parapara Achuku Dancing2Night.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 814,
+        "name": "1716 - Fairy Dash",
+        "songPath": "./Songs/NEW TUNES/1716 - Fairy Dash",
+        "banner": "./Songs/NEW TUNES/1716 - Fairy Dash/1716.png",
+        "sscPath": "./Songs/NEW TUNES/1716 - Fairy Dash/1716 - Fairy Dash.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 608,
         "name": "1717 - About The Universe",
         "songPath": "./Songs/21-PHOENIX/1717 - About The Universe",
@@ -1238,6 +1270,14 @@
         "songPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)",
         "banner": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)/1724.png",
         "sscPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)/1724 - Human Extinction (PIU Edit.).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 829,
+        "name": "1746 - Dead Soul",
+        "songPath": "./Songs/NEW TUNES/1746 - Dead Soul",
+        "banner": "./Songs/NEW TUNES/1746 - Dead Soul/1746.png",
+        "sscPath": "./Songs/NEW TUNES/1746 - Dead Soul/1746 - Dead Soul.ssc"
     },
     {
         "stageIndex": 0,

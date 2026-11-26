@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 819,
+        "songIndex": 863,
         "name": "(03)E0000112-Another Truth",
         "songPath": "./Songs/ORIGINAL/(03)E0000112-Another Truth",
         "banner": "./Songs/ORIGINAL/(03)E0000112-Another Truth/112.PNG",
@@ -1001,6 +1001,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 807,
+        "name": "1709 - Bestest Frenemy!",
+        "songPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!",
+        "banner": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709.png",
+        "sscPath": "./Songs/NEW TUNES/1709 - Bestest Frenemy!/1709 - Bestest Frenemy!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 814,
+        "name": "1716 - Fairy Dash",
+        "songPath": "./Songs/NEW TUNES/1716 - Fairy Dash",
+        "banner": "./Songs/NEW TUNES/1716 - Fairy Dash/1716.png",
+        "sscPath": "./Songs/NEW TUNES/1716 - Fairy Dash/1716 - Fairy Dash.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 614,
         "name": "1724 - Human Extinction (PIU Edit.)",
         "songPath": "./Songs/21-PHOENIX/1724 - Human Extinction (PIU Edit.)",
@@ -1014,6 +1030,14 @@
         "songPath": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)",
         "banner": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)/1726.png",
         "sscPath": "./Songs/21-PHOENIX/1726 - Underworld ft. Skizzo (PIU Edit.)/1726 - Underworld ft. Skizzo (PIU Edit.).ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 830,
+        "name": "1747 - Reveil a",
+        "songPath": "./Songs/NEW TUNES/1747 - Reveil a",
+        "banner": "./Songs/NEW TUNES/1747 - Reveil a/1747.png",
+        "sscPath": "./Songs/NEW TUNES/1747 - Reveil a/1747 - Reveil a.ssc"
     },
     {
         "stageIndex": 0,

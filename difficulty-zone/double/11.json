@@ -497,6 +497,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 790,
+        "name": "16A7 - The Reverie",
+        "songPath": "./Songs/NEW TUNES/16A7 - The Reverie",
+        "banner": "./Songs/NEW TUNES/16A7 - The Reverie/16A7.png",
+        "sscPath": "./Songs/NEW TUNES/16A7 - The Reverie/16A7 - The Reverie.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 604,
         "name": "1701 - Festival of Death Moon",
         "songPath": "./Songs/21-PHOENIX/1701 - Festival of Death Moon",

@@ -89,6 +89,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 789,
+        "name": "16A6 - Repentance",
+        "songPath": "./Songs/NEW TUNES/16A6 - Repentance",
+        "banner": "./Songs/NEW TUNES/16A6 - Repentance/16A6.png",
+        "sscPath": "./Songs/NEW TUNES/16A6 - Repentance/16A6 - Repentance.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 580,
         "name": "16D1 - SUNNY && DOIN - ERRORCODE 0",
         "songPath": "./Songs/19-XX/16D1 - SUNNY && DOIN - ERRORCODE 0",
@@ -102,6 +110,14 @@
         "songPath": "./Songs/19-XX/16D4 - Cashew - Prime Time",
         "banner": "./Songs/19-XX/16D4 - Cashew - Prime Time/16D4.webp",
         "sscPath": "./Songs/19-XX/16D4 - Cashew - Prime Time/16D4 - Cashew - Prime Time.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 816,
+        "name": "1718 - Kokugen Kairou Labyrinth",
+        "songPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth",
+        "banner": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718.png",
+        "sscPath": "./Songs/NEW TUNES/1718 - Kokugen Kairou Labyrinth/1718 - Kokugen Kairou Labyrinth.ssc"
     },
     {
         "stageIndex": 0,

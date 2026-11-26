@@ -281,6 +281,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 788,
+        "name": "16A5 - Harmagedon",
+        "songPath": "./Songs/NEW TUNES/16A5 - Harmagedon",
+        "banner": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5.png",
+        "sscPath": "./Songs/NEW TUNES/16A5 - Harmagedon/16A5 - Harmagedon.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 577,
         "name": "16A7 - uma - The Reverie",
         "songPath": "./Songs/19-XX/16A7 - uma - The Reverie",

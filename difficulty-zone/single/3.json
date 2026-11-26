@@ -1,7 +1,7 @@
 [
     {
         "stageIndex": 0,
-        "songIndex": 807,
+        "songIndex": 851,
         "name": "(01)E00001661-Bon Bon Chocolat",
         "songPath": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat",
         "banner": "./Songs/ORIGINAL/(01)E00001661-Bon Bon Chocolat/1661.png",
@@ -473,7 +473,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 833,
+        "songIndex": 877,
         "name": "(10)E0000B19-Canon D",
         "songPath": "./Songs/ORIGINAL/(10)E0000B19-Canon D",
         "banner": "./Songs/ORIGINAL/(10)E0000B19-Canon D/B19.PNG",
@@ -481,7 +481,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 838,
+        "songIndex": 882,
         "name": "(13)E0000405-Mr. Larpus",
         "songPath": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus",
         "banner": "./Songs/ORIGINAL/(13)E0000405-Mr. Larpus/405.PNG",
@@ -489,7 +489,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 845,
+        "songIndex": 889,
         "name": "(18)E00001210-Kitty Cat",
         "songPath": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat",
         "banner": "./Songs/ORIGINAL/(18)E00001210-Kitty Cat/1210.png",
@@ -689,7 +689,7 @@
     },
     {
         "stageIndex": 0,
-        "songIndex": 848,
+        "songIndex": 892,
         "name": "(20)E00001481-Bad Apple!! feat. Nomico",
         "songPath": "./Songs/ORIGINAL/(20)E00001481-Bad Apple!! feat. Nomico",
         "banner": "./Songs/ORIGINAL/(20)E00001481-Bad Apple!! feat. Nomico/1481.png",
@@ -1385,6 +1385,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 789,
+        "name": "16A6 - Repentance",
+        "songPath": "./Songs/NEW TUNES/16A6 - Repentance",
+        "banner": "./Songs/NEW TUNES/16A6 - Repentance/16A6.png",
+        "sscPath": "./Songs/NEW TUNES/16A6 - Repentance/16A6 - Repentance.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 577,
         "name": "16A7 - uma - The Reverie",
         "songPath": "./Songs/19-XX/16A7 - uma - The Reverie",
@@ -1417,11 +1425,35 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 802,
+        "name": "1704 - Autumn Break",
+        "songPath": "./Songs/NEW TUNES/1704 - Autumn Break",
+        "banner": "./Songs/NEW TUNES/1704 - Autumn Break/1704.png",
+        "sscPath": "./Songs/NEW TUNES/1704 - Autumn Break/1704 - Autumn Break.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 606,
         "name": "1706 - Highway Chaser",
         "songPath": "./Songs/21-PHOENIX/1706 - Highway Chaser",
         "banner": "./Songs/21-PHOENIX/1706 - Highway Chaser/1706.png",
         "sscPath": "./Songs/21-PHOENIX/1706 - Highway Chaser/1706 - Highway Chaser.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 811,
+        "name": "1713 - 2step baby",
+        "songPath": "./Songs/NEW TUNES/1713 - 2step baby",
+        "banner": "./Songs/NEW TUNES/1713 - 2step baby/1713.png",
+        "sscPath": "./Songs/NEW TUNES/1713 - 2step baby/1713 - 2step baby.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 813,
+        "name": "1715 - New World",
+        "songPath": "./Songs/NEW TUNES/1715 - New World",
+        "banner": "./Songs/NEW TUNES/1715 - New World/1715.png",
+        "sscPath": "./Songs/NEW TUNES/1715 - New World/1715 - New World.ssc"
     },
     {
         "stageIndex": 0,
