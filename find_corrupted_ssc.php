@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/app/security.php';
+piu_require_auth();
 /**
  * Script para encontrar arquivos SSC corrompidos
  * Procura por caracteres inválidos que causam erro de parsing

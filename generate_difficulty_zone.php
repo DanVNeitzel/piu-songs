@@ -11,6 +11,19 @@
  *   php generate_difficulty_zone.php
  */
 
+require_once __DIR__ . '/app/security.php';
+require_once __DIR__ . '/app/charts.php';
+piu_require_auth();
+if (PHP_SAPI !== 'cli') {
+    if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
+        $token = htmlspecialchars(piu_csrf_token(), ENT_QUOTES, 'UTF-8');
+        echo '<!doctype html><html lang="pt-BR"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Indices de dificuldade</title><link rel="stylesheet" href="assets/catalog.css"><main><h1>Gerar indices de dificuldade</h1><p>Atualize Single e Double usando o catalogo publicado.</p><form method="post"><input type="hidden" name="xsrf" value="' . $token . '"><button type="submit" class="primary">Gerar indices</button></form><p><a href="regenerate_songs.html">Voltar a biblioteca</a></p></main></html>';
+        exit;
+    }
+    piu_require_post();
+    session_write_close();
+}
+
 set_time_limit(300);
 ini_set('memory_limit', '512M');
 
@@ -54,19 +67,11 @@ function projectPath($relativePath) {
 
     $path = str_replace(['/', '\\'], DIRECTORY_SEPARATOR, $relativePath);
     $path = preg_replace('/^\.' . preg_quote(DIRECTORY_SEPARATOR, '/') . '/', '', $path);
-    return $baseDir . DIRECTORY_SEPARATOR . $path;
+    return piu_safe_path($baseDir, $path);
 }
 
 function jsonWrite($path, $data) {
-    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
-
-    if ($json === false) {
-        throw new RuntimeException('Failed to encode JSON for ' . $path . ': ' . json_last_error_msg());
-    }
-
-    if (file_put_contents($path, $json) === false) {
-        throw new RuntimeException('Failed to write ' . $path);
-    }
+    piu_atomic_json($path, $data);
 }
 
 function emptyBuckets() {
@@ -169,65 +174,23 @@ function firstSscTagValue($content, $tag) {
 }
 
 function parseSscFile($path) {
-    $content = file_get_contents($path);
-    if ($content === false) {
-        return [
-            'title' => '',
-            'artist' => '',
-            'charts' => [],
-        ];
+    global $baseDir;
+    static $cache = null;
+    if ($cache === null) {
+        $cacheFile = $baseDir . '/.runtime/metadata.json';
+        $cache = is_file($cacheFile) ? json_decode(file_get_contents($cacheFile), true) : [];
+        if (($cache['version'] ?? null) !== 1) $cache = [];
     }
-
-    $title = firstSscTagValue($content, 'TITLE');
-    $artist = firstSscTagValue($content, 'ARTIST');
+    $relative = './' . str_replace(DIRECTORY_SEPARATOR, '/', substr($path, strlen($baseDir) + 1));
+    $entry = $cache['files'][$relative] ?? null;
+    $signature = filemtime($path) . ':' . filesize($path) . ':' . filectime($path);
+    $data = $entry && $entry['signature'] === $signature ? $entry['data'] : piu_chart_metadata($path);
     $charts = [];
-    $sections = preg_split('/#NOTEDATA\s*:\s*;/i', $content);
-
-    if ($sections === false || count($sections) < 2) {
-        return [
-            'title' => $title,
-            'artist' => $artist,
-            'charts' => $charts,
-        ];
+    foreach ($data['charts'] as $chart) {
+        if (!in_array($chart['mode'], ['single', 'double'], true)) continue;
+        $charts[] = ['mode' => $chart['mode'], 'level' => $chart['level'] > MAX_EXPLICIT_LEVEL ? PLUS_LEVEL_LABEL : (string) $chart['level']];
     }
-
-    array_shift($sections);
-
-    foreach ($sections as $section) {
-        if (!preg_match('/#STEPSTYPE\s*:\s*([^;]+)\s*;/i', $section, $typeMatch)) {
-            continue;
-        }
-
-        if (!preg_match('/#METER\s*:\s*(\d+)\s*;/i', $section, $meterMatch)) {
-            continue;
-        }
-
-        $stepType = strtolower(trim($typeMatch[1]));
-        $meter = (int) $meterMatch[1];
-
-        if ($meter < 1) {
-            continue;
-        }
-
-        if ($stepType === 'pump-single') {
-            $mode = 'single';
-        } elseif ($stepType === 'pump-double') {
-            $mode = 'double';
-        } else {
-            continue;
-        }
-
-        $charts[] = [
-            'mode' => $mode,
-            'level' => $meter > MAX_EXPLICIT_LEVEL ? PLUS_LEVEL_LABEL : (string) $meter,
-        ];
-    }
-
-    return [
-        'title' => $title,
-        'artist' => $artist,
-        'charts' => $charts,
-    ];
+    return ['title' => $data['title'], 'artist' => $data['artist'], 'charts' => $charts];
 }
 
 function addChartToBuckets(&$buckets, &$seen, $chart, $entry) {
@@ -267,7 +230,9 @@ function sortBucket(&$items) {
     });
 }
 
+$generationLock = null;
 try {
+    $generationLock = piu_generation_lock($baseDir);
     if (!$isCli) {
         echo "<!doctype html><meta charset='utf-8'>";
         echo "<style>body { font-family: monospace; background: #000; color: #0f0; padding: 20px; } a { color: #0ff; } .muted { color: #999; } .ok { color: #0f0; } .warn { color: orange; } .error { color: red; font-weight: bold; } .info { color: #0ff; } .debug { color: #ccc; font-size: 12px; margin-left: 20px; } .debug-deep { color: #888; font-size: 11px; margin-left: 40px; }</style>";
@@ -499,5 +464,8 @@ try {
     }
 
     outputLine("<p class='error'>ERRO: " . e($error->getMessage()) . "</p>");
+    piu_unlock($generationLock);
     exit(1);
+} finally {
+    piu_unlock($generationLock);
 }

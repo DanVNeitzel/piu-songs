@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/app/security.php';
+piu_require_auth();
 /**
  * Script de DEBUG - Testa escaneamento de UMA música específica
  */

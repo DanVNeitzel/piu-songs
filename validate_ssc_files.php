@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/app/security.php';
+piu_require_auth();
 /**
  * Validador de Arquivos SSC
  * 

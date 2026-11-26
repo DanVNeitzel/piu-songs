@@ -32,10 +32,10 @@ if not exist "%GENERATION_LOGS%\" (
 )
 
 echo [1/2] Gerando songs.json...
-"%PHP_BIN%" "generate_songs_json.php" >"%GENERATION_LOGS%\catalogo.html" 2>&1
+"%PHP_BIN%" "generate_songs_json.php" >"%GENERATION_LOGS%\catalogo.log" 2>&1
 if errorlevel 1 (
     echo ERRO na geracao do catalogo. A geracao de dificuldades foi cancelada.
-    echo Consulte: "%GENERATION_LOGS%\catalogo.html"
+    echo Consulte: "%GENERATION_LOGS%\catalogo.log"
     goto cleanup
 )
 

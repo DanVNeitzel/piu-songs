@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/app/security.php';
+piu_require_auth();
 /**
  * Script de teste para verificar se o escaneamento funciona com caracteres especiais
  */

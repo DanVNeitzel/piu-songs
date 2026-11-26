@@ -1,7 +1,10 @@
 <?php
 /** Shared channel layout for both catalogue generators. Songs keep their real paths. */
-function applyChannelLayout(array $catalog): array {
-    $config = json_decode(file_get_contents(__DIR__ . '/channels.json'), true, 512, JSON_THROW_ON_ERROR);
+require_once __DIR__ . '/app/charts.php';
+
+function applyChannelLayout(array $catalog, array $parsedMetadata = [], ?string $baseDir = null): array {
+    $baseDir ??= __DIR__;
+    $config = json_decode(file_get_contents($baseDir . '/channels.json'), true, 512, JSON_THROW_ON_ERROR);
     $stages = $catalog['children'][0]['children'];
     $songs = [];
     $byFolder = [];
@@ -20,14 +23,12 @@ function applyChannelLayout(array $catalog): array {
         $ucs = false;
         foreach ($song['children'] as $file) {
             if (strtolower(pathinfo($file['name'], PATHINFO_EXTENSION)) !== 'ssc') continue;
-            $content = file_get_contents(__DIR__ . '/' . preg_replace('~^\./~', '', $file['path']));
-            if ($content === false) continue;
-            $header = preg_split('/#NOTEDATA\s*:/i', $content, 2)[0];
-            preg_match_all('/#(SONGTYPE|SONGCATEGORY|GENRE)\s*:\s*([^;]*);/i', $header, $matches, PREG_SET_ORDER);
-            foreach ($matches as $match) $tags[strtoupper($match[1])][] = strtoupper(trim($match[2]));
-            preg_match_all('/#STEPSTYPE\s*:\s*([^;]*);/i', $content, $matches);
-            foreach ($matches[1] as $type) $types[] = strtolower(trim($type));
-            $ucs = $ucs || (bool) preg_match('/#(?:DESCRIPTION|CHARTNAME)\s*:[^;]*\bUCS\b/i', $content);
+            $data = $parsedMetadata[$file['path']] ?? piu_chart_metadata($baseDir . '/' . preg_replace('~^\./~', '', $file['path']));
+            foreach (['SONGTYPE', 'SONGCATEGORY', 'GENRE'] as $tag) {
+                if (isset($data['tags'][$tag])) $tags[$tag][] = strtoupper($data['tags'][$tag]);
+            }
+            $types = array_merge($types, $data['types']);
+            $ucs = $ucs || $data['ucs'];
         }
         $categories = $tags['SONGCATEGORY'] ?? [];
         if (!$categories || in_array('USE_GENRE', $categories, true)) {

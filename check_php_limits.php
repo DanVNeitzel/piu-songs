@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/app/security.php';
+piu_require_auth();
 // Analisador de Configurações PHP para Conversão de Áudio em Massa
 ?>
 <!DOCTYPE html>

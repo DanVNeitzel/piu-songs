@@ -12,7 +12,7 @@ Biblioteca de músicas e ferramentas PHP para organizar arquivos do Pump It Up e
 
 ## Requisitos
 
-- PHP com suporte a JSON. Recomenda-se PHP 8 ou superior para executar o projeto.
+- PHP 8.1 ou superior, com suporte a JSON.
 - Servidor com suporte a PHP, como Apache, Nginx com PHP ou o servidor embutido do PHP para uso local.
 - Permissão de leitura em `Songs/` e de escrita nos arquivos e diretórios gerados.
 - Extensão `zip` para operações que utilizam `ZipArchive`.
@@ -27,10 +27,10 @@ Os scripts principais são executados diretamente pelo PHP, sem etapa de compila
 Na raiz do projeto, execute:
 
 ```powershell
-php -S localhost:8000
+php -S localhost:8000 router.php
 ```
 
-Acesse [http://localhost:8000/](http://localhost:8000/) para abrir o gerenciador. A senha de acesso é configurada no campo `SENHA` de `files_config.json`.
+Acesse [http://localhost:8000/](http://localhost:8000/) para abrir o gerenciador. A senha de acesso é configurada no campo `SENHA` de `files_config.json`. O router bloqueia configurações e diretórios internos no servidor local; não execute o servidor local sem ele.
 
 Se o projeto estiver publicado como uma subpasta do servidor, utilize a URL correspondente, por exemplo `http://localhost/piu-songs/`. Os caminhos abaixo são relativos à raiz do projeto.
 
@@ -111,22 +111,29 @@ Ambos os geradores de catálogo aplicam as regras de `channel_catalog.php`.
 
 1. Adicione ou atualize os arquivos em `Songs/Categoria/Nome da música/`.
 2. Mantenha `base_songs.json` na raiz: ele fornece a estrutura inicial do catálogo.
-3. Abra [generate_songs_json.php](http://localhost:8000/generate_songs_json.php) no navegador.
-4. Confira as estatísticas exibidas e o arquivo `songs.json` atualizado.
+3. Entre no gerenciador e abra [regenerate_songs.html](http://localhost:8000/regenerate_songs.html).
+4. Clique em **Analisar biblioteca** e confira alterações e ocorrências.
+5. Use **Publicar catálogo** para substituir `songs.json` depois de revisar a prévia.
 
-Para exibir os detalhes do escaneamento, utilize:
+Pelo terminal, publique diretamente ou gere apenas uma prévia:
 
 ```text
-http://localhost:8000/generate_songs_json.php?debug=1
+php generate_songs_json.php --preview
+php generate_songs_json.php
+php generate_songs_json.php --force
 ```
 
-Esse fluxo escaneia os arquivos diretamente e dispensa os `index.php` das categorias. A execução sobrescreve o `songs.json` existente.
+O terminal e a interface usam `app/catalog.php`, sem executar nem criar os `index.php` das categorias. `--force` ignora o cache dos metadados SSC. A prévia não altera o catálogo publicado. A publicação usa arquivo temporário, validação JSON e substituição do destino; falhas preservam o arquivo anterior. Um bloqueio compartilhado impede gerações simultâneas de catálogo e dificuldades.
 
 ### Interface alternativa
 
-`regenerate_songs.html` oferece uma interface que chama `api_generate_songs.php`. Esse fluxo executa os `index.php` de cada categoria e cria os que estiverem ausentes. A opção de regeneração forçada (`?force=true` na API) sobrescreve esses índices.
+`regenerate_songs.html` chama a API autenticada. `GET api_generate_songs.php` fornece o token da sessão; operações usam POST e `X-CSRF-Token` ou `xsrf`. `action=preview` analisa; `action=publish` exige também o `fingerprint` retornado pela prévia. Uma biblioteca alterada desde a prévia exige nova análise (HTTP 409). O antigo GET com `?force=true` não publica nem sobrescreve índices.
 
-Os dois fluxos usam implementações diferentes. Para catalogar todos os formatos da tabela acima e lidar com nomes especiais pelo escaneamento direto, utilize `generate_songs_json.php`.
+A tela permite filtrar músicas por nome, artista, canal, modo, nível e ocorrências, ouvir áudio e baixar o relatório JSON. Os filtros de modo e nível precisam corresponder ao mesmo chart. A lista usa paginação e os áudios são carregados sob demanda.
+
+O relatório identifica ausência de áudio/charts, referências inexistentes, possíveis duplicatas por título e artista, subpastas ignoradas e problemas estruturais de SSC. Não valida toda a sintaxe das notas do motor. Ocorrências são informativas: músicas não são removidas automaticamente. Subpastas usadas por efeitos também aparecem no relatório. Metadados de `.sm` não são extraídos.
+
+O cache fica em `.runtime/metadata.json`, com invalidação por tamanho, data de modificação e data de alteração do arquivo. Use reanálise completa quando arquivos forem substituídos preservando esses atributos. A comparação de alterações considera inclusão, remoção e lista de arquivos; não é uma comparação binária dos áudios ou imagens.
 
 ## Gerar índices de dificuldade
 
@@ -142,7 +149,7 @@ Para acompanhar os detalhes:
 php generate_difficulty_zone.php --debug
 ```
 
-Também é possível acessar `generate_difficulty_zone.php` pelo navegador, usando `?debug=1` para diagnóstico.
+Também é possível acessar `generate_difficulty_zone.php` pelo navegador após entrar no gerenciador. A página apresenta um formulário e só gera arquivos mediante POST com token válido. A geração reutiliza metadados SSC válidos em cache e grava cada JSON por substituição atômica, com manifesto por último. O conjunto dos arquivos de dificuldade não é uma transação única.
 
 O script lê o catálogo e os arquivos `.ssc`, agrupa charts Single e Double por nível e evita entradas duplicadas da mesma música no mesmo modo e nível. Ele grava:
 
@@ -186,6 +193,41 @@ O limite de upload também depende de `upload_max_filesize` e `post_max_size` no
 | `analyze_corrupted_ssc.php` | Investigar arquivos SSC problemáticos |
 | `check_php_limits.php` | Consultar limites do ambiente PHP |
 
-Se uma música não aparecer, confira a estrutura das pastas, as extensões aceitas e as permissões de leitura; depois gere o catálogo com `?debug=1`. Para falhas de leitura de charts, consulte também [ERRO_SSC_CORROMPIDO.md](ERRO_SSC_CORROMPIDO.md).
+Se uma música não aparecer, confira a estrutura das pastas, as extensões aceitas e as permissões de leitura; depois analise a biblioteca na interface ou execute `php generate_songs_json.php --preview --force`. Para falhas de leitura de charts, consulte também [ERRO_SSC_CORROMPIDO.md](ERRO_SSC_CORROMPIDO.md).
 
-O gerador direto do catálogo e o gerador de dificuldades configuram até 300 segundos de execução e 512 MB de memória. Bibliotecas maiores podem exigir ajustes nesses valores e nos limites do servidor.
+O gerador de catálogo permite até 600 segundos; o de dificuldades, 300 segundos. Ambos configuram 512 MB de memória. Bibliotecas maiores podem exigir ajustes nesses valores e nos limites do servidor.
+
+## Estrutura do código e verificação
+
+- `app/security.php`: sessão, autenticação e validação de POST/CSRF.
+- `app/catalog.php`, `app/charts.php`, `app/storage.php`: escaneamento, metadados, cache e gravação.
+- `app/config.php`, `app/manager_login.php`, `app/cloud.php`, `app/filesystem.php`: componentes do gerenciador.
+- `app/manager_view.php`, `assets/`: interface, estilos e JavaScript.
+
+Execute os testes de catálogo, dificuldades, cache e falhas sem alterar a biblioteca real:
+
+```powershell
+php tests/catalog_test.php
+node tests/catalog_ui_test.cjs
+```
+
+Com o servidor local iniciado, verifique autenticação, CSRF, leitura e prévia HTTP:
+
+```powershell
+python tests/http_test.py http://localhost:8000
+```
+
+## Configuração do servidor HTTP
+
+O Apache deve permitir `.htaccess` (`AllowOverride` adequado e `mod_rewrite` ativo). O arquivo fornecido bloqueia acesso HTTP a `files_config.json`, `app/`, `tests/`, `.runtime/`, `.trash/` e `.shares/` e habilita compressão de JSON quando `mod_deflate` está disponível. Essas configurações não são aplicadas pelo PHP nem pelo Nginx.
+
+No Nginx, adapte as regras ao prefixo da instalação, antes do handler PHP:
+
+```nginx
+location ~* ^/piu-songs/(?:app|tests|\.runtime|\.trash|\.shares)(?:/|$) { deny all; }
+location ~* ^/piu-songs/(?:files_config|zip_progress)\.json$ { deny all; }
+gzip on;
+gzip_types application/json text/css application/javascript;
+```
+
+Use cache com revalidação (ETag/Last-Modified) para `songs.json` e `difficulty-zone/`, e cache privado/desabilitado para respostas autenticadas. Não marque o catálogo com cache imutável: ele é atualizado no mesmo endereço. Arquivos de configuração e diretórios internos não devem ser servidos publicamente. O servidor HTTP em uso deve ser verificado após aplicar essas regras.
