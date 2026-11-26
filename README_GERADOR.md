@@ -1,6 +1,8 @@
 ﻿# Gerador de catálogo PIU Songs
 
-Entre no gerenciador e abra `regenerate_songs.html`.
+Para consulta sem PHP, abra `index.html` em um servidor HTTP. A publicação no GitHub Pages é feita pelo workflow **Publicar biblioteca HTML**, com **Settings → Pages → Source: GitHub Actions**. O workflow gera os metadados e publica o HTML automaticamente após pushes na `main`; os arquivos de mídia permanecem no repositório público. Consulte [README.md](README.md) para o passo a passo e os requisitos dos links de áudio.
+
+Para administrar em um servidor PHP, entre no gerenciador e abra `regenerate_songs.html`.
 
 1. Clique em **Analisar biblioteca** para escanear os arquivos sem publicar.
 2. Revise as inclusões, remoções e ocorrências. Use os filtros para localizar músicas por canal, modo e nível.

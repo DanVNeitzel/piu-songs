@@ -2,6 +2,7 @@
 let token = '', preview = null, rows = [], page = 0;
 const size = 40;
 const $ = id => document.getElementById(id);
+const staticMode = document.documentElement?.dataset.mode === 'static';
 function status(message, error = false) { $('status').textContent = message; $('status').className = error ? 'warning' : 'ok'; }
 async function request(data) {
   const response = await fetch('api_generate_songs.php', data ? { method: 'POST', headers: { 'X-CSRF-Token': token }, body: new URLSearchParams(data) } : { cache: 'no-store' });
@@ -23,10 +24,14 @@ function update(result) {
   $('countIssues').textContent = result.issues.length;
   $('cacheHits').textContent = result.stats.cache_hits;
   const c = result.changes;
-  $('changes').textContent = `${c.added.length} adicionadas · ${c.removed.length} removidas · ${c.changed.length} com lista de arquivos alterada`;
+  $('changes').textContent = staticMode
+    ? (result.generated_at ? `Atualizado em ${new Date(result.generated_at).toLocaleString('pt-BR')}.` : 'Biblioteca carregada do catálogo disponível.')
+    : `${c.added.length} adicionadas · ${c.removed.length} removidas · ${c.changed.length} com lista de arquivos alterada`;
   $('changeDetails').textContent = JSON.stringify(c, null, 2);
   $('issueDetails').textContent = result.issues.length ? result.issues.map(issue => `${issue.path}\n${issue.message}`).join('\n\n') : 'Nenhum problema encontrado nas verificações de estrutura.';
   options('channel', result.library.flatMap(song => song.channels), 'Todos os canais');
+  options('mode', result.library.flatMap(song => song.charts.map(chart => chart.mode)), 'Todos os modos');
+  for (const option of $('mode').options) if (option.value) option.text = ({single: 'Single', double: 'Double', 'pump-couple': 'Co-op', 'pump-routine': 'Routine'})[option.value] || option.value;
   options('level', result.library.flatMap(song => song.charts.map(chart => String(chart.level))), 'Todos os níveis');
   $('publish').disabled = result.published;
   $('downloadReport').disabled = false;
@@ -43,19 +48,29 @@ function filter() {
   page = 0; render();
 }
 function cell(row, text) { const td = document.createElement('td'); td.textContent = text; row.append(td); return td; }
+function mediaUrl(path) {
+  if (typeof path !== 'string' || !/^\.\/Songs\//.test(path) || path.split('/').includes('..')) return null;
+  const encoded = path.split('/').map(part => encodeURIComponent(part)).join('/');
+  const base = preview?.media_base_url;
+  if (!base) return encoded;
+  const url = new URL(base);
+  if (!['https:', 'http:'].includes(url.protocol)) return null;
+  return new URL(encoded, url).href;
+}
 function render() {
   $('songs').replaceChildren();
   for (const song of rows.slice(page * size, (page + 1) * size)) {
     const row = document.createElement('tr');
     const name = cell(row, song.title), detail = document.createElement('small');
     detail.textContent = `${song.artist || 'Artista não informado'} · ${song.category}`; name.append(detail);
-    cell(row, song.charts.map(chart => `${chart.mode === 'single' ? 'S' : chart.mode === 'double' ? 'D' : chart.mode} ${chart.level}`).join(' · ') || 'Sem metadados SSC');
+    cell(row, song.charts.map(chart => `${chart.mode === 'single' ? 'S' : chart.mode === 'double' ? 'D' : chart.mode} ${chart.level}`).join(' · ') || (preview.fallback ? 'Sem nível indexado' : 'Sem metadados SSC'));
     const issues = cell(row, song.issues.length ? song.issues.map(issue => issue.message).join('\n') : 'OK');
     if (song.issues.length) issues.className = 'warning';
     const audioCell = cell(row, '');
-    if (song.audio.length) {
+    const source = song.audio.length ? mediaUrl(song.audio[0]) : null;
+    if (source) {
       const audio = document.createElement('audio'); audio.controls = true; audio.preload = 'none';
-      audio.src = song.audio[0].split('/').map(part => encodeURIComponent(part)).join('/');
+      audio.src = source;
       audio.setAttribute('aria-label', `Ouvir ${song.title}`); audioCell.append(audio);
     }
     $('songs').append(row);
@@ -65,6 +80,7 @@ function render() {
   $('previous').disabled = page === 0; $('next').disabled = page + 1 >= pages;
 }
 async function run(action) {
+  if (staticMode) return loadStatic();
   const publish = action === 'publish';
   if (publish && !preview) return;
   $('scan').disabled = $('publish').disabled = true;
@@ -91,4 +107,15 @@ $('downloadReport').addEventListener('click', () => {
   const url = URL.createObjectURL(blob), link = document.createElement('a');
   link.href = url; link.download = 'relatorio-biblioteca.json'; link.click(); setTimeout(() => URL.revokeObjectURL(url), 1000);
 });
-request().then(result => { token = result.xsrf; $('scan').disabled = false; status('Pronto para analisar a biblioteca.'); }).catch(error => status(error.message + ' Use o link Gerenciador para entrar.', true));
+async function loadStatic() {
+  $('scan').disabled = true;
+  status('Carregando biblioteca…');
+  try {
+    const result = await globalThis.piuLoadStaticCatalog();
+    update(result);
+    status(result.partial ? 'Biblioteca carregada. Alguns índices de dificuldade não estão disponíveis.' : 'Biblioteca pronta para consulta.');
+  } catch (error) { status(error.message, true); }
+  finally { $('scan').disabled = false; }
+}
+if (staticMode) loadStatic();
+else request().then(result => { token = result.xsrf; $('scan').disabled = false; status('Pronto para analisar a biblioteca.'); }).catch(error => status(error.message + ' Use o link Gerenciador para entrar.', true));

@@ -1,0 +1,57 @@
+name: Publicar biblioteca HTML
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v6
+      - name: Preparar PHP para gerar os JSONs
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          coverage: none
+      - name: Testar catálogo e exportação
+        run: php tests/catalog_test.php
+      - name: Testar filtros e carregamento HTML
+        run: |
+          node tests/catalog_ui_test.cjs
+          node tests/static_catalog_test.cjs
+      - name: Preparar Pages
+        uses: actions/configure-pages@v5
+      - name: Gerar site estático
+        env:
+          PIU_MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/
+        run: php export_static.php
+      - name: Verificar site sem PHP e sob o prefixo do repositório
+        run: python3 tests/static_http_test.py
+      - name: Enviar somente arquivos públicos
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

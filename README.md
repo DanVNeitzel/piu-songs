@@ -2,6 +2,33 @@
 
 Biblioteca de músicas e ferramentas PHP para organizar arquivos do Pump It Up e gerar os catálogos consumidos pelo PIU Web. O projeto reúne um gerenciador de arquivos, a geração de `songs.json` e índices de dificuldade para charts Single e Double.
 
+## Acessar em HTML no GitHub Pages
+
+`index.html` é a entrada pública da biblioteca: pesquisa, filtros por canal/modo/nível, áudio e download do relatório funcionam sem PHP no navegador. O gerenciador com upload, exclusão, conversão e publicação permanece em `index.php` e requer servidor PHP. O Pages não executa PHP ([documentação do GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)).
+
+Para publicar:
+
+1. Envie as alterações para a branch `main` do repositório.
+2. No GitHub, abra **Settings → Pages → Build and deployment → Source** e selecione **GitHub Actions**.
+3. Em **Actions**, acompanhe **Publicar biblioteca HTML**. Se o push ocorreu antes de ativar o Pages, execute **Run workflow**.
+4. Abra a URL exibida pelo deploy, normalmente `https://USUARIO.github.io/REPOSITORIO/`.
+
+O workflow `.github/workflows/pages.yml` executa os testes, gera metadados pelo mesmo serviço do gerador PHP e publica somente `_site/`. A página antiga `regenerate_songs.html` também abre a biblioteca pública no artefato. Não são publicados PHP, configurações, credenciais, backups ou diretórios de trabalho. O acesso público é de consulta; o site não solicita senha e não grava alterações no repositório.
+
+A biblioteca versionada contém cerca de 2,2 GB de mídia, acima do [limite de 1 GB do site publicado no Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits). Por isso o workflow mantém os arquivos no repositório e aponta a reprodução para `raw.githubusercontent.com/USUARIO/REPOSITORIO/COMMIT/Songs/...`. O commit é fixado para que áudio e metadados correspondam à mesma versão. Os arquivos precisam estar acessíveis publicamente e realmente versionados no GitHub; mídias locais ignoradas, ponteiros Git LFS ou arquivos de um repositório privado não podem ser reproduzidos por visitantes anônimos dessa forma. Para usar outro servidor público de mídia, altere `PIU_MEDIA_BASE_URL` no workflow.
+
+Para exportar localmente sem alterar `songs.json` nem os índices atuais:
+
+```powershell
+php export_static.php --media-base=https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/
+python tests/static_http_test.py
+python -m http.server 8000 --directory _site
+```
+
+Abra `http://localhost:8000/`. A base de mídia deve ser a pasta pública que contém `Songs/`, sem senha ou parâmetros de autenticação. `_site/songs.json` contém URLs absolutas das mídias; o `songs.json` original permanece com seus caminhos relativos. A saída usa uma lista explícita de arquivos permitidos e rejeita arquivos desconhecidos já existentes em `_site/` para não incluí-los em uma publicação posterior.
+
+Também é possível servir o projeto original em HTTP e abrir `index.html`: sem `library-public.json`, a interface lê `songs.json` e os índices em `difficulty-zone/`, deduplica os canais virtuais e agrupa níveis altos em `27+`. Nesse modo de compatibilidade, nome/artista vêm do nome da pasta, só Single/Double possuem níveis indexados e o diagnóstico se limita aos arquivos catalogados. O build do Pages oferece os metadados completos extraídos dos SSC. Use um servidor HTTP para testar; abrir via `file://` bloqueia a leitura de JSON em navegadores comuns.
+
 ## Recursos
 
 - Gerenciamento de arquivos pelo navegador, com upload, download, criação de pastas e compartilhamento.
@@ -12,7 +39,7 @@ Biblioteca de músicas e ferramentas PHP para organizar arquivos do Pump It Up e
 
 ## Requisitos
 
-- PHP 8.1 ou superior, com suporte a JSON.
+- PHP 8.1 ou superior, com suporte a JSON, para geração e administração. A consulta pelo HTML publicado não precisa de PHP.
 - Servidor com suporte a PHP, como Apache, Nginx com PHP ou o servidor embutido do PHP para uso local.
 - Permissão de leitura em `Songs/` e de escrita nos arquivos e diretórios gerados.
 - Extensão `zip` para operações que utilizam `ZipArchive`.
@@ -30,7 +57,7 @@ Na raiz do projeto, execute:
 php -S localhost:8000 router.php
 ```
 
-Acesse [http://localhost:8000/](http://localhost:8000/) para abrir o gerenciador. A senha de acesso é configurada no campo `SENHA` de `files_config.json`. O router bloqueia configurações e diretórios internos no servidor local; não execute o servidor local sem ele.
+Acesse [http://localhost:8000/index.php](http://localhost:8000/index.php) para abrir o gerenciador ou [http://localhost:8000/index.html](http://localhost:8000/index.html) para consultar a biblioteca pública. A senha de acesso é configurada no campo `SENHA` de `files_config.json`. O router bloqueia configurações e diretórios internos no servidor local; não execute o servidor local sem ele.
 
 Se o projeto estiver publicado como uma subpasta do servidor, utilize a URL correspondente, por exemplo `http://localhost/piu-songs/`. Os caminhos abaixo são relativos à raiz do projeto.
 
@@ -209,6 +236,7 @@ Execute os testes de catálogo, dificuldades, cache e falhas sem alterar a bibli
 ```powershell
 php tests/catalog_test.php
 node tests/catalog_ui_test.cjs
+node tests/static_catalog_test.cjs
 ```
 
 Com o servidor local iniciado, verifique autenticação, CSRF, leitura e prévia HTTP:

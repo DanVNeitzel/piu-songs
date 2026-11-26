@@ -1,6 +1,7 @@
 <?php
 require_once dirname(__DIR__) . '/app/catalog.php';
 require_once dirname(__DIR__) . '/app/filesystem.php';
+require_once dirname(__DIR__) . '/app/static_export.php';
 
 function check(bool $condition, string $message): void {
     if (!$condition) throw new RuntimeException($message);
@@ -29,6 +30,23 @@ try {
     mkdir($fixture . '/Songs/Test/Incomplete');
     file_put_contents($fixture . '/Songs/Test/Incomplete/broken.ssc', '#TITLE:Broken;#NOTEDATA:;#STEPSTYPE:pump-single;#METER:bad;');
     $preview = piu_catalog_run($fixture);
+    file_put_contents($fixture . '/files_config.json', '{"SENHA":"private-fixture"}');
+    $export = piu_export_static($fixture, $preview, 'https://raw.githubusercontent.com/owner/repo/sha/');
+    check(is_file($export['directory'] . '/index.html'), 'Missing static entry');
+    check(!is_file($export['directory'] . '/files_config.json') && !is_dir($export['directory'] . '/app') && !is_file($export['directory'] . '/api_generate_songs.php'), 'Private/server files leaked into public output');
+    $public = json_decode(file_get_contents($export['directory'] . '/library-public.json'), true, 512, JSON_THROW_ON_ERROR);
+    check(count($public['library']) === 2 && $public['published'] === true, 'Missing static metadata');
+    $publicCatalog = json_decode(file_get_contents($export['directory'] . '/songs.json'), true, 512, JSON_THROW_ON_ERROR);
+    check(str_starts_with($publicCatalog['children'][0]['children'][0]['children'][0]['path'], 'https://raw.githubusercontent.com/owner/repo/sha/Songs/'), 'Exported resource URL is not external');
+    check(!str_contains(file_get_contents($export['directory'] . '/index.html'), '.php'), 'Public page contains PHP controls');
+    foreach (['javascript:alert(1)', 'https://user:secret@example.com/', 'https://example.com/?token=secret'] as $invalidBase) {
+        try { piu_export_static($fixture, $preview, $invalidBase); throw new RuntimeException('Unsafe media URL accepted'); }
+        catch (InvalidArgumentException $expected) {}
+    }
+    piu_export_static($fixture, $preview, 'https://example.com/media/');
+    file_put_contents($export['directory'] . '/unexpected-secret.json', 'private');
+    try { piu_export_static($fixture, $preview, 'https://example.com/media/'); throw new RuntimeException('Foreign output files were accepted'); }
+    catch (RuntimeException $error) { check(str_contains($error->getMessage(), 'não reconhecido'), 'Wrong foreign-output error'); }
     check(!is_file($fixture . '/songs.json'), 'Preview wrote songs.json');
     check($preview['stats']['total_songs'] === 2, 'Songs counted more than once through virtual channels');
     check(count($preview['library']) === 2, 'Missing library rows');

@@ -1,6 +1,7 @@
 /.runtime/
 /.trash/
 /.shares/
+/_site/
 /zip_progress.json
 **/Thumbs.db
 **/.DS_Store

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR" data-mode="static">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Explore a biblioteca de músicas Pump It Up por canal, modo e dificuldade.">
+<title>PIU Songs — Biblioteca</title>
+<link rel="stylesheet" href="assets/catalog.css">
+<script defer src="assets/static-catalog.js"></script><script defer src="assets/catalog.js"></script>
+</head>
+<body><main>
+<nav aria-label="Navegação"><a href="index.html" aria-current="page">Biblioteca</a><a href="songs.json" download>Baixar catálogo JSON</a></nav>
+<h1>Biblioteca PIU Songs</h1>
+<p>Encontre músicas por canal, artista, modo e dificuldade e ouça o áudio direto na biblioteca.</p>
+<div class="panel">
+<div class="actions"><button id="scan" class="primary" disabled>Atualizar biblioteca</button><button id="publish" hidden disabled>Publicar catálogo</button><button id="downloadReport" disabled>Baixar relatório</button></div>
+<input id="force" type="checkbox" hidden>
+<p id="status" role="status" aria-live="polite">Carregando biblioteca…</p>
+<noscript><p>Ative o JavaScript para pesquisar e ouvir as músicas. O catálogo JSON pode ser baixado pelo link acima.</p></noscript>
+</div>
+<section id="results" hidden>
+<div class="panel"><div class="stats">
+<div><strong id="countSongs">0</strong><span>Músicas únicas</span></div><div><strong id="countChannels">0</strong><span>Canais</span></div><div><strong id="countIssues">0</strong><span>Ocorrências</span></div><div hidden><strong id="cacheHits">0</strong></div>
+</div><h2>Catálogo disponível</h2><p id="changes"></p>
+<details hidden><summary>Ver alterações de arquivos</summary><pre id="changeDetails"></pre></details>
+<details><summary>Ver informações dos arquivos</summary><pre id="issueDetails"></pre></details>
+</div>
+<div class="panel"><h2>Explorar músicas</h2><div class="filters">
+<label>Nome ou artista<input id="search" type="search" placeholder="Buscar música"></label>
+<label>Canal<select id="channel"><option value="">Todos os canais</option></select></label>
+<label>Modo<select id="mode"><option value="">Todos os modos</option><option value="single">Single</option><option value="double">Double</option><option value="pump-couple">Co-op</option></select></label>
+<label>Nível<select id="level"><option value="">Todos os níveis</option></select></label>
+<label><span>Diagnóstico</span><span><input id="onlyIssues" type="checkbox"> Apenas com problemas</span></label>
+</div>
+<div class="table-wrap"><table><thead><tr><th scope="col">Música</th><th scope="col">Charts</th><th scope="col">Arquivos</th><th scope="col">Ouvir</th></tr></thead><tbody id="songs"></tbody></table></div>
+<div class="pagination"><button id="previous" disabled>Anterior</button><span id="pageInfo" aria-live="polite"></span><button id="next" disabled>Próxima</button></div>
+</div></section>
+</main></body></html>
