@@ -1142,5 +1142,69 @@
         "songPath": "./Songs/08-1ST~ZERO/37 Bee",
         "banner": "./Songs/08-1ST~ZERO/37 Bee/Title.PNG",
         "sscPath": "./Songs/08-1ST~ZERO/37 Bee/Bee.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 899,
+        "name": "Cynical - RiraN ft. Negoto Bunnyla",
+        "songPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+        "banner": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 901,
+        "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "songPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "banner": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 908,
+        "name": "PHYSALIS  - TAG",
+        "songPath": "./Songs/RISE MIX/PHYSALIS  - TAG",
+        "banner": "./Songs/RISE MIX/PHYSALIS  - TAG/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/PHYSALIS  - TAG/Single Lv.24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 911,
+        "name": "Rise Up (feat. Miori Celesta) - memme",
+        "songPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+        "banner": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 914,
+        "name": "Sylaphz - onoken",
+        "songPath": "./Songs/RISE MIX/Sylaphz - onoken",
+        "banner": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 916,
+        "name": "Unfelicitas - Fiverwater",
+        "songPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+        "banner": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 917,
+        "name": "We Love Your Step - EmoCosine",
+        "songPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+        "banner": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+        "sscPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc"
     }
 ]

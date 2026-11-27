@@ -689,6 +689,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 897,
+        "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "songPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "banner": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 898,
+        "name": "Chess and Chase - litmus ft. CielA",
+        "songPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+        "banner": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 147,
         "name": "F19 - Bad Character",
         "songPath": "./Songs/13-NX~NXA/F19 - Bad Character",

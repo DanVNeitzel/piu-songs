@@ -1961,6 +1961,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 899,
+        "name": "Cynical - RiraN ft. Negoto Bunnyla",
+        "songPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+        "banner": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 901,
+        "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "songPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "banner": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",
@@ -1982,5 +1998,45 @@
         "songPath": "./Songs/13-NX~NXA/F25 - My Dreams",
         "banner": "./Songs/13-NX~NXA/F25 - My Dreams/F25.webp",
         "sscPath": "./Songs/13-NX~NXA/F25 - My Dreams/F25 - My Dreams.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 907,
+        "name": "Morrighan - ryhki",
+        "songPath": "./Songs/RISE MIX/Morrighan - ryhki",
+        "banner": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+        "sscPath": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 911,
+        "name": "Rise Up (feat. Miori Celesta) - memme",
+        "songPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+        "banner": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 913,
+        "name": "Skybound - Yamajet",
+        "songPath": "./Songs/RISE MIX/Skybound - Yamajet",
+        "banner": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 915,
+        "name": "Under the Christmas Stars - MAX",
+        "songPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+        "banner": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+        "sscPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 917,
+        "name": "We Love Your Step - EmoCosine",
+        "songPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+        "banner": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+        "sscPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc"
     }
 ]

@@ -1633,6 +1633,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 897,
+        "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "songPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "banner": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 901,
+        "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "songPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "banner": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",

@@ -377,10 +377,26 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 900,
+        "name": "DROP FRONT!ER - xi",
+        "songPath": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+        "banner": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 136,
         "name": "F08 - Only You",
         "songPath": "./Songs/13-NX~NXA/F08 - Only You",
         "banner": "./Songs/13-NX~NXA/F08 - Only You/F08.webp",
         "sscPath": "./Songs/13-NX~NXA/F08 - Only You/F08 - Only You.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
     }
 ]

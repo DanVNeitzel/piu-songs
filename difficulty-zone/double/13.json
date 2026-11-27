@@ -902,5 +902,29 @@
         "songPath": "./Songs/13-NX~NXA/F20 - U",
         "banner": "./Songs/13-NX~NXA/F20 - U/F20.webp",
         "sscPath": "./Songs/13-NX~NXA/F20 - U/F20 - U.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 910,
+        "name": "Pull me up (Feat. Monya) - Applesoda",
+        "songPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+        "banner": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 911,
+        "name": "Rise Up (feat. Miori Celesta) - memme",
+        "songPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+        "banner": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 915,
+        "name": "Under the Christmas Stars - MAX",
+        "songPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+        "banner": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+        "sscPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc"
     }
 ]

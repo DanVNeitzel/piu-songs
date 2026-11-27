@@ -873,6 +873,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 899,
+        "name": "Cynical - RiraN ft. Negoto Bunnyla",
+        "songPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+        "banner": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",
@@ -926,5 +934,21 @@
         "songPath": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse",
         "banner": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse/F28.webp",
         "sscPath": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse/F28 - Dawn of the Apocalypse.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 905,
+        "name": "Kings Tomb - r300k",
+        "songPath": "./Songs/RISE MIX/Kings Tomb - r300k",
+        "banner": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 912,
+        "name": "Save Yourself  litmus ft. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+        "sscPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc"
     }
 ]

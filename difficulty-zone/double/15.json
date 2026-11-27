@@ -985,6 +985,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 898,
+        "name": "Chess and Chase - litmus ft. CielA",
+        "songPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+        "banner": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 137,
         "name": "F09 - Chocolate",
         "songPath": "./Songs/13-NX~NXA/F09 - Chocolate",

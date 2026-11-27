@@ -1177,6 +1177,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 898,
+        "name": "Chess and Chase - litmus ft. CielA",
+        "songPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+        "banner": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",

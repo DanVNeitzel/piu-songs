@@ -1289,6 +1289,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 131,
         "name": "F03 - Chopsticks Challenge",
         "songPath": "./Songs/13-NX~NXA/F03 - Chopsticks Challenge",
@@ -1318,5 +1326,37 @@
         "songPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy",
         "banner": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80.webp",
         "sscPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80 - In Your Fantasy.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 906,
+        "name": "Lucky Star - INFX feat. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 914,
+        "name": "Sylaphz - onoken",
+        "songPath": "./Songs/RISE MIX/Sylaphz - onoken",
+        "banner": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 915,
+        "name": "Under the Christmas Stars - MAX",
+        "songPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+        "banner": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+        "sscPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 917,
+        "name": "We Love Your Step - EmoCosine",
+        "songPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+        "banner": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+        "sscPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc"
     }
 ]

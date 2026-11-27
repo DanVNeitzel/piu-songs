@@ -1089,6 +1089,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 898,
+        "name": "Chess and Chase - litmus ft. CielA",
+        "songPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+        "banner": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 133,
         "name": "F05 - Adios",
         "songPath": "./Songs/13-NX~NXA/F05 - Adios",
@@ -1126,5 +1134,45 @@
         "songPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy",
         "banner": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80.webp",
         "sscPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80 - In Your Fantasy.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 905,
+        "name": "Kings Tomb - r300k",
+        "songPath": "./Songs/RISE MIX/Kings Tomb - r300k",
+        "banner": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 909,
+        "name": "Pastry mix - Sobrem",
+        "songPath": "./Songs/RISE MIX/Pastry mix - Sobrem",
+        "banner": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 912,
+        "name": "Save Yourself  litmus ft. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+        "sscPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 914,
+        "name": "Sylaphz - onoken",
+        "songPath": "./Songs/RISE MIX/Sylaphz - onoken",
+        "banner": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 917,
+        "name": "We Love Your Step - EmoCosine",
+        "songPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+        "banner": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+        "sscPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc"
     }
 ]

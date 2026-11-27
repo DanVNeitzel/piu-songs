@@ -1158,5 +1158,61 @@
         "songPath": "./Songs/08-1ST~ZERO/62 Empire Of The Sun",
         "banner": "./Songs/08-1ST~ZERO/62 Empire Of The Sun/Title.png",
         "sscPath": "./Songs/08-1ST~ZERO/62 Empire Of The Sun/Empire Of The Sun.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 905,
+        "name": "Kings Tomb - r300k",
+        "songPath": "./Songs/RISE MIX/Kings Tomb - r300k",
+        "banner": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 906,
+        "name": "Lucky Star - INFX feat. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 910,
+        "name": "Pull me up (Feat. Monya) - Applesoda",
+        "songPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+        "banner": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 911,
+        "name": "Rise Up (feat. Miori Celesta) - memme",
+        "songPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+        "banner": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 912,
+        "name": "Save Yourself  litmus ft. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+        "sscPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 915,
+        "name": "Under the Christmas Stars - MAX",
+        "songPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+        "banner": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+        "sscPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 917,
+        "name": "We Love Your Step - EmoCosine",
+        "songPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+        "banner": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+        "sscPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc"
     }
 ]

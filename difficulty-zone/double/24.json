@@ -1025,10 +1025,66 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 897,
+        "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "songPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "banner": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 900,
+        "name": "DROP FRONT!ER - xi",
+        "songPath": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+        "banner": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 902,
+        "name": "Entrance - ICE",
+        "songPath": "./Songs/RISE MIX/Entrance - ICE",
+        "banner": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 157,
         "name": "F29 - Final Audition Episode 2-X",
         "songPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X",
         "banner": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X/F29.webp",
         "sscPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X/F29 - Final Audition Episode 2-X.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 905,
+        "name": "Kings Tomb - r300k",
+        "songPath": "./Songs/RISE MIX/Kings Tomb - r300k",
+        "banner": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 907,
+        "name": "Morrighan - ryhki",
+        "songPath": "./Songs/RISE MIX/Morrighan - ryhki",
+        "banner": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+        "sscPath": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 912,
+        "name": "Save Yourself  litmus ft. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+        "sscPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc"
     }
 ]

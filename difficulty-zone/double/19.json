@@ -1281,6 +1281,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 895,
+        "name": "Antique Serenade - Abel",
+        "songPath": "./Songs/RISE MIX/Antique Serenade - Abel",
+        "banner": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 899,
+        "name": "Cynical - RiraN ft. Negoto Bunnyla",
+        "songPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+        "banner": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 131,
         "name": "F03 - Chopsticks Challenge",
         "songPath": "./Songs/13-NX~NXA/F03 - Chopsticks Challenge",
@@ -1310,5 +1326,29 @@
         "songPath": "./Songs/13-NX~NXA/F14 - Procedimientos para Llegar a un Comun Acuerdo",
         "banner": "./Songs/13-NX~NXA/F14 - Procedimientos para Llegar a un Comun Acuerdo/F14.webp",
         "sscPath": "./Songs/13-NX~NXA/F14 - Procedimientos para Llegar a un Comun Acuerdo/F14 - Procedimientos Para Llegar a un Comun Acuerdo.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 911,
+        "name": "Rise Up (feat. Miori Celesta) - memme",
+        "songPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+        "banner": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 914,
+        "name": "Sylaphz - onoken",
+        "songPath": "./Songs/RISE MIX/Sylaphz - onoken",
+        "banner": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 915,
+        "name": "Under the Christmas Stars - MAX",
+        "songPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+        "banner": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+        "sscPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc"
     }
 ]

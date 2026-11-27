@@ -1857,6 +1857,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 895,
+        "name": "Antique Serenade - Abel",
+        "songPath": "./Songs/RISE MIX/Antique Serenade - Abel",
+        "banner": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 140,
         "name": "F12 - Crazy",
         "songPath": "./Songs/13-NX~NXA/F12 - Crazy",
@@ -1894,5 +1902,29 @@
         "songPath": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver",
         "banner": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver/FE13B.webp",
         "sscPath": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver/FE13B - Pumptris 8Bit ver.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 906,
+        "name": "Lucky Star - INFX feat. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 915,
+        "name": "Under the Christmas Stars - MAX",
+        "songPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+        "banner": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+        "sscPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc"
     }
 ]

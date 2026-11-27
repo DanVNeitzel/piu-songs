@@ -1033,6 +1033,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 895,
+        "name": "Antique Serenade - Abel",
+        "songPath": "./Songs/RISE MIX/Antique Serenade - Abel",
+        "banner": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 899,
+        "name": "Cynical - RiraN ft. Negoto Bunnyla",
+        "songPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+        "banner": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 135,
         "name": "F07 - I am Your Girl",
         "songPath": "./Songs/13-NX~NXA/F07 - I am Your Girl",
@@ -1070,5 +1094,13 @@
         "songPath": "./Songs/13-NX~NXA/F22 - The People didn't Know",
         "banner": "./Songs/13-NX~NXA/F22 - The People didn't Know/F22.webp",
         "sscPath": "./Songs/13-NX~NXA/F22 - The People didn't Know/F22 - The People didn't Know.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 916,
+        "name": "Unfelicitas - Fiverwater",
+        "songPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+        "banner": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc"
     }
 ]

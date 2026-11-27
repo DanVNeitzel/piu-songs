@@ -753,10 +753,34 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 896,
+        "name": "Burning SuperNova feat. neur6sia - Palami",
+        "songPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+        "banner": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 157,
         "name": "F29 - Final Audition Episode 2-X",
         "songPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X",
         "banner": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X/F29.webp",
         "sscPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X/F29 - Final Audition Episode 2-X.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 909,
+        "name": "Pastry mix - Sobrem",
+        "songPath": "./Songs/RISE MIX/Pastry mix - Sobrem",
+        "banner": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 914,
+        "name": "Sylaphz - onoken",
+        "songPath": "./Songs/RISE MIX/Sylaphz - onoken",
+        "banner": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc"
     }
 ]

@@ -862,5 +862,13 @@
         "songPath": "./Songs/13-NX~NXA/F06 - Slightly",
         "banner": "./Songs/13-NX~NXA/F06 - Slightly/F06.webp",
         "sscPath": "./Songs/13-NX~NXA/F06 - Slightly/F06 - Slightly.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 906,
+        "name": "Lucky Star - INFX feat. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc"
     }
 ]

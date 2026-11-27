@@ -374,5 +374,21 @@
         "songPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX",
         "banner": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/QUATTUORUX_B.png",
         "sscPath": "./Songs/22-PHOENIX 2/19260 - QUATTUORUX/19260 - QUATTUORUX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 900,
+        "name": "DROP FRONT!ER - xi",
+        "songPath": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+        "banner": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
     }
 ]

@@ -1777,6 +1777,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 897,
+        "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "songPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "banner": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",
@@ -1878,5 +1886,13 @@
         "songPath": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver",
         "banner": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver/FE13B.webp",
         "sscPath": "./Songs/13-NX~NXA/FE13B - Pumptris 8Bit ver/FE13B - Pumptris 8Bit ver.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 910,
+        "name": "Pull me up (Feat. Monya) - Applesoda",
+        "songPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+        "banner": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc"
     }
 ]

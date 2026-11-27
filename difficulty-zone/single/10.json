@@ -1129,6 +1129,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 897,
+        "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "songPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "banner": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 130,
         "name": "F02 - Cannon X1",
         "songPath": "./Songs/13-NX~NXA/F02 - Cannon X1",
@@ -1182,5 +1190,13 @@
         "songPath": "./Songs/13-NX~NXA/F26 - Toccata",
         "banner": "./Songs/13-NX~NXA/F26 - Toccata/F26.webp",
         "sscPath": "./Songs/13-NX~NXA/F26 - Toccata/F26 - Toccata.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
     }
 ]

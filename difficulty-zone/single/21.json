@@ -1433,6 +1433,38 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 895,
+        "name": "Antique Serenade - Abel",
+        "songPath": "./Songs/RISE MIX/Antique Serenade - Abel",
+        "banner": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 896,
+        "name": "Burning SuperNova feat. neur6sia - Palami",
+        "songPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+        "banner": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 899,
+        "name": "Cynical - RiraN ft. Negoto Bunnyla",
+        "songPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+        "banner": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 130,
         "name": "F02 - Cannon X1",
         "songPath": "./Songs/13-NX~NXA/F02 - Cannon X1",
@@ -1446,5 +1478,13 @@
         "songPath": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse",
         "banner": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse/F28.webp",
         "sscPath": "./Songs/13-NX~NXA/F28 - Dawn of the Apocalypse/F28 - Dawn of the Apocalypse.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 914,
+        "name": "Sylaphz - onoken",
+        "songPath": "./Songs/RISE MIX/Sylaphz - onoken",
+        "banner": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc"
     }
 ]

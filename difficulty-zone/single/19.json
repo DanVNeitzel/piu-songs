@@ -1553,6 +1553,38 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 896,
+        "name": "Burning SuperNova feat. neur6sia - Palami",
+        "songPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+        "banner": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 897,
+        "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "songPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "banner": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 900,
+        "name": "DROP FRONT!ER - xi",
+        "songPath": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+        "banner": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 151,
         "name": "F23 - Dj Otada",
         "songPath": "./Songs/13-NX~NXA/F23 - Dj Otada",
@@ -1566,5 +1598,29 @@
         "songPath": "./Songs/13-NX~NXA/F25 - My Dreams",
         "banner": "./Songs/13-NX~NXA/F25 - My Dreams/F25.webp",
         "sscPath": "./Songs/13-NX~NXA/F25 - My Dreams/F25 - My Dreams.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 906,
+        "name": "Lucky Star - INFX feat. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 910,
+        "name": "Pull me up (Feat. Monya) - Applesoda",
+        "songPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+        "banner": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc"
     }
 ]

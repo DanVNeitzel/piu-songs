@@ -2326,5 +2326,21 @@
         "songPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy",
         "banner": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80.webp",
         "sscPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80 - In Your Fantasy.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 915,
+        "name": "Under the Christmas Stars - MAX",
+        "songPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+        "banner": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+        "sscPath": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 916,
+        "name": "Unfelicitas - Fiverwater",
+        "songPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+        "banner": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc"
     }
 ]

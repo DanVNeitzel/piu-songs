@@ -1177,6 +1177,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 895,
+        "name": "Antique Serenade - Abel",
+        "songPath": "./Songs/RISE MIX/Antique Serenade - Abel",
+        "banner": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 896,
+        "name": "Burning SuperNova feat. neur6sia - Palami",
+        "songPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+        "banner": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 130,
         "name": "F02 - Cannon X1",
         "songPath": "./Songs/13-NX~NXA/F02 - Cannon X1",
@@ -1193,6 +1209,14 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 907,
+        "name": "Morrighan - ryhki",
+        "songPath": "./Songs/RISE MIX/Morrighan - ryhki",
+        "banner": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+        "sscPath": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 482,
         "name": "Nakakapagpabagabag Full Song",
         "songPath": "./Songs/18-PRIME 2/Nakakapagpabagabag Full Song",
@@ -1206,5 +1230,29 @@
         "songPath": "./Songs/18-PRIME 2/Nato x Monstdeath - Lovecraft Remix",
         "banner": "./Songs/18-PRIME 2/Nato x Monstdeath - Lovecraft Remix/LOVECRAFT Remix.webp",
         "sscPath": "./Songs/18-PRIME 2/Nato x Monstdeath - Lovecraft Remix/Lovecraft Remix.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 909,
+        "name": "Pastry mix - Sobrem",
+        "songPath": "./Songs/RISE MIX/Pastry mix - Sobrem",
+        "banner": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 913,
+        "name": "Skybound - Yamajet",
+        "songPath": "./Songs/RISE MIX/Skybound - Yamajet",
+        "banner": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 917,
+        "name": "We Love Your Step - EmoCosine",
+        "songPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+        "banner": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+        "sscPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc"
     }
 ]

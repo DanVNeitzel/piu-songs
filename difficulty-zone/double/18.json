@@ -1889,6 +1889,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 901,
+        "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "songPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "banner": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 900,
+        "name": "DROP FRONT!ER - xi",
+        "songPath": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+        "banner": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 902,
+        "name": "Entrance - ICE",
+        "songPath": "./Songs/RISE MIX/Entrance - ICE",
+        "banner": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",
@@ -1958,5 +1982,37 @@
         "songPath": "./Songs/13-NX~NXA/F27 - Do it!",
         "banner": "./Songs/13-NX~NXA/F27 - Do it!/F27.webp",
         "sscPath": "./Songs/13-NX~NXA/F27 - Do it!/F27 - Do it!.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 905,
+        "name": "Kings Tomb - r300k",
+        "songPath": "./Songs/RISE MIX/Kings Tomb - r300k",
+        "banner": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 906,
+        "name": "Lucky Star - INFX feat. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 909,
+        "name": "Pastry mix - Sobrem",
+        "songPath": "./Songs/RISE MIX/Pastry mix - Sobrem",
+        "banner": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 912,
+        "name": "Save Yourself  litmus ft. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+        "sscPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc"
     }
 ]

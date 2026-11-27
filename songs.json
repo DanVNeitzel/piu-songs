@@ -20458,6 +20458,512 @@
                             "name": "(22)E000015A8-Christmas Memories",
                             "path": "./Songs/ORIGINAL/(22)E000015A8-Christmas Memories",
                             "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Antique Serenade - Abel",
+                            "path": "./Songs/RISE MIX/Antique Serenade - Abel",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Burning SuperNova.mp3",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Burning SuperNova.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Burning SuperNova feat. neur6sia - Palami",
+                            "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Chess and Chase - litmus ft. CielA",
+                            "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single_Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Cynical - RiraN ft. Negoto Bunnyla",
+                            "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "DROP FRONT!ER - xi",
+                            "path": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.6.ssc",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Entrance - ICE",
+                            "path": "./Songs/RISE MIX/Entrance - ICE",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Ercitite - Doin x neur6sia",
+                            "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv24.ssc",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Galactic Metronome - Essbee",
+                            "path": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Kings Tomb - r300k",
+                            "path": "./Songs/RISE MIX/Kings Tomb - r300k",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Lucky Star - INFX feat. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10045.png",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Morrighan - ryhki.ssc",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/SONG.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Morrighan - ryhki",
+                            "path": "./Songs/RISE MIX/Morrighan - ryhki",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "PHYSALIS  - TAG",
+                            "path": "./Songs/RISE MIX/PHYSALIS  - TAG",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pastry mix - Sobrem",
+                            "path": "./Songs/RISE MIX/Pastry mix - Sobrem",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Llv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pull me up (Feat. Monya) - Applesoda",
+                            "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Rise Up (feat. Miori Celesta) - memme",
+                            "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10109.png",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself  litmus ft.ssc",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself litmus ft Miori Celesta.mp3",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself litmus ft Miori Celesta.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Save Yourself  litmus ft. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Skybound - Yamajet",
+                            "path": "./Songs/RISE MIX/Skybound - Yamajet",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Sylaphz - onoken",
+                            "path": "./Songs/RISE MIX/Sylaphz - onoken",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10016.png",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Under the Christmas Stars - MAX.ssc",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Under the Christmas Stars - MAX",
+                            "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Unfelicitas - Fiverwater",
+                            "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single_Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/song.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "title.png",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "We Love Your Step - EmoCosine",
+                            "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+                            "type": "folder"
                         }
                     ],
                     "name": "ARCADE MIX",
@@ -60501,6 +61007,512 @@
                             "name": "(22)E000015A8-Christmas Memories",
                             "path": "./Songs/ORIGINAL/(22)E000015A8-Christmas Memories",
                             "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Antique Serenade - Abel",
+                            "path": "./Songs/RISE MIX/Antique Serenade - Abel",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Burning SuperNova.mp3",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Burning SuperNova.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Burning SuperNova feat. neur6sia - Palami",
+                            "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Chess and Chase - litmus ft. CielA",
+                            "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single_Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Cynical - RiraN ft. Negoto Bunnyla",
+                            "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "DROP FRONT!ER - xi",
+                            "path": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.6.ssc",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Entrance - ICE",
+                            "path": "./Songs/RISE MIX/Entrance - ICE",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Ercitite - Doin x neur6sia",
+                            "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv24.ssc",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Galactic Metronome - Essbee",
+                            "path": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Kings Tomb - r300k",
+                            "path": "./Songs/RISE MIX/Kings Tomb - r300k",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Lucky Star - INFX feat. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10045.png",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Morrighan - ryhki.ssc",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/SONG.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Morrighan - ryhki",
+                            "path": "./Songs/RISE MIX/Morrighan - ryhki",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "PHYSALIS  - TAG",
+                            "path": "./Songs/RISE MIX/PHYSALIS  - TAG",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pastry mix - Sobrem",
+                            "path": "./Songs/RISE MIX/Pastry mix - Sobrem",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Llv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pull me up (Feat. Monya) - Applesoda",
+                            "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Rise Up (feat. Miori Celesta) - memme",
+                            "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10109.png",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself  litmus ft.ssc",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself litmus ft Miori Celesta.mp3",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself litmus ft Miori Celesta.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Save Yourself  litmus ft. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Skybound - Yamajet",
+                            "path": "./Songs/RISE MIX/Skybound - Yamajet",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Sylaphz - onoken",
+                            "path": "./Songs/RISE MIX/Sylaphz - onoken",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10016.png",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Under the Christmas Stars - MAX.ssc",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Under the Christmas Stars - MAX",
+                            "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Unfelicitas - Fiverwater",
+                            "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single_Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/song.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "title.png",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "We Love Your Step - EmoCosine",
+                            "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+                            "type": "folder"
                         }
                     ],
                     "name": "SERIES ZONE",
@@ -99083,6 +100095,512 @@
                             "name": "(22)E000015A8-Christmas Memories",
                             "path": "./Songs/ORIGINAL/(22)E000015A8-Christmas Memories",
                             "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Antique Serenade - Abel",
+                            "path": "./Songs/RISE MIX/Antique Serenade - Abel",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Burning SuperNova.mp3",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Burning SuperNova.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Burning SuperNova feat. neur6sia - Palami",
+                            "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Chess and Chase - litmus ft. CielA",
+                            "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single_Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Cynical - RiraN ft. Negoto Bunnyla",
+                            "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "DROP FRONT!ER - xi",
+                            "path": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.6.ssc",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Entrance - ICE",
+                            "path": "./Songs/RISE MIX/Entrance - ICE",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Ercitite - Doin x neur6sia",
+                            "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv24.ssc",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Galactic Metronome - Essbee",
+                            "path": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Kings Tomb - r300k",
+                            "path": "./Songs/RISE MIX/Kings Tomb - r300k",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Lucky Star - INFX feat. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10045.png",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Morrighan - ryhki.ssc",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/SONG.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Morrighan - ryhki",
+                            "path": "./Songs/RISE MIX/Morrighan - ryhki",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "PHYSALIS  - TAG",
+                            "path": "./Songs/RISE MIX/PHYSALIS  - TAG",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pastry mix - Sobrem",
+                            "path": "./Songs/RISE MIX/Pastry mix - Sobrem",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Llv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pull me up (Feat. Monya) - Applesoda",
+                            "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Rise Up (feat. Miori Celesta) - memme",
+                            "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10109.png",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself  litmus ft.ssc",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself litmus ft Miori Celesta.mp3",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself litmus ft Miori Celesta.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Save Yourself  litmus ft. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Skybound - Yamajet",
+                            "path": "./Songs/RISE MIX/Skybound - Yamajet",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Sylaphz - onoken",
+                            "path": "./Songs/RISE MIX/Sylaphz - onoken",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10016.png",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Under the Christmas Stars - MAX.ssc",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Under the Christmas Stars - MAX",
+                            "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Unfelicitas - Fiverwater",
+                            "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single_Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/song.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "title.png",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "We Love Your Step - EmoCosine",
+                            "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+                            "type": "folder"
                         }
                     ],
                     "name": "DIFFICULTY ZONE SINGLE",
@@ -117825,6 +119343,512 @@
                             "name": "1751 - Nyan-turne (feat. KuTiNA)",
                             "path": "./Songs/NEW TUNES/1751 - Nyan-turne (feat. KuTiNA)",
                             "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Antique Serenade - Abel",
+                            "path": "./Songs/RISE MIX/Antique Serenade - Abel",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Burning SuperNova.mp3",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Burning SuperNova.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Burning SuperNova feat. neur6sia - Palami",
+                            "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Chess and Chase - litmus ft. CielA",
+                            "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single_Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Cynical - RiraN ft. Negoto Bunnyla",
+                            "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "DROP FRONT!ER - xi",
+                            "path": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.6.ssc",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Entrance - ICE",
+                            "path": "./Songs/RISE MIX/Entrance - ICE",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Ercitite - Doin x neur6sia",
+                            "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv24.ssc",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Galactic Metronome - Essbee",
+                            "path": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Kings Tomb - r300k",
+                            "path": "./Songs/RISE MIX/Kings Tomb - r300k",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Lucky Star - INFX feat. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10045.png",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Morrighan - ryhki.ssc",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/SONG.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Morrighan - ryhki",
+                            "path": "./Songs/RISE MIX/Morrighan - ryhki",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "PHYSALIS  - TAG",
+                            "path": "./Songs/RISE MIX/PHYSALIS  - TAG",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pastry mix - Sobrem",
+                            "path": "./Songs/RISE MIX/Pastry mix - Sobrem",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Llv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pull me up (Feat. Monya) - Applesoda",
+                            "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Rise Up (feat. Miori Celesta) - memme",
+                            "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10109.png",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself  litmus ft.ssc",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself litmus ft Miori Celesta.mp3",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself litmus ft Miori Celesta.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Save Yourself  litmus ft. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Skybound - Yamajet",
+                            "path": "./Songs/RISE MIX/Skybound - Yamajet",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Sylaphz - onoken",
+                            "path": "./Songs/RISE MIX/Sylaphz - onoken",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10016.png",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Under the Christmas Stars - MAX.ssc",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Under the Christmas Stars - MAX",
+                            "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Unfelicitas - Fiverwater",
+                            "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single_Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/song.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "title.png",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "We Love Your Step - EmoCosine",
+                            "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+                            "type": "folder"
                         }
                     ],
                     "name": "DIFFICULTY ZONE DOUBLE",
@@ -126900,7 +128924,514 @@
                     "virtual": false
                 },
                 {
-                    "children": [],
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Antique Serenade - Abel",
+                            "path": "./Songs/RISE MIX/Antique Serenade - Abel",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Burning SuperNova.mp3",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Burning SuperNova.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Burning SuperNova feat. neur6sia - Palami",
+                            "path": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "path": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Chess and Chase - litmus ft. CielA",
+                            "path": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single_Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/Single_Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Cynical - RiraN ft. Negoto Bunnyla",
+                            "path": "./Songs/RISE MIX/Cynical - RiraN ft. Negoto Bunnyla",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/DROP FRONT!ER - xi/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "DROP FRONT!ER - xi",
+                            "path": "./Songs/RISE MIX/DROP FRONT!ER - xi",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.6.ssc",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "path": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Entrance - ICE",
+                            "path": "./Songs/RISE MIX/Entrance - ICE",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.21.ssc",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Ercitite - Doin x neur6sia",
+                            "path": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv24.ssc",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Galactic Metronome - Essbee",
+                            "path": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Kings Tomb - r300k",
+                            "path": "./Songs/RISE MIX/Kings Tomb - r300k",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Lucky Star - INFX feat. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10045.png",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Morrighan - ryhki.ssc",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Morrighan - ryhki/SONG.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Morrighan - ryhki",
+                            "path": "./Songs/RISE MIX/Morrighan - ryhki",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.24.ssc",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/Single Lv.24.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/PHYSALIS  - TAG/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "PHYSALIS  - TAG",
+                            "path": "./Songs/RISE MIX/PHYSALIS  - TAG",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pastry mix - Sobrem/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pastry mix - Sobrem",
+                            "path": "./Songs/RISE MIX/Pastry mix - Sobrem",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single Llv.19.ssc",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/song.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Pull me up (Feat. Monya) - Applesoda",
+                            "path": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Rise Up (feat. Miori Celesta) - memme",
+                            "path": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10109.png",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself  litmus ft.ssc",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Save Yourself litmus ft Miori Celesta.mp3",
+                                    "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself litmus ft Miori Celesta.mp3",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Save Yourself  litmus ft. Miori Celesta",
+                            "path": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.20.ssc",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Skybound - Yamajet",
+                            "path": "./Songs/RISE MIX/Skybound - Yamajet",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.23.ssc",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/Single Lv.23.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Sylaphz - onoken/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Sylaphz - onoken",
+                            "path": "./Songs/RISE MIX/Sylaphz - onoken",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "10016.png",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/10016.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Under the Christmas Stars - MAX.ssc",
+                                    "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX/Under the Christmas Stars - MAX.ssc",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Under the Christmas Stars - MAX",
+                            "path": "./Songs/RISE MIX/Under the Christmas Stars - MAX",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "SONG.mp3",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/SONG.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Single Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "TITLE.png",
+                                    "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "Unfelicitas - Fiverwater",
+                            "path": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Single_Lv.22.ssc",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "song.mp3",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/song.mp3",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "title.png",
+                                    "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+                                    "type": "file"
+                                }
+                            ],
+                            "name": "We Love Your Step - EmoCosine",
+                            "path": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+                            "type": "folder"
+                        }
+                    ],
                     "name": "RISE MIX",
                     "path": "./Songs/RISE MIX",
                     "type": "folder",

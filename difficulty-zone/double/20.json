@@ -1513,10 +1513,50 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 897,
+        "name": "Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "songPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira",
+        "banner": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Can I friend you on Bassbook lol - Camellia & Nanahira/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 903,
+        "name": "Ercitite - Doin x neur6sia",
+        "songPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia",
+        "banner": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Ercitite - Doin x neur6sia/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 152,
         "name": "F24 - K.O.A. -Alice in Wonderworld-",
         "songPath": "./Songs/13-NX~NXA/F24 - K.O.A. -Alice in Wonderworld-",
         "banner": "./Songs/13-NX~NXA/F24 - K.O.A. -Alice in Wonderworld-/F24.webp",
         "sscPath": "./Songs/13-NX~NXA/F24 - K.O.A. -Alice in Wonderworld-/F24 - K.O.A. -Alice in Wonderworld-.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 907,
+        "name": "Morrighan - ryhki",
+        "songPath": "./Songs/RISE MIX/Morrighan - ryhki",
+        "banner": "./Songs/RISE MIX/Morrighan - ryhki/10045.png",
+        "sscPath": "./Songs/RISE MIX/Morrighan - ryhki/Morrighan - ryhki.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 913,
+        "name": "Skybound - Yamajet",
+        "songPath": "./Songs/RISE MIX/Skybound - Yamajet",
+        "banner": "./Songs/RISE MIX/Skybound - Yamajet/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Skybound - Yamajet/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 917,
+        "name": "We Love Your Step - EmoCosine",
+        "songPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine",
+        "banner": "./Songs/RISE MIX/We Love Your Step - EmoCosine/title.png",
+        "sscPath": "./Songs/RISE MIX/We Love Your Step - EmoCosine/Single_Lv.22.ssc"
     }
 ]

@@ -1065,6 +1065,22 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 896,
+        "name": "Burning SuperNova feat. neur6sia - Palami",
+        "songPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+        "banner": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 902,
+        "name": "Entrance - ICE",
+        "songPath": "./Songs/RISE MIX/Entrance - ICE",
+        "banner": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 137,
         "name": "F09 - Chocolate",
         "songPath": "./Songs/13-NX~NXA/F09 - Chocolate",

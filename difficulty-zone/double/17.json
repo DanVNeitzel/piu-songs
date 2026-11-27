@@ -1201,6 +1201,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 895,
+        "name": "Antique Serenade - Abel",
+        "songPath": "./Songs/RISE MIX/Antique Serenade - Abel",
+        "banner": "./Songs/RISE MIX/Antique Serenade - Abel/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Antique Serenade - Abel/Single Lv.21.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 896,
+        "name": "Burning SuperNova feat. neur6sia - Palami",
+        "songPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami",
+        "banner": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Burning SuperNova feat. neur6sia - Palami/Single Lv.23.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 898,
+        "name": "Chess and Chase - litmus ft. CielA",
+        "songPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+        "banner": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 129,
         "name": "F01 - Blaze Emotion",
         "songPath": "./Songs/13-NX~NXA/F01 - Blaze Emotion",
@@ -1230,5 +1254,29 @@
         "songPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy",
         "banner": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80.webp",
         "sscPath": "./Songs/13-NX~NXA/F80 - In Your Fantasy/F80 - In Your Fantasy.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 910,
+        "name": "Pull me up (Feat. Monya) - Applesoda",
+        "songPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+        "banner": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 911,
+        "name": "Rise Up (feat. Miori Celesta) - memme",
+        "songPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme",
+        "banner": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Rise Up (feat. Miori Celesta) - memme/Single Lv.22.ssc"
     }
 ]

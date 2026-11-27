@@ -1169,6 +1169,30 @@
     },
     {
         "stageIndex": 0,
+        "songIndex": 898,
+        "name": "Chess and Chase - litmus ft. CielA",
+        "songPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA",
+        "banner": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Chess and Chase - litmus ft. CielA/Single Lv.20.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 901,
+        "name": "Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "songPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221",
+        "banner": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Dizzy Dance, Street Light - WyvernP feat. Chobom1221/Single Lv.6.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 902,
+        "name": "Entrance - ICE",
+        "songPath": "./Songs/RISE MIX/Entrance - ICE",
+        "banner": "./Songs/RISE MIX/Entrance - ICE/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Entrance - ICE/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
         "songIndex": 151,
         "name": "F23 - Dj Otada",
         "songPath": "./Songs/13-NX~NXA/F23 - Dj Otada",
@@ -1198,5 +1222,53 @@
         "songPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X",
         "banner": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X/F29.webp",
         "sscPath": "./Songs/13-NX~NXA/F29 - Final Audition Episode 2-X/F29 - Final Audition Episode 2-X.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 904,
+        "name": "Galactic Metronome - Essbee",
+        "songPath": "./Songs/RISE MIX/Galactic Metronome - Essbee",
+        "banner": "./Songs/RISE MIX/Galactic Metronome - Essbee/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Galactic Metronome - Essbee/Single Lv24.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 905,
+        "name": "Kings Tomb - r300k",
+        "songPath": "./Songs/RISE MIX/Kings Tomb - r300k",
+        "banner": "./Songs/RISE MIX/Kings Tomb - r300k/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Kings Tomb - r300k/Single Lv.22.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 906,
+        "name": "Lucky Star - INFX feat. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Lucky Star - INFX feat. Miori Celesta/Single Lv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 910,
+        "name": "Pull me up (Feat. Monya) - Applesoda",
+        "songPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda",
+        "banner": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Pull me up (Feat. Monya) - Applesoda/Single Llv.19.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 912,
+        "name": "Save Yourself  litmus ft. Miori Celesta",
+        "songPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta",
+        "banner": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/10109.png",
+        "sscPath": "./Songs/RISE MIX/Save Yourself  litmus ft. Miori Celesta/Save Yourself  litmus ft.ssc"
+    },
+    {
+        "stageIndex": 0,
+        "songIndex": 916,
+        "name": "Unfelicitas - Fiverwater",
+        "songPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater",
+        "banner": "./Songs/RISE MIX/Unfelicitas - Fiverwater/TITLE.png",
+        "sscPath": "./Songs/RISE MIX/Unfelicitas - Fiverwater/Single Lv.22.ssc"
     }
 ]
